@@ -21,5 +21,7 @@ mono_crash.*.json
 # Cursorignore
 .cursorignore
 
+*.import
+
 
 

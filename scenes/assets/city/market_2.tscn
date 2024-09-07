@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://b8rswdwwuw8lx"]
 
-[ext_resource type="Texture2D" uid="uid://bb2kp8vegxayy" path="res://assets/exteriors-need-to-sort/Tileset_11_MV.png" id="1_hmrub"]
+[ext_resource type="Texture2D" uid="uid://cugbl2nv5bx13" path="res://assets/exteriors/Tileset_11_MV.png" id="1_hmrub"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_pfved"]
 size = Vector2(78, 4.66667)

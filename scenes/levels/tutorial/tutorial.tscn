@@ -1,10 +1,10 @@
-[gd_scene load_steps=16 format=4 uid="uid://cgflags2qkaqk"]
+[gd_scene load_steps=17 format=4 uid="uid://cgflags2qkaqk"]
 
 [ext_resource type="PackedScene" uid="uid://dtuqd5vhs02hq" path="res://scenes/levels/base_level.tscn" id="1_uuclo"]
 [ext_resource type="PackedScene" uid="uid://c0vrjl7hny7ab" path="res://scenes/backgrounds/parallax_background_city_day.tscn" id="2_es5dq"]
 [ext_resource type="PackedScene" uid="uid://cx6hyjsuond68" path="res://scenes/enemies/crows/enemy_crow.tscn" id="3_0yy84"]
 [ext_resource type="Shader" path="res://scripts/Shaders/rainbow_LtR.gdshader" id="4_ox2q5"]
-[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://assets/fonts/Early GameBoy.ttf" id="5_255nv"]
+[ext_resource type="FontFile" uid="uid://dj6kf1j66vxpa" path="res://assets/fonts/Early GameBoy.ttf" id="5_255nv"]
 [ext_resource type="PackedScene" uid="uid://b8rswdwwuw8lx" path="res://scenes/assets/city/market_2.tscn" id="5_rk5lf"]
 [ext_resource type="PackedScene" uid="uid://4032i2cdwi0o" path="res://scenes/assets/city/house_1.tscn" id="6_7trx2"]
 [ext_resource type="PackedScene" uid="uid://18mbs1sl0ir3" path="res://scenes/assets/city/gym_1.tscn" id="6_8peqo"]
@@ -13,6 +13,8 @@
 [ext_resource type="PackedScene" uid="uid://gn2dwha8hhv3" path="res://scenes/assets/city/ice.tscn" id="8_6tdxw"]
 [ext_resource type="PackedScene" uid="uid://bj7eaxh87hf86" path="res://scenes/assets/city/tree.tscn" id="9_nieon"]
 [ext_resource type="PackedScene" uid="uid://dfgs87qd4jlv6" path="res://scenes/enemies/dogs/enemy_dog.tscn" id="11_e3tm8"]
+
+[sub_resource type="TileSet" id="TileSet_yq24u"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_4vbbf"]
 shader = ExtResource("4_ox2q5")
@@ -41,26 +43,25 @@ outline_color = Color(0, 0, 0, 1)
 [node name="House1" parent="PhysicsLayer" index="0" instance=ExtResource("6_7trx2")]
 
 [node name="Market1" parent="PhysicsLayer" index="1" instance=ExtResource("7_tf1pw")]
-position = Vector2(594, -71)
+position = Vector2(594, -78)
 
 [node name="Market2" parent="PhysicsLayer" index="2" instance=ExtResource("5_rk5lf")]
-position = Vector2(1052, -74)
+position = Vector2(1034, -72)
 
 [node name="Gym1" parent="PhysicsLayer" index="3" instance=ExtResource("6_8peqo")]
-position = Vector2(1627, -113)
+position = Vector2(1649, -111)
 
 [node name="GarbageCan1" parent="PhysicsLayer" index="4" instance=ExtResource("7_ey53o")]
-position = Vector2(1451, -58)
+position = Vector2(1473, -56)
 
 [node name="Ice" parent="PhysicsLayer" index="5" instance=ExtResource("8_6tdxw")]
 
 [node name="Tree" parent="PhysicsLayer" index="6" instance=ExtResource("9_nieon")]
-position = Vector2(2024, -69)
-scale = Vector2(2.5, 2.5)
+position = Vector2(2054, -72)
 
 [node name="TileMapLayer2" parent="." index="2"]
 scale = Vector2(0.75, 0.75)
-tile_map_data = PackedByteArray("AAANANz/DQADAAMAAAAYANn/DQAOAAAAAAAtAPX/CwAGABAAAAAuAPX/CwAHABAAAAAvAPX/CwAIABAAAAAvAPj/CwAIABMAAAAwAPX/CwAJABAAAAAwAPj/CwAJABMAAAAxAPX/CwAKABAAAAAxAPj/CwAKABMAAAAyAPX/CwALABAAAAAyAPj/CwALABMAAAAzAPX/CwAMABAAAAAzAPj/CwAMABMAAAA0APX/CwANABAAAAA1APX/CwAOABAAAAA2APX/CwAPABAAAAA3APX/CwAQABAAAAA4APX/CwARABAAAAAtAPT/CwAGAA8AAAAuAPT/CwAHAA8AAAAvAPT/CwAIAA8AAAAwAPT/CwAJAA8AAAAxAPT/CwAKAA8AAAAyAPT/CwALAA8AAAAzAPT/CwAMAA8AAAA0APT/CwANAA8AAABNAPn/CQAbACMAAABNAPr/CQAbACQAAABNAPv/CQAbACUAAABNAPz/CQAbACYAAABNAP3/CQAbACcAAABOAPn/CQAcACMAAABOAPr/CQAcACQAAABOAPv/CQAcACUAAABOAPz/CQAcACYAAABOAP3/CQAcACcAAABOAP//CQAcACkAAABPAPr/CQAdACQAAABPAPv/CQAdACUAAABPAPz/CQAdACYAAABPAP//CQAdACkAAABNAP//CQAbACkAAABNAP7/CQAbACgAAABOAP7/CQAcACgAAABdAPX/AAAqACMAAABdAPb/AAAqACQAAABdAPf/AAAqACUAAABfAPb/AAArACMAAABfAPf/AAArACQAAABgAPX/AAAsACIAAABgAPf/AAAsACQAAABgAPj/AAAsACUAAABhAPX/AAAtACIAAABhAPb/AAAtACMAAABhAPf/AAAtACQAAABhAPj/AAAtACUAAABhAPn/AAAtACYAAABhAP7/AAAtACsAAABiAPX/AAAuACIAAABiAP3/AAAuACoAAABiAP7/AAAuACsAAABfAPX/AAArACIAAABfAPj/AAArACUAAABhAP//AAAtACwAAABiAPb/AAAuACMAAABiAPf/AAAuACQAAABiAPj/AAAuACUAAABiAPn/AAAuACYAAABiAPr/AAAuACcAAABiAPv/AAAuACgAAABiAPz/AAAuACkAAABiAP//AAAuACwAAABjAPX/AAAvACIAAABjAPb/AAAvACMAAABjAP7/AAAvACsAAABjAP//AAAvACwAAAA1APT/CwAOAA8AAAA=")
+tile_set = SubResource("TileSet_yq24u")
 collision_visibility_mode = 1
 
 [node name="TileMapLayer" parent="." index="3"]

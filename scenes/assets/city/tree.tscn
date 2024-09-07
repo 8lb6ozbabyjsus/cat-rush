@@ -1,11 +1,12 @@
 [gd_scene load_steps=3 format=3 uid="uid://bj7eaxh87hf86"]
 
-[ext_resource type="Texture2D" uid="uid://bnbxmriowhpx2" path="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Tree_28.png" id="1_cy2qp"]
+[ext_resource type="Texture2D" uid="uid://i4q8dfhfsjue" path="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Tree_28.png" id="1_cy2qp"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_4pqiq"]
 size = Vector2(61, 34)
 
 [node name="Tree" type="Sprite2D"]
+scale = Vector2(2.5, 2.5)
 texture = ExtResource("1_cy2qp")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]

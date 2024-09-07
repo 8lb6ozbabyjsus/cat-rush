@@ -15,9 +15,4 @@ data_*/
 mono_crash.*.json
 /android/
 
-<<<<<<< HEAD
 .vscode/
-=======
-.vscode/
-
->>>>>>> 3eb9bc657692f5e893117b2993d6f72c1f649720

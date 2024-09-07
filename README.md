@@ -41,5 +41,3 @@ The game is built using various scenes and scripts. Key components include:
 - Developed using Godot Engine by Dalton Walker <walkerdalton@yahoo.com>
 - Pixel art assets (characters, backgrounds, and UI elements)
 - "Early GameBoy" font used for UI text
-
-

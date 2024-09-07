@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://iimutbw653as"
-path="res://.godot/imported/ME_Singles_Camping_16x16_Backpack_11.png-0d5c51c3ad11399a2c46590f4a98532b.ctex"
+path="res://.godot/imported/ME_Singles_Camping_16x16_Backpack_11.png-9627d1eab19c453ac070c54d19ddb5a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Backpack_11.png"
-dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Backpack_11.png-0d5c51c3ad11399a2c46590f4a98532b.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Backpack_11.png"
+dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Backpack_11.png-9627d1eab19c453ac070c54d19ddb5a7.ctex"]
 
 [params]
 

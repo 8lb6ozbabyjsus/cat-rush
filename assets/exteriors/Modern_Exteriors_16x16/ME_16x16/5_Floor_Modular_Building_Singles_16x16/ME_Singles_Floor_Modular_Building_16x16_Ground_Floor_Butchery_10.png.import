@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qobst7mq2liw"
-path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Butchery_10.png-4824b0a19cbb82b0a4a1622fb858cedd.ctex"
+path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Butchery_10.png-2607cdbaaf8b19432419d7d2b462544a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/5_Floor_Modular_Building_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Butchery_10.png"
-dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Butchery_10.png-4824b0a19cbb82b0a4a1622fb858cedd.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/5_Floor_Modular_Building_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Butchery_10.png"
+dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Butchery_10.png-2607cdbaaf8b19432419d7d2b462544a.ctex"]
 
 [params]
 

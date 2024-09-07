@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwxwcifyjgbvf"
-path="res://.godot/imported/Fire_Station_Door_Roof_16x16.png-877516f2587e5d12571ad1f716a9f714.ctex"
+path="res://.godot/imported/Fire_Station_Door_Roof_16x16.png-a50e729ea240f499f55904fb56b29993.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_gifs_16x16/Fire_Station_Door_Roof_16x16.png"
-dest_files=["res://.godot/imported/Fire_Station_Door_Roof_16x16.png-877516f2587e5d12571ad1f716a9f714.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_gifs_16x16/Fire_Station_Door_Roof_16x16.png"
+dest_files=["res://.godot/imported/Fire_Station_Door_Roof_16x16.png-a50e729ea240f499f55904fb56b29993.ctex"]
 
 [params]
 

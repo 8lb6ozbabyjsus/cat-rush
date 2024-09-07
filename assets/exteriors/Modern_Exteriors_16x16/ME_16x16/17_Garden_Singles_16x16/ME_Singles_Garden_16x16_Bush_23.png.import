@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxjsuu3g7bcbj"
-path="res://.godot/imported/ME_Singles_Garden_16x16_Bush_23.png-38f1c05e40f8c8545f392c820773f83b.ctex"
+path="res://.godot/imported/ME_Singles_Garden_16x16_Bush_23.png-9371111023921cde86970e6edbdd190f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/17_Garden_Singles_16x16/ME_Singles_Garden_16x16_Bush_23.png"
-dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Bush_23.png-38f1c05e40f8c8545f392c820773f83b.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/17_Garden_Singles_16x16/ME_Singles_Garden_16x16_Bush_23.png"
+dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Bush_23.png-9371111023921cde86970e6edbdd190f.ctex"]
 
 [params]
 

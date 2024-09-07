@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqbk7qq7i8m1t"
-path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Music_Store_8.png-aa045d66544ad7f14345139feaed205e.ctex"
+path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Music_Store_8.png-4abb4bc08e6355376592394d5c9ab698.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/5_Floor_Modular_Building_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Music_Store_8.png"
-dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Music_Store_8.png-aa045d66544ad7f14345139feaed205e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/5_Floor_Modular_Building_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Music_Store_8.png"
+dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Music_Store_8.png-4abb4bc08e6355376592394d5c9ab698.ctex"]
 
 [params]
 

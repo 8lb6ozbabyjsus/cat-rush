@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c85ra1l1thpbl"
-path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Gym_3.png-1cbf3e42533658b4ca6039983a113be9.ctex"
+path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Gym_3.png-507a4754b526c3689e8474b4f049d541.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/5_Floor_Modular_Building_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Gym_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Gym_3.png-1cbf3e42533658b4ca6039983a113be9.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/5_Floor_Modular_Building_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Gym_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Gym_3.png-507a4754b526c3689e8474b4f049d541.ctex"]
 
 [params]
 

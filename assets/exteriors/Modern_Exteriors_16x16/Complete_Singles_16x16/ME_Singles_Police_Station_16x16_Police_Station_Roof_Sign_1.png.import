@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq6ao4msb0hgc"
-path="res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Roof_Sign_1.png-69e28c995eac3f8c21de02d8713146b4.ctex"
+path="res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Roof_Sign_1.png-44e3638d7dc54b92f65b5ea597125de0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Police_Station_16x16_Police_Station_Roof_Sign_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Roof_Sign_1.png-69e28c995eac3f8c21de02d8713146b4.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Police_Station_16x16_Police_Station_Roof_Sign_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Roof_Sign_1.png-44e3638d7dc54b92f65b5ea597125de0.ctex"]
 
 [params]
 

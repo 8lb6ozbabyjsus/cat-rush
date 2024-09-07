@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0hnd8gmi3ysi"
-path="res://.godot/imported/Floating_Dragon_3_16x16.png-3c7663c20ff3569c61686c92c9a9d99d.ctex"
+path="res://.godot/imported/Floating_Dragon_3_16x16.png-929f034cc2f3e74004252d6978e45bc7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Dragon_3_16x16.png"
-dest_files=["res://.godot/imported/Floating_Dragon_3_16x16.png-3c7663c20ff3569c61686c92c9a9d99d.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Dragon_3_16x16.png"
+dest_files=["res://.godot/imported/Floating_Dragon_3_16x16.png-929f034cc2f3e74004252d6978e45bc7.ctex"]
 
 [params]
 

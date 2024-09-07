@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0gorqpurq5i8"
-path="res://.godot/imported/ME_Singles_Worksite_16x16_Excavator_3.png-e210d5258ca755c907e45b68d1f88ef2.ctex"
+path="res://.godot/imported/ME_Singles_Worksite_16x16_Excavator_3.png-529a21b0ce6b64d8772ca754be7f288a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Worksite_16x16_Excavator_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Excavator_3.png-e210d5258ca755c907e45b68d1f88ef2.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Worksite_16x16_Excavator_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Excavator_3.png-529a21b0ce6b64d8772ca754be7f288a.ctex"]
 
 [params]
 

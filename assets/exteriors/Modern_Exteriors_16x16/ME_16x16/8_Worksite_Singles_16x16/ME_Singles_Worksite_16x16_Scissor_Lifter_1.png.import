@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db1mt8tuqwvlw"
-path="res://.godot/imported/ME_Singles_Worksite_16x16_Scissor_Lifter_1.png-1625085e9465f8e05b4041c3e2c264cc.ctex"
+path="res://.godot/imported/ME_Singles_Worksite_16x16_Scissor_Lifter_1.png-90af079a1aa7e7a2d6c1c176619dcb39.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/8_Worksite_Singles_16x16/ME_Singles_Worksite_16x16_Scissor_Lifter_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Scissor_Lifter_1.png-1625085e9465f8e05b4041c3e2c264cc.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/8_Worksite_Singles_16x16/ME_Singles_Worksite_16x16_Scissor_Lifter_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Scissor_Lifter_1.png-90af079a1aa7e7a2d6c1c176619dcb39.ctex"]
 
 [params]
 

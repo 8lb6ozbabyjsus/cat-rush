@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqhjorwrb2mhn"
-path="res://.godot/imported/8_Worksite_16x16.png-c3f8d1b2fc97d5e6e2f3e07fbea0b4d5.ctex"
+path="res://.godot/imported/8_Worksite_16x16.png-3bfb90a9ed46b869ce8f8b96cea96d46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/8_Worksite_16x16.png"
-dest_files=["res://.godot/imported/8_Worksite_16x16.png-c3f8d1b2fc97d5e6e2f3e07fbea0b4d5.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/8_Worksite_16x16.png"
+dest_files=["res://.godot/imported/8_Worksite_16x16.png-3bfb90a9ed46b869ce8f8b96cea96d46.ctex"]
 
 [params]
 

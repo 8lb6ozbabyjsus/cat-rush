@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8gj2erw8n0pi"
-path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Bait_Shop_Modular_6.png-c6feacc20cf70e89b537270891f28641.ctex"
+path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Bait_Shop_Modular_6.png-e244573a10f9f7c631cdf422568c7409.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Bait_Shop_Modular_6.png"
-dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Bait_Shop_Modular_6.png-c6feacc20cf70e89b537270891f28641.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Bait_Shop_Modular_6.png"
+dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Ground_Floor_Bait_Shop_Modular_6.png-e244573a10f9f7c631cdf422568c7409.ctex"]
 
 [params]
 

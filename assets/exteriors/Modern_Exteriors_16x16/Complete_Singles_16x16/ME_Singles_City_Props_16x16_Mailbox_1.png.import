@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnms8d3yrnipf"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Mailbox_1.png-f7bcf5847f2e8a6a46b44187e3e05952.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Mailbox_1.png-d28f37961f1dde630a110d92811cf5a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Mailbox_1.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Mailbox_1.png-f7bcf5847f2e8a6a46b44187e3e05952.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Mailbox_1.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Mailbox_1.png-d28f37961f1dde630a110d92811cf5a3.ctex"]
 
 [params]
 

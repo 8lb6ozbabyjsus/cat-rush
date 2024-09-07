@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnh1e385ts8s3"
-path="res://.godot/imported/Garden_Fountain_4_Turn_On_16x16.png-4b149477f1a8f22eaccf2a02a856a9cd.ctex"
+path="res://.godot/imported/Garden_Fountain_4_Turn_On_16x16.png-9ef40ac5f1aeb578daca7e94a8a066e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Garden_Fountain_4_Turn_On_16x16.png"
-dest_files=["res://.godot/imported/Garden_Fountain_4_Turn_On_16x16.png-4b149477f1a8f22eaccf2a02a856a9cd.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Garden_Fountain_4_Turn_On_16x16.png"
+dest_files=["res://.godot/imported/Garden_Fountain_4_Turn_On_16x16.png-9ef40ac5f1aeb578daca7e94a8a066e9.ctex"]
 
 [params]
 

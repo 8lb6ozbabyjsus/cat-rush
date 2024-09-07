@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8s540v6pgksm"
-path="res://.godot/imported/ME_Singles_Terrains_and_Fences_16x16_Fence_1_10.png-10241642d30aad3b70ea222127f737b4.ctex"
+path="res://.godot/imported/ME_Singles_Terrains_and_Fences_16x16_Fence_1_10.png-906b4b3fcc6835f74caddf17f2756598.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/1_Terrains_and_Fences_Singles_16x16/ME_Singles_Terrains_and_Fences_16x16_Fence_1_10.png"
-dest_files=["res://.godot/imported/ME_Singles_Terrains_and_Fences_16x16_Fence_1_10.png-10241642d30aad3b70ea222127f737b4.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/1_Terrains_and_Fences_Singles_16x16/ME_Singles_Terrains_and_Fences_16x16_Fence_1_10.png"
+dest_files=["res://.godot/imported/ME_Singles_Terrains_and_Fences_16x16_Fence_1_10.png-906b4b3fcc6835f74caddf17f2756598.ctex"]
 
 [params]
 

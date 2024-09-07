@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fpuve311v7dj"
-path="res://.godot/imported/Subway_Homeless_3_16x16.png-a9e82822c09929b765a781cecdeda830.ctex"
+path="res://.godot/imported/Subway_Homeless_3_16x16.png-29987f3422409f7b0304174d38447331.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Subway_Homeless_3_16x16.png"
-dest_files=["res://.godot/imported/Subway_Homeless_3_16x16.png-a9e82822c09929b765a781cecdeda830.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Subway_Homeless_3_16x16.png"
+dest_files=["res://.godot/imported/Subway_Homeless_3_16x16.png-29987f3422409f7b0304174d38447331.ctex"]
 
 [params]
 

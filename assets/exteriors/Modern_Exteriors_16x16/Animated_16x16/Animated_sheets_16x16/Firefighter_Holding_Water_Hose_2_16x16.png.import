@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjxr77swtawv"
-path="res://.godot/imported/Firefighter_Holding_Water_Hose_2_16x16.png-83cfcc8ea12d5161690b7b3255f7862f.ctex"
+path="res://.godot/imported/Firefighter_Holding_Water_Hose_2_16x16.png-451634112de8ef42d5cefee3008dc3d6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Firefighter_Holding_Water_Hose_2_16x16.png"
-dest_files=["res://.godot/imported/Firefighter_Holding_Water_Hose_2_16x16.png-83cfcc8ea12d5161690b7b3255f7862f.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Firefighter_Holding_Water_Hose_2_16x16.png"
+dest_files=["res://.godot/imported/Firefighter_Holding_Water_Hose_2_16x16.png-451634112de8ef42d5cefee3008dc3d6.ctex"]
 
 [params]
 

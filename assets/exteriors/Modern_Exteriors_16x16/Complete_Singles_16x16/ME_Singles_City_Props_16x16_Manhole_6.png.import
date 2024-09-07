@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch7dv2xfmf15i"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Manhole_6.png-caf488aa35bc702d95358eece102fddb.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Manhole_6.png-3b72cb0a51085acfd0ca80db0cd6e8c4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Manhole_6.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Manhole_6.png-caf488aa35bc702d95358eece102fddb.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Manhole_6.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Manhole_6.png-3b72cb0a51085acfd0ca80db0cd6e8c4.ctex"]
 
 [params]
 

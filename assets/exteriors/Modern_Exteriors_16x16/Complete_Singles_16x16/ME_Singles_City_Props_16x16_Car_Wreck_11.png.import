@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgkpthfcypx0t"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Car_Wreck_11.png-6ce55aec6062a8da6d6d4671124cdcc2.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Car_Wreck_11.png-d3493e290f15b849014772ea45299cfb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Car_Wreck_11.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Car_Wreck_11.png-6ce55aec6062a8da6d6d4671124cdcc2.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Car_Wreck_11.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Car_Wreck_11.png-d3493e290f15b849014772ea45299cfb.ctex"]
 
 [params]
 

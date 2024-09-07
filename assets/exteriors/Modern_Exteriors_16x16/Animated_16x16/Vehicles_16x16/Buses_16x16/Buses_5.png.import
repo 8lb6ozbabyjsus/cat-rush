@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmq45t2q8vi8v"
-path="res://.godot/imported/Buses_5.png-3b6aa2380f19dee988d00bea67c7ad52.ctex"
+path="res://.godot/imported/Buses_5.png-b75bfec7b2a538fc9cecc4fea0f77c94.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Buses_16x16/Buses_5.png"
-dest_files=["res://.godot/imported/Buses_5.png-3b6aa2380f19dee988d00bea67c7ad52.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Buses_16x16/Buses_5.png"
+dest_files=["res://.godot/imported/Buses_5.png-b75bfec7b2a538fc9cecc4fea0f77c94.ctex"]
 
 [params]
 

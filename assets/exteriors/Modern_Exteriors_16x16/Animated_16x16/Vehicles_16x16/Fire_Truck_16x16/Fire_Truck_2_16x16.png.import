@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddflx3q4hawce"
-path="res://.godot/imported/Fire_Truck_2_16x16.png-2964ea1773f4f55a364e2affd069e558.ctex"
+path="res://.godot/imported/Fire_Truck_2_16x16.png-e8ec6813a732880d038cb1114162c9e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Fire_Truck_16x16/Fire_Truck_2_16x16.png"
-dest_files=["res://.godot/imported/Fire_Truck_2_16x16.png-2964ea1773f4f55a364e2affd069e558.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Fire_Truck_16x16/Fire_Truck_2_16x16.png"
+dest_files=["res://.godot/imported/Fire_Truck_2_16x16.png-e8ec6813a732880d038cb1114162c9e2.ctex"]
 
 [params]
 

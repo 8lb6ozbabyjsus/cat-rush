@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dihhodxm1pbcn"
-path="res://.godot/imported/Graveyard_Haunted_Tree_Laugh_16x16.png-dc02bf558a1e7fe842c380257f1863d0.ctex"
+path="res://.godot/imported/Graveyard_Haunted_Tree_Laugh_16x16.png-3d5de3b1d5c49b0db827f22ddd3025e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Graveyard_Haunted_Tree_Laugh_16x16.png"
-dest_files=["res://.godot/imported/Graveyard_Haunted_Tree_Laugh_16x16.png-dc02bf558a1e7fe842c380257f1863d0.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Graveyard_Haunted_Tree_Laugh_16x16.png"
+dest_files=["res://.godot/imported/Graveyard_Haunted_Tree_Laugh_16x16.png-3d5de3b1d5c49b0db827f22ddd3025e9.ctex"]
 
 [params]
 

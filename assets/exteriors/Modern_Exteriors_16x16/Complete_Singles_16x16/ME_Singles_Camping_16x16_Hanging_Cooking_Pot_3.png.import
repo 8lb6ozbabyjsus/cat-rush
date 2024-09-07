@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1fxo3p27an88"
-path="res://.godot/imported/ME_Singles_Camping_16x16_Hanging_Cooking_Pot_3.png-573f1219a218cec7e3bdef7c0ca9dffa.ctex"
+path="res://.godot/imported/ME_Singles_Camping_16x16_Hanging_Cooking_Pot_3.png-231ca00a1fae0c491e39707d1bafcc07.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Camping_16x16_Hanging_Cooking_Pot_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Hanging_Cooking_Pot_3.png-573f1219a218cec7e3bdef7c0ca9dffa.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Camping_16x16_Hanging_Cooking_Pot_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Hanging_Cooking_Pot_3.png-231ca00a1fae0c491e39707d1bafcc07.ctex"]
 
 [params]
 

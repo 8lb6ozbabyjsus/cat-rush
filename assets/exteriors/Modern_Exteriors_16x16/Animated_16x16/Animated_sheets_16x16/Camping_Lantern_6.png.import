@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://decle4domnqvp"
-path="res://.godot/imported/Camping_Lantern_6.png-9c4b096bf48e4f9559636ed774904410.ctex"
+path="res://.godot/imported/Camping_Lantern_6.png-3817391929789c792e83f7603ea1cf1b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Camping_Lantern_6.png"
-dest_files=["res://.godot/imported/Camping_Lantern_6.png-9c4b096bf48e4f9559636ed774904410.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Camping_Lantern_6.png"
+dest_files=["res://.godot/imported/Camping_Lantern_6.png-3817391929789c792e83f7603ea1cf1b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1uslpnyc7cxj"
-path="res://.godot/imported/Delivery_Truck_16x16.png-2288f158cd9a399dd9b1a47a36251d72.ctex"
+path="res://.godot/imported/Delivery_Truck_16x16.png-3f9655aae4636775378b9c61547360c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Delivery_Truck_16x16.png"
-dest_files=["res://.godot/imported/Delivery_Truck_16x16.png-2288f158cd9a399dd9b1a47a36251d72.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Delivery_Truck_16x16.png"
+dest_files=["res://.godot/imported/Delivery_Truck_16x16.png-3f9655aae4636775378b9c61547360c0.ctex"]
 
 [params]
 

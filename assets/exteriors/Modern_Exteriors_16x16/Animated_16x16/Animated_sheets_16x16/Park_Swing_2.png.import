@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7hy0xibftryi"
-path="res://.godot/imported/Park_Swing_2.png-6f7a3d9dc4fd3bb1a8f54931a2d33090.ctex"
+path="res://.godot/imported/Park_Swing_2.png-60dbc1cc0b474ef078be102669710424.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Park_Swing_2.png"
-dest_files=["res://.godot/imported/Park_Swing_2.png-6f7a3d9dc4fd3bb1a8f54931a2d33090.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Park_Swing_2.png"
+dest_files=["res://.godot/imported/Park_Swing_2.png-60dbc1cc0b474ef078be102669710424.ctex"]
 
 [params]
 

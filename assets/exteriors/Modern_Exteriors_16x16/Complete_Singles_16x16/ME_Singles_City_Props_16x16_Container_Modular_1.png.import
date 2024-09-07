@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jqojy4odqnuq"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Container_Modular_1.png-e5394a374d6a54f25f9c629d536725dc.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Container_Modular_1.png-f542b86b69dcd2211c663919010ae81b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Container_Modular_1.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Container_Modular_1.png-e5394a374d6a54f25f9c629d536725dc.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Container_Modular_1.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Container_Modular_1.png-f542b86b69dcd2211c663919010ae81b.ctex"]
 
 [params]
 

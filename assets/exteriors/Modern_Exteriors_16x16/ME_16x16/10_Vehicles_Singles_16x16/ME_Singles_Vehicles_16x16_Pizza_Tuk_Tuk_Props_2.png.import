@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sv51b6penvsh"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Pizza_Tuk_Tuk_Props_2.png-834830fd276c43677433e0a92c148aa1.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Pizza_Tuk_Tuk_Props_2.png-f83108ad47add449be2ce19ba1a8f8c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Pizza_Tuk_Tuk_Props_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Pizza_Tuk_Tuk_Props_2.png-834830fd276c43677433e0a92c148aa1.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Pizza_Tuk_Tuk_Props_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Pizza_Tuk_Tuk_Props_2.png-f83108ad47add449be2ce19ba1a8f8c8.ctex"]
 
 [params]
 

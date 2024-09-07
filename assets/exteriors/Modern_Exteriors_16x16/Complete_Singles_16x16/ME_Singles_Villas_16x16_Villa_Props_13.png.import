@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://driu0d0oigo84"
-path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Props_13.png-8737ded9d96772456912f4091aaccc64.ctex"
+path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Props_13.png-4fb582f581c097a8f377e16f9439f78e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Villas_16x16_Villa_Props_13.png"
-dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Props_13.png-8737ded9d96772456912f4091aaccc64.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Villas_16x16_Villa_Props_13.png"
+dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Props_13.png-4fb582f581c097a8f377e16f9439f78e.ctex"]
 
 [params]
 

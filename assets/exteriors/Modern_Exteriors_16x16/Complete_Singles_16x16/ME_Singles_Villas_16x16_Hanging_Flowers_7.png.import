@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpvty8jknsnyb"
-path="res://.godot/imported/ME_Singles_Villas_16x16_Hanging_Flowers_7.png-4cd605af855271d36717e577fb54cfea.ctex"
+path="res://.godot/imported/ME_Singles_Villas_16x16_Hanging_Flowers_7.png-9dafa6bf9fbffb2520bb31a597dacd5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Villas_16x16_Hanging_Flowers_7.png"
-dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Hanging_Flowers_7.png-4cd605af855271d36717e577fb54cfea.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Villas_16x16_Hanging_Flowers_7.png"
+dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Hanging_Flowers_7.png-9dafa6bf9fbffb2520bb31a597dacd5e.ctex"]
 
 [params]
 

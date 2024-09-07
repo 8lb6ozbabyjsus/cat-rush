@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv8ji57ue77yc"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Hot_Dog_Cart_4.png-f0296d4f1eaaeba84117645acdd1dfe4.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Hot_Dog_Cart_4.png-4f11d700e8e341e1401e772f762585ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Hot_Dog_Cart_4.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Hot_Dog_Cart_4.png-f0296d4f1eaaeba84117645acdd1dfe4.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Hot_Dog_Cart_4.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Hot_Dog_Cart_4.png-4f11d700e8e341e1401e772f762585ff.ctex"]
 
 [params]
 

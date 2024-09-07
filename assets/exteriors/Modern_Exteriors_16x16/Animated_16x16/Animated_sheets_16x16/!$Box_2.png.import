@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgtfbjfoa3i1t"
-path="res://.godot/imported/!$Box_2.png-a34a0a59bfed7e2d3fce777014899ebd.ctex"
+path="res://.godot/imported/!$Box_2.png-0009b6fe756207a545ae2444e9353a46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/!$Box_2.png"
-dest_files=["res://.godot/imported/!$Box_2.png-a34a0a59bfed7e2d3fce777014899ebd.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/!$Box_2.png"
+dest_files=["res://.godot/imported/!$Box_2.png-0009b6fe756207a545ae2444e9353a46.ctex"]
 
 [params]
 

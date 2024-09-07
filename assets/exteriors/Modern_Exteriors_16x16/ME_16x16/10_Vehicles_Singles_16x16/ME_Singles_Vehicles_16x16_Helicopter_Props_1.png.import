@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://31yca4rulpbm"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Helicopter_Props_1.png-06d77099a23cb773c635dcfcb14ed30a.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Helicopter_Props_1.png-c2ce5aa856bf3e90c8b6ecc02ec5b332.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Helicopter_Props_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Helicopter_Props_1.png-06d77099a23cb773c635dcfcb14ed30a.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Helicopter_Props_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Helicopter_Props_1.png-c2ce5aa856bf3e90c8b6ecc02ec5b332.ctex"]
 
 [params]
 

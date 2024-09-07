@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://p6x4eo2v5b36"
-path="res://.godot/imported/Fire_Hydrant_Water_Jet_Modular_Bottom_Part_16x16.png-d86d20091b3e4d2effc67db16bca862f.ctex"
+path="res://.godot/imported/Fire_Hydrant_Water_Jet_Modular_Bottom_Part_16x16.png-2924c960eb9f528453d4e944d8c13bac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Fire_Hydrant_Water_Jet_Modular_Bottom_Part_16x16.png"
-dest_files=["res://.godot/imported/Fire_Hydrant_Water_Jet_Modular_Bottom_Part_16x16.png-d86d20091b3e4d2effc67db16bca862f.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Fire_Hydrant_Water_Jet_Modular_Bottom_Part_16x16.png"
+dest_files=["res://.godot/imported/Fire_Hydrant_Water_Jet_Modular_Bottom_Part_16x16.png-2924c960eb9f528453d4e944d8c13bac.ctex"]
 
 [params]
 

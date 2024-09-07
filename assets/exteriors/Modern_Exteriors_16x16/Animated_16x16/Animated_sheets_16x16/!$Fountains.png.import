@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx5qsnf56ano2"
-path="res://.godot/imported/!$Fountains.png-fea245fb588a1a3c04dc8a0c983b469a.ctex"
+path="res://.godot/imported/!$Fountains.png-6a15e6edd84b31dd92c587b768dc3b1e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/!$Fountains.png"
-dest_files=["res://.godot/imported/!$Fountains.png-fea245fb588a1a3c04dc8a0c983b469a.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/!$Fountains.png"
+dest_files=["res://.godot/imported/!$Fountains.png-6a15e6edd84b31dd92c587b768dc3b1e.ctex"]
 
 [params]
 

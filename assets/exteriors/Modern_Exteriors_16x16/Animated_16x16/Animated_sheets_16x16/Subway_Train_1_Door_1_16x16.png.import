@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w3gtsg4ctlad"
-path="res://.godot/imported/Subway_Train_1_Door_1_16x16.png-b0c534b31e9cb06e70d3328605a48971.ctex"
+path="res://.godot/imported/Subway_Train_1_Door_1_16x16.png-a4cce0d27d408b9bb8331475b8185211.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Subway_Train_1_Door_1_16x16.png"
-dest_files=["res://.godot/imported/Subway_Train_1_Door_1_16x16.png-b0c534b31e9cb06e70d3328605a48971.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Subway_Train_1_Door_1_16x16.png"
+dest_files=["res://.godot/imported/Subway_Train_1_Door_1_16x16.png-a4cce0d27d408b9bb8331475b8185211.ctex"]
 
 [params]
 

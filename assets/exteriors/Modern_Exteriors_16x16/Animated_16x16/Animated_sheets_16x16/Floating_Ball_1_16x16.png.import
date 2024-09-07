@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs4xwbwb8siuf"
-path="res://.godot/imported/Floating_Ball_1_16x16.png-53756334f35d6de39f70d709929935d0.ctex"
+path="res://.godot/imported/Floating_Ball_1_16x16.png-1fe89abb99ec552d83e2d6c23d9cd4a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Ball_1_16x16.png"
-dest_files=["res://.godot/imported/Floating_Ball_1_16x16.png-53756334f35d6de39f70d709929935d0.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Ball_1_16x16.png"
+dest_files=["res://.godot/imported/Floating_Ball_1_16x16.png-1fe89abb99ec552d83e2d6c23d9cd4a9.ctex"]
 
 [params]
 

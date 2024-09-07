@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu4ksok5bb3ge"
-path="res://.godot/imported/ME_Singles_Garage_Sales_16x16_Cloth_1.png-a046ffed99fb9fba3beb5d287141baa2.ctex"
+path="res://.godot/imported/ME_Singles_Garage_Sales_16x16_Cloth_1.png-0cc188936147f48969f92440250c66de.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/6_Garage_Sales_Singles_16x16/ME_Singles_Garage_Sales_16x16_Cloth_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Garage_Sales_16x16_Cloth_1.png-a046ffed99fb9fba3beb5d287141baa2.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/6_Garage_Sales_Singles_16x16/ME_Singles_Garage_Sales_16x16_Cloth_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Garage_Sales_16x16_Cloth_1.png-0cc188936147f48969f92440250c66de.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyw65qbcoa3mi"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Props_3.png-d0696f9dc88b66e1644caf23c6f84b1f.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Props_3.png-d8c0f82b7e829ccec76a7a9577d565a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Gas_Station_Props_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Props_3.png-d0696f9dc88b66e1644caf23c6f84b1f.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Gas_Station_Props_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Props_3.png-d8c0f82b7e829ccec76a7a9577d565a4.ctex"]
 
 [params]
 

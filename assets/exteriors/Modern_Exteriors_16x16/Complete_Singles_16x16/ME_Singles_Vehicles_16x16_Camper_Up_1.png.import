@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2ejypiekgtcs"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Camper_Up_1.png-3b923891f0082b6b96d414686149f836.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Camper_Up_1.png-b9f3a7fe7ec6d1be4e465da976fd077c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Camper_Up_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Camper_Up_1.png-3b923891f0082b6b96d414686149f836.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Camper_Up_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Camper_Up_1.png-b9f3a7fe7ec6d1be4e465da976fd077c.ctex"]
 
 [params]
 

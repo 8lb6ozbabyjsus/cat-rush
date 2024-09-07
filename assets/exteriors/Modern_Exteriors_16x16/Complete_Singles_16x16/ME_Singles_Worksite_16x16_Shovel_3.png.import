@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6a5q3ph7s3ib"
-path="res://.godot/imported/ME_Singles_Worksite_16x16_Shovel_3.png-aedad7fe5bf6e8374ec9d31c4e0bf3a8.ctex"
+path="res://.godot/imported/ME_Singles_Worksite_16x16_Shovel_3.png-6990be4b2cf163991a7661232ad9dd0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Worksite_16x16_Shovel_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Shovel_3.png-aedad7fe5bf6e8374ec9d31c4e0bf3a8.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Worksite_16x16_Shovel_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Shovel_3.png-6990be4b2cf163991a7661232ad9dd0b.ctex"]
 
 [params]
 

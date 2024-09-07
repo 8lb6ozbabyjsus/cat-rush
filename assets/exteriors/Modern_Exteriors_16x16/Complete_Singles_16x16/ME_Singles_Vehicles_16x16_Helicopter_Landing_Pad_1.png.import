@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dulmwmwpwwe63"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Helicopter_Landing_Pad_1.png-a3503cf2efed20dac5855cad023ad41c.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Helicopter_Landing_Pad_1.png-d46be9ea14c3cc3688a32ca15c527195.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Helicopter_Landing_Pad_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Helicopter_Landing_Pad_1.png-a3503cf2efed20dac5855cad023ad41c.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Helicopter_Landing_Pad_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Helicopter_Landing_Pad_1.png-d46be9ea14c3cc3688a32ca15c527195.ctex"]
 
 [params]
 

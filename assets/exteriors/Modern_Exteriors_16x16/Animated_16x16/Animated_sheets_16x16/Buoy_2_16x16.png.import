@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciu6wc3r45w2y"
-path="res://.godot/imported/Buoy_2_16x16.png-01cbb059c391ad010a65e5474d2b1b3a.ctex"
+path="res://.godot/imported/Buoy_2_16x16.png-5e7662a4a6b29caed69f17e9eecd46d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Buoy_2_16x16.png"
-dest_files=["res://.godot/imported/Buoy_2_16x16.png-01cbb059c391ad010a65e5474d2b1b3a.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Buoy_2_16x16.png"
+dest_files=["res://.godot/imported/Buoy_2_16x16.png-5e7662a4a6b29caed69f17e9eecd46d3.ctex"]
 
 [params]
 

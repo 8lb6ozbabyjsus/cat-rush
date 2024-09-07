@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yj33j2ewfic8"
-path="res://.godot/imported/Shopping_Center_Door_2.png-0a0e0e5969c8948623cc7c0c6100ccb6.ctex"
+path="res://.godot/imported/Shopping_Center_Door_2.png-e6aa36578b9c1356970a9abae4c28035.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Shopping_Center_Door_2.png"
-dest_files=["res://.godot/imported/Shopping_Center_Door_2.png-0a0e0e5969c8948623cc7c0c6100ccb6.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Shopping_Center_Door_2.png"
+dest_files=["res://.godot/imported/Shopping_Center_Door_2.png-e6aa36578b9c1356970a9abae4c28035.ctex"]
 
 [params]
 

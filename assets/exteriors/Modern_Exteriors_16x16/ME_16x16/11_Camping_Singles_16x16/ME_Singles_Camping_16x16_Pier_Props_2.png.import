@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uf7itl0kih8s"
-path="res://.godot/imported/ME_Singles_Camping_16x16_Pier_Props_2.png-d5801b4f6ff208c2860a8c6326deaa5b.ctex"
+path="res://.godot/imported/ME_Singles_Camping_16x16_Pier_Props_2.png-29da8683a66626791bbcdd8bcfc2761a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Pier_Props_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Pier_Props_2.png-d5801b4f6ff208c2860a8c6326deaa5b.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Pier_Props_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Pier_Props_2.png-29da8683a66626791bbcdd8bcfc2761a.ctex"]
 
 [params]
 

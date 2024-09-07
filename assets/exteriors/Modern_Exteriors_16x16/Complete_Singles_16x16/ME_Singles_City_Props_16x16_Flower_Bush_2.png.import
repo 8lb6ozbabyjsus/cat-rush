@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b32lixb8m5rxo"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Flower_Bush_2.png-a882bb8785e1b511c8840d5dd1956105.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Flower_Bush_2.png-5d1354d4c28597e7e9fa496a5b69acfa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Flower_Bush_2.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Flower_Bush_2.png-a882bb8785e1b511c8840d5dd1956105.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Flower_Bush_2.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Flower_Bush_2.png-5d1354d4c28597e7e9fa496a5b69acfa.ctex"]
 
 [params]
 

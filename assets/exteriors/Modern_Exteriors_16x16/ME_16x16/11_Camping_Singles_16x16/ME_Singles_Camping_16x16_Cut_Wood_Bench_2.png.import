@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coi5x8jmf0j8"
-path="res://.godot/imported/ME_Singles_Camping_16x16_Cut_Wood_Bench_2.png-0ba6f097b92ef5fcbaefa9efb64d38b6.ctex"
+path="res://.godot/imported/ME_Singles_Camping_16x16_Cut_Wood_Bench_2.png-bf00899affea0fcfb5d9aa0e7fdc35d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Cut_Wood_Bench_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Cut_Wood_Bench_2.png-0ba6f097b92ef5fcbaefa9efb64d38b6.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Cut_Wood_Bench_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Cut_Wood_Bench_2.png-bf00899affea0fcfb5d9aa0e7fdc35d0.ctex"]
 
 [params]
 

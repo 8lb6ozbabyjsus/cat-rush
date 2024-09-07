@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r8dafv700tav"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Wind_Turbine_1.png-781324a14738f2c37faeb44b3bf8fd92.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Wind_Turbine_1.png-f124882f1e7e95ba514ff96d48a80727.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Wind_Turbine_1.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Wind_Turbine_1.png-781324a14738f2c37faeb44b3bf8fd92.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Wind_Turbine_1.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Wind_Turbine_1.png-f124882f1e7e95ba514ff96d48a80727.ctex"]
 
 [params]
 

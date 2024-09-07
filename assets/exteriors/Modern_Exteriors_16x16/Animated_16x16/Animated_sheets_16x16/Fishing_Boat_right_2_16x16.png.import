@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcaxj3pm2narv"
-path="res://.godot/imported/Fishing_Boat_right_2_16x16.png-fec70c6275d1e1b9b8bc5a02fc3e191f.ctex"
+path="res://.godot/imported/Fishing_Boat_right_2_16x16.png-4fa8b18722d9023604ea97ec47f9344f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Fishing_Boat_right_2_16x16.png"
-dest_files=["res://.godot/imported/Fishing_Boat_right_2_16x16.png-fec70c6275d1e1b9b8bc5a02fc3e191f.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Fishing_Boat_right_2_16x16.png"
+dest_files=["res://.godot/imported/Fishing_Boat_right_2_16x16.png-4fa8b18722d9023604ea97ec47f9344f.ctex"]
 
 [params]
 

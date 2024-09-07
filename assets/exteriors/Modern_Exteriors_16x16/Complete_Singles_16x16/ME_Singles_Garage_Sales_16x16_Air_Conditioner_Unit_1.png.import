@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b74oft7a50f2c"
-path="res://.godot/imported/ME_Singles_Garage_Sales_16x16_Air_Conditioner_Unit_1.png-6926ac9aa9c359c72bf716ae5fdb5184.ctex"
+path="res://.godot/imported/ME_Singles_Garage_Sales_16x16_Air_Conditioner_Unit_1.png-f8428d4a713db1f97be1006c87730f38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Garage_Sales_16x16_Air_Conditioner_Unit_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Garage_Sales_16x16_Air_Conditioner_Unit_1.png-6926ac9aa9c359c72bf716ae5fdb5184.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Garage_Sales_16x16_Air_Conditioner_Unit_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Garage_Sales_16x16_Air_Conditioner_Unit_1.png-f8428d4a713db1f97be1006c87730f38.ctex"]
 
 [params]
 

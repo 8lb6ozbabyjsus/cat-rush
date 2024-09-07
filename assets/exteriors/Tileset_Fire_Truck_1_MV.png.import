@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bapm1nefso4ky"
-path="res://.godot/imported/Tileset_Fire_Truck_1_MV.png-bbeebd18a7525258ffc1258da4d6876f.ctex"
+path="res://.godot/imported/Tileset_Fire_Truck_1_MV.png-7da2c4d144a5776ca2b3b2a555155b22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Tileset_Fire_Truck_1_MV.png"
-dest_files=["res://.godot/imported/Tileset_Fire_Truck_1_MV.png-bbeebd18a7525258ffc1258da4d6876f.ctex"]
+source_file="res://assets/exteriors/Tileset_Fire_Truck_1_MV.png"
+dest_files=["res://.godot/imported/Tileset_Fire_Truck_1_MV.png-7da2c4d144a5776ca2b3b2a555155b22.ctex"]
 
 [params]
 

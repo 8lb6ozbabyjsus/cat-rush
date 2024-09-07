@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bou8i2sptueup"
-path="res://.godot/imported/ME_Singles_Worksite_16x16_Light_Tower_1.png-d1f01ce74e6829bceaa58a864a9b06e3.ctex"
+path="res://.godot/imported/ME_Singles_Worksite_16x16_Light_Tower_1.png-d8fc48f5df28b7c5df29a9d078726fb7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Worksite_16x16_Light_Tower_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Light_Tower_1.png-d1f01ce74e6829bceaa58a864a9b06e3.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Worksite_16x16_Light_Tower_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Light_Tower_1.png-d8fc48f5df28b7c5df29a9d078726fb7.ctex"]
 
 [params]
 

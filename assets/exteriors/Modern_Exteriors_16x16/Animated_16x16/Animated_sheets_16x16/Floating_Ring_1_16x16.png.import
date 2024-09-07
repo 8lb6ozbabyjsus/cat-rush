@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sfchefnc77hc"
-path="res://.godot/imported/Floating_Ring_1_16x16.png-05eaacdd0941abd81b40eed81c2ce10a.ctex"
+path="res://.godot/imported/Floating_Ring_1_16x16.png-24537c369976e78df24e2c05fe3d2823.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Ring_1_16x16.png"
-dest_files=["res://.godot/imported/Floating_Ring_1_16x16.png-05eaacdd0941abd81b40eed81c2ce10a.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Ring_1_16x16.png"
+dest_files=["res://.godot/imported/Floating_Ring_1_16x16.png-24537c369976e78df24e2c05fe3d2823.ctex"]
 
 [params]
 

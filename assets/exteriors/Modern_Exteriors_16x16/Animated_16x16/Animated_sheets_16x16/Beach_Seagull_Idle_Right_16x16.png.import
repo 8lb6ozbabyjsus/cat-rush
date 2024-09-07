@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bahplebxfdsoq"
-path="res://.godot/imported/Beach_Seagull_Idle_Right_16x16.png-42c4f1fd70644af644afbbf5afbfa193.ctex"
+path="res://.godot/imported/Beach_Seagull_Idle_Right_16x16.png-99c1254d26347e7a84b492c29416eed3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Beach_Seagull_Idle_Right_16x16.png"
-dest_files=["res://.godot/imported/Beach_Seagull_Idle_Right_16x16.png-42c4f1fd70644af644afbbf5afbfa193.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Beach_Seagull_Idle_Right_16x16.png"
+dest_files=["res://.godot/imported/Beach_Seagull_Idle_Right_16x16.png-99c1254d26347e7a84b492c29416eed3.ctex"]
 
 [params]
 

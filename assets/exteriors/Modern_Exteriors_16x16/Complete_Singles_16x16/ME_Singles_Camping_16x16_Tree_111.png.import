@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4co8o7lmljtj"
-path="res://.godot/imported/ME_Singles_Camping_16x16_Tree_111.png-03b05c83006c22b0eb8c4e8e715cc1a4.ctex"
+path="res://.godot/imported/ME_Singles_Camping_16x16_Tree_111.png-36220e23def2c5e80c4e9a02a2b26382.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Camping_16x16_Tree_111.png"
-dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Tree_111.png-03b05c83006c22b0eb8c4e8e715cc1a4.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Camping_16x16_Tree_111.png"
+dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Tree_111.png-36220e23def2c5e80c4e9a02a2b26382.ctex"]
 
 [params]
 

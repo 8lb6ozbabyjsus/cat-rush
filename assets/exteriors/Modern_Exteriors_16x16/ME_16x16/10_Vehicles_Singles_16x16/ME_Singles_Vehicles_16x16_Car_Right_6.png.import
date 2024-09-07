@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmdlpgbmvuuyd"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Car_Right_6.png-a7c4db6c27efa87558ecd590617fd738.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Car_Right_6.png-34ff5b0b385468b24f16e779fa041fcf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Car_Right_6.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Car_Right_6.png-a7c4db6c27efa87558ecd590617fd738.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Car_Right_6.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Car_Right_6.png-34ff5b0b385468b24f16e779fa041fcf.ctex"]
 
 [params]
 

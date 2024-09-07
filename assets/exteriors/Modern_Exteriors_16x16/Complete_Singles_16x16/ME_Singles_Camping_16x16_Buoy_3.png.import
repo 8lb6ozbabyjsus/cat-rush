@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnb20tpnisvsc"
-path="res://.godot/imported/ME_Singles_Camping_16x16_Buoy_3.png-34ddc7f88871840ef2b5573db2bbb089.ctex"
+path="res://.godot/imported/ME_Singles_Camping_16x16_Buoy_3.png-e0b0195f960f803f9f03bcb81af6e50f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Camping_16x16_Buoy_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Buoy_3.png-34ddc7f88871840ef2b5573db2bbb089.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Camping_16x16_Buoy_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Buoy_3.png-e0b0195f960f803f9f03bcb81af6e50f.ctex"]
 
 [params]
 

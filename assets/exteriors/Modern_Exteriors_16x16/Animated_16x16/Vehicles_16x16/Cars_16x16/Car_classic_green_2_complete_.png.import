@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d31pclcwmgkmk"
-path="res://.godot/imported/Car_classic_green_2_complete_.png-f783154f109e31359d8a8541e92f88eb.ctex"
+path="res://.godot/imported/Car_classic_green_2_complete_.png-11e6dc51f80bbf26a6adf2b65861b8e3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Cars_16x16/Car_classic_green_2_complete_.png"
-dest_files=["res://.godot/imported/Car_classic_green_2_complete_.png-f783154f109e31359d8a8541e92f88eb.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Cars_16x16/Car_classic_green_2_complete_.png"
+dest_files=["res://.godot/imported/Car_classic_green_2_complete_.png-11e6dc51f80bbf26a6adf2b65861b8e3.ctex"]
 
 [params]
 

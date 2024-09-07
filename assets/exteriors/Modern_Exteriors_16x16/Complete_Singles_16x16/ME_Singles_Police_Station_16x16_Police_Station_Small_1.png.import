@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qxgmaj78dpyp"
-path="res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Small_1.png-72daa9e255ab976104ff328088364780.ctex"
+path="res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Small_1.png-3ff8afbc6f4d75a9c09021ef1bc949d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Police_Station_16x16_Police_Station_Small_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Small_1.png-72daa9e255ab976104ff328088364780.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Police_Station_16x16_Police_Station_Small_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Small_1.png-3ff8afbc6f4d75a9c09021ef1bc949d2.ctex"]
 
 [params]
 

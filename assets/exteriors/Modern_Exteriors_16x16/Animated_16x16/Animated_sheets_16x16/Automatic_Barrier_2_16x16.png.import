@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dn54gx0m500su"
-path="res://.godot/imported/Automatic_Barrier_2_16x16.png-fac46a124d09558f7c507f85fce66914.ctex"
+path="res://.godot/imported/Automatic_Barrier_2_16x16.png-312adbd1ab5efc16e6bbf99c1642324f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Automatic_Barrier_2_16x16.png"
-dest_files=["res://.godot/imported/Automatic_Barrier_2_16x16.png-fac46a124d09558f7c507f85fce66914.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Automatic_Barrier_2_16x16.png"
+dest_files=["res://.godot/imported/Automatic_Barrier_2_16x16.png-312adbd1ab5efc16e6bbf99c1642324f.ctex"]
 
 [params]
 

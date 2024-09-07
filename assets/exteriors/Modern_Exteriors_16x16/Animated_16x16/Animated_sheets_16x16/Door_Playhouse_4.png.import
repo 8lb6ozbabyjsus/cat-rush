@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brv65ipnfs5gm"
-path="res://.godot/imported/Door_Playhouse_4.png-49bc1867d83abd57d4f1e7dd3bf6ebfa.ctex"
+path="res://.godot/imported/Door_Playhouse_4.png-5fa0a8cf8c19ead6d76c4bf9b8a1d5de.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Door_Playhouse_4.png"
-dest_files=["res://.godot/imported/Door_Playhouse_4.png-49bc1867d83abd57d4f1e7dd3bf6ebfa.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Door_Playhouse_4.png"
+dest_files=["res://.godot/imported/Door_Playhouse_4.png-5fa0a8cf8c19ead6d76c4bf9b8a1d5de.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gsjdmpk4gk2"
-path="res://.godot/imported/ME_Singles_Police_Station_16x16_Automatic_Barrier_1.png-43e5e3a477629e5b4445f4bc21f3a616.ctex"
+path="res://.godot/imported/ME_Singles_Police_Station_16x16_Automatic_Barrier_1.png-eda8e37124544b83c645f78af1e4359b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/15_Police_Station_Singles_16x16/ME_Singles_Police_Station_16x16_Automatic_Barrier_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Automatic_Barrier_1.png-43e5e3a477629e5b4445f4bc21f3a616.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/15_Police_Station_Singles_16x16/ME_Singles_Police_Station_16x16_Automatic_Barrier_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Automatic_Barrier_1.png-eda8e37124544b83c645f78af1e4359b.ctex"]
 
 [params]
 

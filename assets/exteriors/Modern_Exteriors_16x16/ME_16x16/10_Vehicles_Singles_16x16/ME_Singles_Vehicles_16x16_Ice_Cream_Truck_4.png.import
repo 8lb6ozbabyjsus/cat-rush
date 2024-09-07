@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ba4a74bi2f5gu"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Ice_Cream_Truck_4.png-b1f85d8cb874c470e78dcc69de597d6d.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Ice_Cream_Truck_4.png-96a0be88542fc5c7da76873e11d707ec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Ice_Cream_Truck_4.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Ice_Cream_Truck_4.png-b1f85d8cb874c470e78dcc69de597d6d.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Ice_Cream_Truck_4.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Ice_Cream_Truck_4.png-96a0be88542fc5c7da76873e11d707ec.ctex"]
 
 [params]
 

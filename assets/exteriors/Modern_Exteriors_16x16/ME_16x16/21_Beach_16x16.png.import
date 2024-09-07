@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yo0rkpnswb04"
-path="res://.godot/imported/21_Beach_16x16.png-c53a00cddef8811250a51ed43ef796fc.ctex"
+path="res://.godot/imported/21_Beach_16x16.png-6239646a2f22548d42acae7d5f2e8586.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/21_Beach_16x16.png"
-dest_files=["res://.godot/imported/21_Beach_16x16.png-c53a00cddef8811250a51ed43ef796fc.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/21_Beach_16x16.png"
+dest_files=["res://.godot/imported/21_Beach_16x16.png-6239646a2f22548d42acae7d5f2e8586.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckl58moe0775l"
-path="res://.godot/imported/ME_Singles_Camping_16x16_Mushrooms_2.png-421aa2d74cef8df98682d676e7780b4e.ctex"
+path="res://.godot/imported/ME_Singles_Camping_16x16_Mushrooms_2.png-63b32b37b83e58fc7322d391436deb11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Mushrooms_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Mushrooms_2.png-421aa2d74cef8df98682d676e7780b4e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Mushrooms_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Mushrooms_2.png-63b32b37b83e58fc7322d391436deb11.ctex"]
 
 [params]
 

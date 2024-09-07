@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://55krc1plyc65"
-path="res://.godot/imported/Garden_Tool_Shack_Door_6_16x16.png-1162b38adf5a9389147f119f2c7619f7.ctex"
+path="res://.godot/imported/Garden_Tool_Shack_Door_6_16x16.png-c6d1e5ad84846c22511a632f2f9b5456.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Garden_Tool_Shack_Door_6_16x16.png"
-dest_files=["res://.godot/imported/Garden_Tool_Shack_Door_6_16x16.png-1162b38adf5a9389147f119f2c7619f7.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Garden_Tool_Shack_Door_6_16x16.png"
+dest_files=["res://.godot/imported/Garden_Tool_Shack_Door_6_16x16.png-c6d1e5ad84846c22511a632f2f9b5456.ctex"]
 
 [params]
 

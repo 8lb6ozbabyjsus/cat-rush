@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chb7vb3wwui7u"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Fruit_Flowers_Cart_1.png-50a97aaf5f2152451bb1b9046f0d3f77.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Fruit_Flowers_Cart_1.png-a28bac60bb73941c335b6cf2c93c57d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Fruit_Flowers_Cart_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Fruit_Flowers_Cart_1.png-50a97aaf5f2152451bb1b9046f0d3f77.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Fruit_Flowers_Cart_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Fruit_Flowers_Cart_1.png-a28bac60bb73941c335b6cf2c93c57d3.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuu232kxebvvb"
-path="res://.godot/imported/Water_Tileset_16x16.png-eb24ab6804f8cf7780cc301a9d0f0798.ctex"
+path="res://.godot/imported/Water_Tileset_16x16.png-d7a30eaf6333364119519c31e738fc72.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_Terrains_16x16/Water_Tileset_16x16.png"
-dest_files=["res://.godot/imported/Water_Tileset_16x16.png-eb24ab6804f8cf7780cc301a9d0f0798.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_Terrains_16x16/Water_Tileset_16x16.png"
+dest_files=["res://.godot/imported/Water_Tileset_16x16.png-d7a30eaf6333364119519c31e738fc72.ctex"]
 
 [params]
 

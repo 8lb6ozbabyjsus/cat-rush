@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy6bw0ej56n3g"
-path="res://.godot/imported/Campfire_16x16.png-590b81641d8efebe5090e30559369137.ctex"
+path="res://.godot/imported/Campfire_16x16.png-475748418ecb6a240dbf80363a5705b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Campfire_16x16.png"
-dest_files=["res://.godot/imported/Campfire_16x16.png-590b81641d8efebe5090e30559369137.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Campfire_16x16.png"
+dest_files=["res://.godot/imported/Campfire_16x16.png-475748418ecb6a240dbf80363a5705b4.ctex"]
 
 [params]
 

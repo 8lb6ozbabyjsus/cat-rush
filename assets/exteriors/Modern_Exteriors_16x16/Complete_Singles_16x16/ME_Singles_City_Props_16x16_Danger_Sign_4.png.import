@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nxy80dpmrxvd"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Danger_Sign_4.png-d76e50b269ac1a05f2e228603f7a42fe.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Danger_Sign_4.png-7e59748684ed8ee1b896b49f9d6c724f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Danger_Sign_4.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Danger_Sign_4.png-d76e50b269ac1a05f2e228603f7a42fe.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Danger_Sign_4.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Danger_Sign_4.png-7e59748684ed8ee1b896b49f9d6c724f.ctex"]
 
 [params]
 

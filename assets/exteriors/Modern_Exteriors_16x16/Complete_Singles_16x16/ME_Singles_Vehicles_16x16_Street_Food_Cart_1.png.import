@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6b0ngv1mwb7s"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Street_Food_Cart_1.png-078c47a694db4429517e21ba93db3b22.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Street_Food_Cart_1.png-14d8dcd97dc2aa1125ef06ec8e72a502.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Street_Food_Cart_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Street_Food_Cart_1.png-078c47a694db4429517e21ba93db3b22.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Street_Food_Cart_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Street_Food_Cart_1.png-14d8dcd97dc2aa1125ef06ec8e72a502.ctex"]
 
 [params]
 

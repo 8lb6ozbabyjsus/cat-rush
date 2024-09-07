@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmeijr3ss5iuk"
-path="res://.godot/imported/Metropolis_Building_1_Door_1_16x16.png-147d725cdbc14e02d4f707488d4b4132.ctex"
+path="res://.godot/imported/Metropolis_Building_1_Door_1_16x16.png-6d2d45adc0011dcf9b042728970e0612.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Metropolis_Building_1_Door_1_16x16.png"
-dest_files=["res://.godot/imported/Metropolis_Building_1_Door_1_16x16.png-147d725cdbc14e02d4f707488d4b4132.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Metropolis_Building_1_Door_1_16x16.png"
+dest_files=["res://.godot/imported/Metropolis_Building_1_Door_1_16x16.png-6d2d45adc0011dcf9b042728970e0612.ctex"]
 
 [params]
 

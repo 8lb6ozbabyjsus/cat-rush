@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0acpkkwjltu6"
-path="res://.godot/imported/Spotlight_1_16x16.png-70f14eedda771f965a40e397ad3d87e2.ctex"
+path="res://.godot/imported/Spotlight_1_16x16.png-ded35142f3a3eb2c4206c9e1f95f2e4a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Spotlight_1_16x16.png"
-dest_files=["res://.godot/imported/Spotlight_1_16x16.png-70f14eedda771f965a40e397ad3d87e2.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Spotlight_1_16x16.png"
+dest_files=["res://.godot/imported/Spotlight_1_16x16.png-ded35142f3a3eb2c4206c9e1f95f2e4a.ctex"]
 
 [params]
 

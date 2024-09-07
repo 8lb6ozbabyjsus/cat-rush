@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csxbr4qsrqhsq"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Water_Tower_2.png-fbd964fcf1d7e01f239df696493879b2.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Water_Tower_2.png-9f59bb0007091122f5f88fc105a472aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Water_Tower_2.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Water_Tower_2.png-fbd964fcf1d7e01f239df696493879b2.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Water_Tower_2.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Water_Tower_2.png-9f59bb0007091122f5f88fc105a472aa.ctex"]
 
 [params]
 

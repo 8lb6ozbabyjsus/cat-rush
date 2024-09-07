@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vfliygcvs0ew"
-path="res://.godot/imported/ME_Singles_School_16x16_Soccer_Court_1.png-c3aecce971be7ff0ce51499a4748fcc8.ctex"
+path="res://.godot/imported/ME_Singles_School_16x16_Soccer_Court_1.png-3fa492f8d5beb6b731e8b312e27d0e93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_School_16x16_Soccer_Court_1.png"
-dest_files=["res://.godot/imported/ME_Singles_School_16x16_Soccer_Court_1.png-c3aecce971be7ff0ce51499a4748fcc8.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_School_16x16_Soccer_Court_1.png"
+dest_files=["res://.godot/imported/ME_Singles_School_16x16_Soccer_Court_1.png-3fa492f8d5beb6b731e8b312e27d0e93.ctex"]
 
 [params]
 

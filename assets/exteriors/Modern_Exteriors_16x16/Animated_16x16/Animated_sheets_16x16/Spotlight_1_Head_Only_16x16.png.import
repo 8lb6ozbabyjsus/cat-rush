@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cy1yp2lojoky5"
-path="res://.godot/imported/Spotlight_1_Head_Only_16x16.png-33e0ab02f1069c4ba81f2618146bad97.ctex"
+path="res://.godot/imported/Spotlight_1_Head_Only_16x16.png-9bc4eb5c636b1b8f1c5cc73039d3cb3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Spotlight_1_Head_Only_16x16.png"
-dest_files=["res://.godot/imported/Spotlight_1_Head_Only_16x16.png-33e0ab02f1069c4ba81f2618146bad97.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Spotlight_1_Head_Only_16x16.png"
+dest_files=["res://.godot/imported/Spotlight_1_Head_Only_16x16.png-9bc4eb5c636b1b8f1c5cc73039d3cb3b.ctex"]
 
 [params]
 

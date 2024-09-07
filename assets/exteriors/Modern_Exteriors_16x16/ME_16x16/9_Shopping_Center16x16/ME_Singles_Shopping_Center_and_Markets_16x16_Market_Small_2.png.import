@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cioj8n37of3at"
-path="res://.godot/imported/ME_Singles_Shopping_Center_and_Markets_16x16_Market_Small_2.png-6d0bac9c4cd3ccb61aea547639557208.ctex"
+path="res://.godot/imported/ME_Singles_Shopping_Center_and_Markets_16x16_Market_Small_2.png-5ccfd58a87a7dbd3aaf84ec37dbac783.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/9_Shopping_Center_and_Markets_Singles_16x16/ME_Singles_Shopping_Center_and_Markets_16x16_Market_Small_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Shopping_Center_and_Markets_16x16_Market_Small_2.png-6d0bac9c4cd3ccb61aea547639557208.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/9_Shopping_Center16x16/ME_Singles_Shopping_Center_and_Markets_16x16_Market_Small_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Shopping_Center_and_Markets_16x16_Market_Small_2.png-5ccfd58a87a7dbd3aaf84ec37dbac783.ctex"]
 
 [params]
 

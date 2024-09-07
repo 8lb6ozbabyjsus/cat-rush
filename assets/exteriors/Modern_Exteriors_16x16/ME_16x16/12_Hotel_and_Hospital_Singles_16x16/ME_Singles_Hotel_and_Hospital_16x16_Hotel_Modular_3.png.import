@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtooxqgpurl3t"
-path="res://.godot/imported/ME_Singles_Hotel_and_Hospital_16x16_Hotel_Modular_3.png-ba0a2e136da3a8e98ec58938faea44bd.ctex"
+path="res://.godot/imported/ME_Singles_Hotel_and_Hospital_16x16_Hotel_Modular_3.png-38828b407cceac997493ca8113dcf922.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/12_Hotel_and_Hospital_Singles_16x16/ME_Singles_Hotel_and_Hospital_16x16_Hotel_Modular_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Hotel_and_Hospital_16x16_Hotel_Modular_3.png-ba0a2e136da3a8e98ec58938faea44bd.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/12_Hotel_and_Hospital_Singles_16x16/ME_Singles_Hotel_and_Hospital_16x16_Hotel_Modular_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Hotel_and_Hospital_16x16_Hotel_Modular_3.png-38828b407cceac997493ca8113dcf922.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1ayuafxktjc1"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Petrol_Pump_1.png-09a29a658726cad272ea0c0c82ddfcea.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Petrol_Pump_1.png-27ab5da175478864072a8f75bda55c3e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Gas_Station_Petrol_Pump_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Petrol_Pump_1.png-09a29a658726cad272ea0c0c82ddfcea.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Gas_Station_Petrol_Pump_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Petrol_Pump_1.png-27ab5da175478864072a8f75bda55c3e.ctex"]
 
 [params]
 

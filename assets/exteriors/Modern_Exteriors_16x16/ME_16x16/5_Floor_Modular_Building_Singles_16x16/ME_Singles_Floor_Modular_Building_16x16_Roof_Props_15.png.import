@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blx1ulog3g4mi"
-path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Roof_Props_15.png-7a3e6d63028af29ca59e91aca9d06d2e.ctex"
+path="res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Roof_Props_15.png-3754d63a5b20834b13d28e9038600fe8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/5_Floor_Modular_Building_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Roof_Props_15.png"
-dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Roof_Props_15.png-7a3e6d63028af29ca59e91aca9d06d2e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/5_Floor_Modular_Building_Singles_16x16/ME_Singles_Floor_Modular_Building_16x16_Roof_Props_15.png"
+dest_files=["res://.godot/imported/ME_Singles_Floor_Modular_Building_16x16_Roof_Props_15.png-3754d63a5b20834b13d28e9038600fe8.ctex"]
 
 [params]
 

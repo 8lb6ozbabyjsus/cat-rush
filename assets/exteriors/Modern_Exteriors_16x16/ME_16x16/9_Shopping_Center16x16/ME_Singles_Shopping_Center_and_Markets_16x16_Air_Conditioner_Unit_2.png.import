@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bb2dds2t1x4fn"
-path="res://.godot/imported/ME_Singles_Shopping_Center_and_Markets_16x16_Air_Conditioner_Unit_2.png-5e60cef4d301104bdf8609d9fe09d2f8.ctex"
+path="res://.godot/imported/ME_Singles_Shopping_Center_and_Markets_16x16_Air_Conditioner_Unit_2.png-77d9bb95e555bee4997881377dbd4aa3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/9_Shopping_Center_and_Markets_Singles_16x16/ME_Singles_Shopping_Center_and_Markets_16x16_Air_Conditioner_Unit_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Shopping_Center_and_Markets_16x16_Air_Conditioner_Unit_2.png-5e60cef4d301104bdf8609d9fe09d2f8.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/9_Shopping_Center16x16/ME_Singles_Shopping_Center_and_Markets_16x16_Air_Conditioner_Unit_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Shopping_Center_and_Markets_16x16_Air_Conditioner_Unit_2.png-77d9bb95e555bee4997881377dbd4aa3.ctex"]
 
 [params]
 

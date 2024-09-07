@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq3r4w250oym5"
-path="res://.godot/imported/Beach_Floating_Rock_4_16x16.png-6b7bcd2d8d76bc6197e4d807c53ff022.ctex"
+path="res://.godot/imported/Beach_Floating_Rock_4_16x16.png-06cc013dbb8b60b88b2f26200bc34f9f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Beach_Floating_Rock_4_16x16.png"
-dest_files=["res://.godot/imported/Beach_Floating_Rock_4_16x16.png-6b7bcd2d8d76bc6197e4d807c53ff022.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Beach_Floating_Rock_4_16x16.png"
+dest_files=["res://.godot/imported/Beach_Floating_Rock_4_16x16.png-06cc013dbb8b60b88b2f26200bc34f9f.ctex"]
 
 [params]
 

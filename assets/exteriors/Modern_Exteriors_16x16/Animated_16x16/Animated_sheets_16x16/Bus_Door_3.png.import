@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ba5ymsej2q45t"
-path="res://.godot/imported/Bus_Door_3.png-4a039ef0f941674217c9607b0077cad8.ctex"
+path="res://.godot/imported/Bus_Door_3.png-9ec87d297ebb2f2c4073edcfe4a76e77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Bus_Door_3.png"
-dest_files=["res://.godot/imported/Bus_Door_3.png-4a039ef0f941674217c9607b0077cad8.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Bus_Door_3.png"
+dest_files=["res://.godot/imported/Bus_Door_3.png-9ec87d297ebb2f2c4073edcfe4a76e77.ctex"]
 
 [params]
 

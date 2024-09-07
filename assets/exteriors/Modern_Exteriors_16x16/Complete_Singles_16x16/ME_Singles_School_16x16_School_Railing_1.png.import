@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de212rvddkji"
-path="res://.godot/imported/ME_Singles_School_16x16_School_Railing_1.png-3767f084860c34c17afc8e1a9b438898.ctex"
+path="res://.godot/imported/ME_Singles_School_16x16_School_Railing_1.png-50921fa77ff1a6c30ad3ef2853ff43de.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_School_16x16_School_Railing_1.png"
-dest_files=["res://.godot/imported/ME_Singles_School_16x16_School_Railing_1.png-3767f084860c34c17afc8e1a9b438898.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_School_16x16_School_Railing_1.png"
+dest_files=["res://.godot/imported/ME_Singles_School_16x16_School_Railing_1.png-50921fa77ff1a6c30ad3ef2853ff43de.ctex"]
 
 [params]
 

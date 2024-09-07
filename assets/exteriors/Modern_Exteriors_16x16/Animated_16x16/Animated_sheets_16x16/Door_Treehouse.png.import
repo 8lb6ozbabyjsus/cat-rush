@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5qw3ymhlonpd"
-path="res://.godot/imported/Door_Treehouse.png-0f6008097cf4a4387e37bbf3d4fcb91f.ctex"
+path="res://.godot/imported/Door_Treehouse.png-fd432e8e76e0192d74ab5e1deea71500.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Door_Treehouse.png"
-dest_files=["res://.godot/imported/Door_Treehouse.png-0f6008097cf4a4387e37bbf3d4fcb91f.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Door_Treehouse.png"
+dest_files=["res://.godot/imported/Door_Treehouse.png-fd432e8e76e0192d74ab5e1deea71500.ctex"]
 
 [params]
 

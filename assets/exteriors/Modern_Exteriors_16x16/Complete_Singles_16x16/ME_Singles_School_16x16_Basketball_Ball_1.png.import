@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmh2fvr10nifu"
-path="res://.godot/imported/ME_Singles_School_16x16_Basketball_Ball_1.png-71d00159a28cfaa7f706bcbcff099c21.ctex"
+path="res://.godot/imported/ME_Singles_School_16x16_Basketball_Ball_1.png-b2b353fad4899ff2a2c77debdf19f25e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_School_16x16_Basketball_Ball_1.png"
-dest_files=["res://.godot/imported/ME_Singles_School_16x16_Basketball_Ball_1.png-71d00159a28cfaa7f706bcbcff099c21.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_School_16x16_Basketball_Ball_1.png"
+dest_files=["res://.godot/imported/ME_Singles_School_16x16_Basketball_Ball_1.png-b2b353fad4899ff2a2c77debdf19f25e.ctex"]
 
 [params]
 

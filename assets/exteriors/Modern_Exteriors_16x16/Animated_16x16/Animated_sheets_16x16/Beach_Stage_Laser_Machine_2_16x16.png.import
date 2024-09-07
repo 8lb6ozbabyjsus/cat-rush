@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xpcdrbda7xuo"
-path="res://.godot/imported/Beach_Stage_Laser_Machine_2_16x16.png-9c693136be2a0f02944e27f6ad9c2007.ctex"
+path="res://.godot/imported/Beach_Stage_Laser_Machine_2_16x16.png-250cbf8a571121f7a4c52c2d12ed0bbf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Beach_Stage_Laser_Machine_2_16x16.png"
-dest_files=["res://.godot/imported/Beach_Stage_Laser_Machine_2_16x16.png-9c693136be2a0f02944e27f6ad9c2007.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Beach_Stage_Laser_Machine_2_16x16.png"
+dest_files=["res://.godot/imported/Beach_Stage_Laser_Machine_2_16x16.png-250cbf8a571121f7a4c52c2d12ed0bbf.ctex"]
 
 [params]
 

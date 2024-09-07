@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgtf2dpqc1cnr"
-path="res://.godot/imported/ME_Singles_Generic_Building_16x16_Condo_3_35.png-a8e260eb241c74d92f75a6e97d75485f.ctex"
+path="res://.godot/imported/ME_Singles_Generic_Building_16x16_Condo_3_35.png-bf2e38912a585ed3c7783f756c6ddb8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/4_Generic_Building_Singles_16x16/ME_Singles_Generic_Building_16x16_Condo_3_35.png"
-dest_files=["res://.godot/imported/ME_Singles_Generic_Building_16x16_Condo_3_35.png-a8e260eb241c74d92f75a6e97d75485f.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/4_Generic_Building_Singles_16x16/ME_Singles_Generic_Building_16x16_Condo_3_35.png"
+dest_files=["res://.godot/imported/ME_Singles_Generic_Building_16x16_Condo_3_35.png-bf2e38912a585ed3c7783f756c6ddb8d.ctex"]
 
 [params]
 

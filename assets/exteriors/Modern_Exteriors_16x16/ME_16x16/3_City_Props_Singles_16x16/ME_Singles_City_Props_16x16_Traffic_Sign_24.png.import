@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ceqpxaxsrfgpa"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Traffic_Sign_24.png-1ab3046eedd21557a7e3a12331794806.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Traffic_Sign_24.png-a1814885d7d1c5d396395071d321aaf3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Traffic_Sign_24.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Traffic_Sign_24.png-1ab3046eedd21557a7e3a12331794806.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Traffic_Sign_24.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Traffic_Sign_24.png-a1814885d7d1c5d396395071d321aaf3.ctex"]
 
 [params]
 

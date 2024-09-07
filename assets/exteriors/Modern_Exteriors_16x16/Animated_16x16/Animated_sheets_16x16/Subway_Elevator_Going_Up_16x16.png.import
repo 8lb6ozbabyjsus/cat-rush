@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6oxeoadedjfa"
-path="res://.godot/imported/Subway_Elevator_Going_Up_16x16.png-3afb1eaf59e6f0d3335b6d4e0c94f7ae.ctex"
+path="res://.godot/imported/Subway_Elevator_Going_Up_16x16.png-f3473c501e4496d8739f99b719b8a094.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Subway_Elevator_Going_Up_16x16.png"
-dest_files=["res://.godot/imported/Subway_Elevator_Going_Up_16x16.png-3afb1eaf59e6f0d3335b6d4e0c94f7ae.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Subway_Elevator_Going_Up_16x16.png"
+dest_files=["res://.godot/imported/Subway_Elevator_Going_Up_16x16.png-f3473c501e4496d8739f99b719b8a094.ctex"]
 
 [params]
 

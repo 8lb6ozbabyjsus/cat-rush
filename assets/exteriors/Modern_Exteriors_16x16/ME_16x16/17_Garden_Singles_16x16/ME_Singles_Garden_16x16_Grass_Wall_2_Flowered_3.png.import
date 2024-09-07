@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dacg7k8ebe6p8"
-path="res://.godot/imported/ME_Singles_Garden_16x16_Grass_Wall_2_Flowered_3.png-323b69d2695c58aa5f64913f14eb5a76.ctex"
+path="res://.godot/imported/ME_Singles_Garden_16x16_Grass_Wall_2_Flowered_3.png-b20b2c7f5454fa13f3d7b4609bb015e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/17_Garden_Singles_16x16/ME_Singles_Garden_16x16_Grass_Wall_2_Flowered_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Grass_Wall_2_Flowered_3.png-323b69d2695c58aa5f64913f14eb5a76.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/17_Garden_Singles_16x16/ME_Singles_Garden_16x16_Grass_Wall_2_Flowered_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Grass_Wall_2_Flowered_3.png-b20b2c7f5454fa13f3d7b4609bb015e2.ctex"]
 
 [params]
 

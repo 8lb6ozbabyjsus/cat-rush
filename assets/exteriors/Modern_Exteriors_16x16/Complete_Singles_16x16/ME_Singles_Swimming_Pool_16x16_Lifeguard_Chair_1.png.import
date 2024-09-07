@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b314aawsbyl54"
-path="res://.godot/imported/ME_Singles_Swimming_Pool_16x16_Lifeguard_Chair_1.png-1c2868687c39df47d710607ba75e92fe.ctex"
+path="res://.godot/imported/ME_Singles_Swimming_Pool_16x16_Lifeguard_Chair_1.png-7824e2f54353a20fdaab6e868ef1ff89.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Swimming_Pool_16x16_Lifeguard_Chair_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Swimming_Pool_16x16_Lifeguard_Chair_1.png-1c2868687c39df47d710607ba75e92fe.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Swimming_Pool_16x16_Lifeguard_Chair_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Swimming_Pool_16x16_Lifeguard_Chair_1.png-7824e2f54353a20fdaab6e868ef1ff89.ctex"]
 
 [params]
 

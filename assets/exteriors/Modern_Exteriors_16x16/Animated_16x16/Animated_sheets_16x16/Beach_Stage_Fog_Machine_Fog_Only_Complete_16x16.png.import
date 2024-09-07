@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c52kuorc0cs3e"
-path="res://.godot/imported/Beach_Stage_Fog_Machine_Fog_Only_Complete_16x16.png-139ccadedbe15fd5a4bb80b01e3850a5.ctex"
+path="res://.godot/imported/Beach_Stage_Fog_Machine_Fog_Only_Complete_16x16.png-a9f459daa6a0d0bf006827b59d33a7bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Beach_Stage_Fog_Machine_Fog_Only_Complete_16x16.png"
-dest_files=["res://.godot/imported/Beach_Stage_Fog_Machine_Fog_Only_Complete_16x16.png-139ccadedbe15fd5a4bb80b01e3850a5.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Beach_Stage_Fog_Machine_Fog_Only_Complete_16x16.png"
+dest_files=["res://.godot/imported/Beach_Stage_Fog_Machine_Fog_Only_Complete_16x16.png-a9f459daa6a0d0bf006827b59d33a7bb.ctex"]
 
 [params]
 

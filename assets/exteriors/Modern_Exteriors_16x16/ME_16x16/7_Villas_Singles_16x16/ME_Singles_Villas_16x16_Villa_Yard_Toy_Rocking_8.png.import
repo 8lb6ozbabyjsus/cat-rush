@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c85ysxpmru8lc"
-path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Toy_Rocking_8.png-e28773a3fd92f4ab45628d16e64058e9.ctex"
+path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Toy_Rocking_8.png-f7cd04b002a9cf181f296e8d0937f1d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/7_Villas_Singles_16x16/ME_Singles_Villas_16x16_Villa_Yard_Toy_Rocking_8.png"
-dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Toy_Rocking_8.png-e28773a3fd92f4ab45628d16e64058e9.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/7_Villas_Singles_16x16/ME_Singles_Villas_16x16_Villa_Yard_Toy_Rocking_8.png"
+dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Toy_Rocking_8.png-f7cd04b002a9cf181f296e8d0937f1d2.ctex"]
 
 [params]
 

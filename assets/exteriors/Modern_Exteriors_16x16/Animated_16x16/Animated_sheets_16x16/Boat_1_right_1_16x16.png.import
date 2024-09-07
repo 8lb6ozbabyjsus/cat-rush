@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbaysbm8k6kse"
-path="res://.godot/imported/Boat_1_right_1_16x16.png-565fa9271ba1782cc4dd34910d93806e.ctex"
+path="res://.godot/imported/Boat_1_right_1_16x16.png-f943dbaef86f868363f929249d2374bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Boat_1_right_1_16x16.png"
-dest_files=["res://.godot/imported/Boat_1_right_1_16x16.png-565fa9271ba1782cc4dd34910d93806e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Boat_1_right_1_16x16.png"
+dest_files=["res://.godot/imported/Boat_1_right_1_16x16.png-f943dbaef86f868363f929249d2374bd.ctex"]
 
 [params]
 

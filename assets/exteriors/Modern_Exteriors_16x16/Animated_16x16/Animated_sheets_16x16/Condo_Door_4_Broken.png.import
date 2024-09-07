@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm5efnx61njjq"
-path="res://.godot/imported/Condo_Door_4_Broken.png-e2a67c550f1cae6cfa774c1c66057f20.ctex"
+path="res://.godot/imported/Condo_Door_4_Broken.png-1386586927ee7f99c226bf6bba20de89.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Condo_Door_4_Broken.png"
-dest_files=["res://.godot/imported/Condo_Door_4_Broken.png-e2a67c550f1cae6cfa774c1c66057f20.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Condo_Door_4_Broken.png"
+dest_files=["res://.godot/imported/Condo_Door_4_Broken.png-1386586927ee7f99c226bf6bba20de89.ctex"]
 
 [params]
 

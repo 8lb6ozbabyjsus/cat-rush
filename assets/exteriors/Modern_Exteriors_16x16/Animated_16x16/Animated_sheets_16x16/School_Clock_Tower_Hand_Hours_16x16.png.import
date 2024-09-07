@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bot2n08h7ouyh"
-path="res://.godot/imported/School_Clock_Tower_Hand_Hours_16x16.png-9aeb3cd849290f12d68640e5f020606b.ctex"
+path="res://.godot/imported/School_Clock_Tower_Hand_Hours_16x16.png-94d293e390f386f6e9e60ed2de68a2f6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/School_Clock_Tower_Hand_Hours_16x16.png"
-dest_files=["res://.godot/imported/School_Clock_Tower_Hand_Hours_16x16.png-9aeb3cd849290f12d68640e5f020606b.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/School_Clock_Tower_Hand_Hours_16x16.png"
+dest_files=["res://.godot/imported/School_Clock_Tower_Hand_Hours_16x16.png-94d293e390f386f6e9e60ed2de68a2f6.ctex"]
 
 [params]
 

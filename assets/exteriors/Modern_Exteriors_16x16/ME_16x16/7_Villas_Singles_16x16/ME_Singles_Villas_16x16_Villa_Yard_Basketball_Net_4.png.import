@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://obgv6xwgby3t"
-path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Basketball_Net_4.png-3c9281fdf914fd770150c168cddefdd2.ctex"
+path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Basketball_Net_4.png-e37a14c7ce2cdb6adeee18aec2bdba98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/7_Villas_Singles_16x16/ME_Singles_Villas_16x16_Villa_Yard_Basketball_Net_4.png"
-dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Basketball_Net_4.png-3c9281fdf914fd770150c168cddefdd2.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/7_Villas_Singles_16x16/ME_Singles_Villas_16x16_Villa_Yard_Basketball_Net_4.png"
+dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Basketball_Net_4.png-e37a14c7ce2cdb6adeee18aec2bdba98.ctex"]
 
 [params]
 

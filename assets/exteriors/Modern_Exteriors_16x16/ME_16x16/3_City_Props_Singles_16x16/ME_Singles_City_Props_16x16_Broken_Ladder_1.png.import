@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvorbeuixnf2j"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Broken_Ladder_1.png-6a650c6c0c6bce93d0150681cf0974bb.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Broken_Ladder_1.png-2ed6f9314ac8333dca6307f2ef46a70a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Broken_Ladder_1.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Broken_Ladder_1.png-6a650c6c0c6bce93d0150681cf0974bb.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Broken_Ladder_1.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Broken_Ladder_1.png-2ed6f9314ac8333dca6307f2ef46a70a.ctex"]
 
 [params]
 

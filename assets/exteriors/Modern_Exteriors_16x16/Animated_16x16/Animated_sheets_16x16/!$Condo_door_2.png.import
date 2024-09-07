@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dybhr3dwbn50t"
-path="res://.godot/imported/!$Condo_door_2.png-9afbd4216e0b47ee20530c448d55261e.ctex"
+path="res://.godot/imported/!$Condo_door_2.png-1db4c291c58cc59aa0295610f711a33d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/!$Condo_door_2.png"
-dest_files=["res://.godot/imported/!$Condo_door_2.png-9afbd4216e0b47ee20530c448d55261e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/!$Condo_door_2.png"
+dest_files=["res://.godot/imported/!$Condo_door_2.png-1db4c291c58cc59aa0295610f711a33d.ctex"]
 
 [params]
 

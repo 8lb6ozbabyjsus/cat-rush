@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csyc6l3qnk821"
-path="res://.godot/imported/ME_Singles_Police_Station_16x16_Sidewalk_Obstacle_2.png-9cc62a82bab3062d7189e055bd41578f.ctex"
+path="res://.godot/imported/ME_Singles_Police_Station_16x16_Sidewalk_Obstacle_2.png-c332921d6e9cf9a12d81839835560ab9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Police_Station_16x16_Sidewalk_Obstacle_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Sidewalk_Obstacle_2.png-9cc62a82bab3062d7189e055bd41578f.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Police_Station_16x16_Sidewalk_Obstacle_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Sidewalk_Obstacle_2.png-c332921d6e9cf9a12d81839835560ab9.ctex"]
 
 [params]
 

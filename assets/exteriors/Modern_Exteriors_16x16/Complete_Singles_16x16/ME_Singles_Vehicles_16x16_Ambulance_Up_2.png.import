@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mu15lw7knca7"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Ambulance_Up_2.png-47906fd452f89bda10ec8297d1539646.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Ambulance_Up_2.png-ce21ebf73a2b110614ae8aeb3f3d50f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Ambulance_Up_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Ambulance_Up_2.png-47906fd452f89bda10ec8297d1539646.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Ambulance_Up_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Ambulance_Up_2.png-ce21ebf73a2b110614ae8aeb3f3d50f2.ctex"]
 
 [params]
 

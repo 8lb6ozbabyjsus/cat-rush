@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv7y8b7u53oa3"
-path="res://.godot/imported/Shutter_2_empty_16x16.png-a86b5d76864d9772fe0dc66c2bdd4f1b.ctex"
+path="res://.godot/imported/Shutter_2_empty_16x16.png-97d7e52dc23d81a7aa0e83a072e7685d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Shutter_2_empty_16x16.png"
-dest_files=["res://.godot/imported/Shutter_2_empty_16x16.png-a86b5d76864d9772fe0dc66c2bdd4f1b.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Shutter_2_empty_16x16.png"
+dest_files=["res://.godot/imported/Shutter_2_empty_16x16.png-97d7e52dc23d81a7aa0e83a072e7685d.ctex"]
 
 [params]
 

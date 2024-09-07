@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dymcabo56ytm8"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Pigeon_1.png-adb7bc06848e054feb732316f4235a6e.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Pigeon_1.png-cfa712b801b74de991bcd6935e992cb6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Pigeon_1.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Pigeon_1.png-adb7bc06848e054feb732316f4235a6e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Pigeon_1.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Pigeon_1.png-cfa712b801b74de991bcd6935e992cb6.ctex"]
 
 [params]
 

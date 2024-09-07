@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmtlnhxiivoyk"
-path="res://.godot/imported/Container_Door_1.png-ad29924734ee6ae2568cfd3299e35b2e.ctex"
+path="res://.godot/imported/Container_Door_1.png-c13586ed436c5a373db9c791b6e96432.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Container_Door_1.png"
-dest_files=["res://.godot/imported/Container_Door_1.png-ad29924734ee6ae2568cfd3299e35b2e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Container_Door_1.png"
+dest_files=["res://.godot/imported/Container_Door_1.png-c13586ed436c5a373db9c791b6e96432.ctex"]
 
 [params]
 

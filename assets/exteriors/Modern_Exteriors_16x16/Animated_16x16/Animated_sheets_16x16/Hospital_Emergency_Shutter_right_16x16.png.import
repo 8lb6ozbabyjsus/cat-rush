@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuq146r8s8cay"
-path="res://.godot/imported/Hospital_Emergency_Shutter_right_16x16.png-3aaed31513d7288d4556e1068d0f36a4.ctex"
+path="res://.godot/imported/Hospital_Emergency_Shutter_right_16x16.png-3db5642d8b2a079c6e993f77652679ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Hospital_Emergency_Shutter_right_16x16.png"
-dest_files=["res://.godot/imported/Hospital_Emergency_Shutter_right_16x16.png-3aaed31513d7288d4556e1068d0f36a4.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Hospital_Emergency_Shutter_right_16x16.png"
+dest_files=["res://.godot/imported/Hospital_Emergency_Shutter_right_16x16.png-3db5642d8b2a079c6e993f77652679ad.ctex"]
 
 [params]
 

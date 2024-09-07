@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvqv4q87yjqy5"
-path="res://.godot/imported/Trash_Truck_2_16x16.png-aa01b1d1edf67c6d60e4af1ab321569a.ctex"
+path="res://.godot/imported/Trash_Truck_2_16x16.png-295fc4d7771e9a9f21c4921cbff2b853.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Trash_Truck_16x16/Trash_Truck_2_16x16.png"
-dest_files=["res://.godot/imported/Trash_Truck_2_16x16.png-aa01b1d1edf67c6d60e4af1ab321569a.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Vehicles_16x16/Trash_Truck_16x16/Trash_Truck_2_16x16.png"
+dest_files=["res://.godot/imported/Trash_Truck_2_16x16.png-295fc4d7771e9a9f21c4921cbff2b853.ctex"]
 
 [params]
 

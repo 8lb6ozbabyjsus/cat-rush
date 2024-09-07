@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdrwaq7stkiif"
-path="res://.godot/imported/ME_Singles_Villas_16x16_Armchair_1.png-072e84fe842f6218cd8c979e12e773ca.ctex"
+path="res://.godot/imported/ME_Singles_Villas_16x16_Armchair_1.png-ccd6622419631fb598f974e2514c72f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/7_Villas_Singles_16x16/ME_Singles_Villas_16x16_Armchair_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Armchair_1.png-072e84fe842f6218cd8c979e12e773ca.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/7_Villas_Singles_16x16/ME_Singles_Villas_16x16_Armchair_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Armchair_1.png-ccd6622419631fb598f974e2514c72f4.ctex"]
 
 [params]
 

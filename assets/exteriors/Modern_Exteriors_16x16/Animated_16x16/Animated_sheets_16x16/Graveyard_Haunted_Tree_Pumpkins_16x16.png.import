@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bescuyh5hoaoa"
-path="res://.godot/imported/Graveyard_Haunted_Tree_Pumpkins_16x16.png-1ec7149818e275dc9e1a3b9fac6baa20.ctex"
+path="res://.godot/imported/Graveyard_Haunted_Tree_Pumpkins_16x16.png-fd93baa26b2508e64e9599d8b7976da1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Graveyard_Haunted_Tree_Pumpkins_16x16.png"
-dest_files=["res://.godot/imported/Graveyard_Haunted_Tree_Pumpkins_16x16.png-1ec7149818e275dc9e1a3b9fac6baa20.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Graveyard_Haunted_Tree_Pumpkins_16x16.png"
+dest_files=["res://.godot/imported/Graveyard_Haunted_Tree_Pumpkins_16x16.png-fd93baa26b2508e64e9599d8b7976da1.ctex"]
 
 [params]
 

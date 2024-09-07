@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cy4d0qkordml7"
-path="res://.godot/imported/ME_Singles_Worksite_16x16_Helmet_1.png-fb84e6565aec224033e4156189f1c2be.ctex"
+path="res://.godot/imported/ME_Singles_Worksite_16x16_Helmet_1.png-0f80efc8ff5d330cac8ba6b0e8524e36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Worksite_16x16_Helmet_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Helmet_1.png-fb84e6565aec224033e4156189f1c2be.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Worksite_16x16_Helmet_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Worksite_16x16_Helmet_1.png-0f80efc8ff5d330cac8ba6b0e8524e36.ctex"]
 
 [params]
 

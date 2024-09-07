@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ycj5e04pmkwx"
-path="res://.godot/imported/Trailer_Door_16x16.png-7a86e8fbc25c16f39988e100f6ae573e.ctex"
+path="res://.godot/imported/Trailer_Door_16x16.png-c7d9010f1f4a276ba718709275553e88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Trailer_Door_16x16.png"
-dest_files=["res://.godot/imported/Trailer_Door_16x16.png-7a86e8fbc25c16f39988e100f6ae573e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Trailer_Door_16x16.png"
+dest_files=["res://.godot/imported/Trailer_Door_16x16.png-c7d9010f1f4a276ba718709275553e88.ctex"]
 
 [params]
 

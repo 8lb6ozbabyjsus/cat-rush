@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2qcngkuu4n4t"
-path="res://.godot/imported/Fishes_2_16x16.png-c0c7b09acce322f27db4b19a892f66f7.ctex"
+path="res://.godot/imported/Fishes_2_16x16.png-67e2ea76546b4fdeef4c586e8cafab2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Fishes_2_16x16.png"
-dest_files=["res://.godot/imported/Fishes_2_16x16.png-c0c7b09acce322f27db4b19a892f66f7.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Fishes_2_16x16.png"
+dest_files=["res://.godot/imported/Fishes_2_16x16.png-67e2ea76546b4fdeef4c586e8cafab2b.ctex"]
 
 [params]
 

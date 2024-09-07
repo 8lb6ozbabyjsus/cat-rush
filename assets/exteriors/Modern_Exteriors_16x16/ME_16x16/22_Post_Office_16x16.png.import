@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://it6hrktbtxds"
-path="res://.godot/imported/22_Post_Office_16x16.png-a9ff3b33a6840a8ba342d1856b3ac396.ctex"
+path="res://.godot/imported/22_Post_Office_16x16.png-ac4ccb8dcd90557ddf8248e9827915dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/22_Post_Office_16x16.png"
-dest_files=["res://.godot/imported/22_Post_Office_16x16.png-a9ff3b33a6840a8ba342d1856b3ac396.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/22_Post_Office_16x16.png"
+dest_files=["res://.godot/imported/22_Post_Office_16x16.png-ac4ccb8dcd90557ddf8248e9827915dd.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs0fn61j30uq"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Parking_Meter_1.png-7751253b0f4a0391c24625b0482bc0fe.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Parking_Meter_1.png-33e8c4209bf0dfad10faf00234a026f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Parking_Meter_1.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Parking_Meter_1.png-7751253b0f4a0391c24625b0482bc0fe.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Parking_Meter_1.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Parking_Meter_1.png-33e8c4209bf0dfad10faf00234a026f0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkvatmpx7he4u"
-path="res://.godot/imported/Pigeon_16x16.png-4cfad25fbc7506fda7537a94c1587128.ctex"
+path="res://.godot/imported/Pigeon_16x16.png-c4845dbdce741bbe226dbdb566f45f1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Pigeon_16x16.png"
-dest_files=["res://.godot/imported/Pigeon_16x16.png-4cfad25fbc7506fda7537a94c1587128.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Pigeon_16x16.png"
+dest_files=["res://.godot/imported/Pigeon_16x16.png-c4845dbdce741bbe226dbdb566f45f1d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nsv5wsihm0nq"
-path="res://.godot/imported/ME_Singles_City_Terrains_16x16_Sidewalk_4_1.png-2086e9bf1c52d83bf14ef9b8ce8d6dae.ctex"
+path="res://.godot/imported/ME_Singles_City_Terrains_16x16_Sidewalk_4_1.png-85ddaf93dcec9f2e1f93cd0f20559da8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Terrains_16x16_Sidewalk_4_1.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Terrains_16x16_Sidewalk_4_1.png-2086e9bf1c52d83bf14ef9b8ce8d6dae.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Terrains_16x16_Sidewalk_4_1.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Terrains_16x16_Sidewalk_4_1.png-85ddaf93dcec9f2e1f93cd0f20559da8.ctex"]
 
 [params]
 

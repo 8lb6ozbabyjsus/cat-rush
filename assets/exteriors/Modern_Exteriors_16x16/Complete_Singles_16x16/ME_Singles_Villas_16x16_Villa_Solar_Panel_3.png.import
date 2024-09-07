@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vd3mcd7qa68r"
-path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Solar_Panel_3.png-0154cc8e941930d72faed25fee0497da.ctex"
+path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Solar_Panel_3.png-7748c9d468e7816d1307be050e161d60.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Villas_16x16_Villa_Solar_Panel_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Solar_Panel_3.png-0154cc8e941930d72faed25fee0497da.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Villas_16x16_Villa_Solar_Panel_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Solar_Panel_3.png-7748c9d468e7816d1307be050e161d60.ctex"]
 
 [params]
 

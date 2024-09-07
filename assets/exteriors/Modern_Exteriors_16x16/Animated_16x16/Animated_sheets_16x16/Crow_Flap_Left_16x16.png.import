@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uqv2lxa62sl"
-path="res://.godot/imported/Crow_Flap_Left_16x16.png-39e3c4f6e6d7d5c1a6590fb45b3d599c.ctex"
+path="res://.godot/imported/Crow_Flap_Left_16x16.png-2d85f647d2471565556b9a82963b6f15.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Crow_Flap_Left_16x16.png"
-dest_files=["res://.godot/imported/Crow_Flap_Left_16x16.png-39e3c4f6e6d7d5c1a6590fb45b3d599c.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Crow_Flap_Left_16x16.png"
+dest_files=["res://.godot/imported/Crow_Flap_Left_16x16.png-2d85f647d2471565556b9a82963b6f15.ctex"]
 
 [params]
 

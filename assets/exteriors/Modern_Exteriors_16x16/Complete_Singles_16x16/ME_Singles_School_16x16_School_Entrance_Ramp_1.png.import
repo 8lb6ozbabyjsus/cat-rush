@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://baa5lxwb07ry6"
-path="res://.godot/imported/ME_Singles_School_16x16_School_Entrance_Ramp_1.png-e355149c8ba27d2b320cb100cf84e2ba.ctex"
+path="res://.godot/imported/ME_Singles_School_16x16_School_Entrance_Ramp_1.png-620d3c96a7638c493df7b17743eea3c5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_School_16x16_School_Entrance_Ramp_1.png"
-dest_files=["res://.godot/imported/ME_Singles_School_16x16_School_Entrance_Ramp_1.png-e355149c8ba27d2b320cb100cf84e2ba.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_School_16x16_School_Entrance_Ramp_1.png"
+dest_files=["res://.godot/imported/ME_Singles_School_16x16_School_Entrance_Ramp_1.png-620d3c96a7638c493df7b17743eea3c5.ctex"]
 
 [params]
 

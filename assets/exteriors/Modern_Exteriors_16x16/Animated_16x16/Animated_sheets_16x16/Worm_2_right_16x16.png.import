@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcoyf31rjb5j1"
-path="res://.godot/imported/Worm_2_right_16x16.png-08b2d68cf6832655e0de48473cdeca85.ctex"
+path="res://.godot/imported/Worm_2_right_16x16.png-bbe1bbe4cce701ccc184f750e824038a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Worm_2_right_16x16.png"
-dest_files=["res://.godot/imported/Worm_2_right_16x16.png-08b2d68cf6832655e0de48473cdeca85.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Worm_2_right_16x16.png"
+dest_files=["res://.godot/imported/Worm_2_right_16x16.png-bbe1bbe4cce701ccc184f750e824038a.ctex"]
 
 [params]
 

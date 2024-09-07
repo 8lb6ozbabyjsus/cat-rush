@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs1lqbc24ba1i"
-path="res://.godot/imported/ME_Singles_Garden_16x16_Statue_Putto_1.png-9326fa3ff2db593820886fe49db44e31.ctex"
+path="res://.godot/imported/ME_Singles_Garden_16x16_Statue_Putto_1.png-d8dfac617ac1b07da2e84d79ee547355.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Garden_16x16_Statue_Putto_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Statue_Putto_1.png-9326fa3ff2db593820886fe49db44e31.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Garden_16x16_Statue_Putto_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Statue_Putto_1.png-d8dfac617ac1b07da2e84d79ee547355.ctex"]
 
 [params]
 

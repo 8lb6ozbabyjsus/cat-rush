@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://51a2dslj1pae"
-path="res://.godot/imported/Spring_Swing_2.png-c1c7ef71e22f592d268b0ccccd5e8bbe.ctex"
+path="res://.godot/imported/Spring_Swing_2.png-e5f5cbaaa01d07f4b7e77481e635bc11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Spring_Swing_2.png"
-dest_files=["res://.godot/imported/Spring_Swing_2.png-c1c7ef71e22f592d268b0ccccd5e8bbe.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Spring_Swing_2.png"
+dest_files=["res://.godot/imported/Spring_Swing_2.png-e5f5cbaaa01d07f4b7e77481e635bc11.ctex"]
 
 [params]
 

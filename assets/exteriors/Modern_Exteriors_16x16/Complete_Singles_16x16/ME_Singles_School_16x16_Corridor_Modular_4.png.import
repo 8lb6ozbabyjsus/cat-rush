@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://do0wqiao0bap3"
-path="res://.godot/imported/ME_Singles_School_16x16_Corridor_Modular_4.png-3d8308552827130a163ae5dee1f13c30.ctex"
+path="res://.godot/imported/ME_Singles_School_16x16_Corridor_Modular_4.png-84dcbc4bff373543375ebb1dc8f4fb20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_School_16x16_Corridor_Modular_4.png"
-dest_files=["res://.godot/imported/ME_Singles_School_16x16_Corridor_Modular_4.png-3d8308552827130a163ae5dee1f13c30.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_School_16x16_Corridor_Modular_4.png"
+dest_files=["res://.godot/imported/ME_Singles_School_16x16_Corridor_Modular_4.png-84dcbc4bff373543375ebb1dc8f4fb20.ctex"]
 
 [params]
 

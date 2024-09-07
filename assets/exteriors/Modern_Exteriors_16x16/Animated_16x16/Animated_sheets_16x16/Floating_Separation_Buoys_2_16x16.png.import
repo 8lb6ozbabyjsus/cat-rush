@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cd066i8blm53e"
-path="res://.godot/imported/Floating_Separation_Buoys_2_16x16.png-1823ea846c0fa4aba6c0ccdb6a76189c.ctex"
+path="res://.godot/imported/Floating_Separation_Buoys_2_16x16.png-e3add862239ca3f47df18bfa1c557341.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Separation_Buoys_2_16x16.png"
-dest_files=["res://.godot/imported/Floating_Separation_Buoys_2_16x16.png-1823ea846c0fa4aba6c0ccdb6a76189c.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Separation_Buoys_2_16x16.png"
+dest_files=["res://.godot/imported/Floating_Separation_Buoys_2_16x16.png-e3add862239ca3f47df18bfa1c557341.ctex"]
 
 [params]
 

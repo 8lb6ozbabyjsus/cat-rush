@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d13x45x0wyhhj"
-path="res://.godot/imported/Delivery_Truck_Door_16x16.png-5b9bc21469daed9725e085ad406d4290.ctex"
+path="res://.godot/imported/Delivery_Truck_Door_16x16.png-ac599e6176efe71feff3585b1e998e4f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Delivery_Truck_Door_16x16.png"
-dest_files=["res://.godot/imported/Delivery_Truck_Door_16x16.png-5b9bc21469daed9725e085ad406d4290.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Delivery_Truck_Door_16x16.png"
+dest_files=["res://.godot/imported/Delivery_Truck_Door_16x16.png-ac599e6176efe71feff3585b1e998e4f.ctex"]
 
 [params]
 

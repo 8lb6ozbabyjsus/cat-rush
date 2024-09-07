@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpig2dx53t20m"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Street_Lamp_5.png-d0edd58d2fb56b1c788001110e009c99.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Street_Lamp_5.png-588d3f45e131af1dedff21eea61e7ddc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Street_Lamp_5.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Street_Lamp_5.png-d0edd58d2fb56b1c788001110e009c99.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Street_Lamp_5.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Street_Lamp_5.png-588d3f45e131af1dedff21eea61e7ddc.ctex"]
 
 [params]
 

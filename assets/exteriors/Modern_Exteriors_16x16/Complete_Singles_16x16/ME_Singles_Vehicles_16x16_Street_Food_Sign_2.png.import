@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://catp76hgveen2"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Street_Food_Sign_2.png-413f9eda7d3775167072a0caeb031b7e.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Street_Food_Sign_2.png-7d8e35bc31f6a82cf041fd7e314f0e2c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Street_Food_Sign_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Street_Food_Sign_2.png-413f9eda7d3775167072a0caeb031b7e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Street_Food_Sign_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Street_Food_Sign_2.png-7d8e35bc31f6a82cf041fd7e314f0e2c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dn360he1a2b8p"
-path="res://.godot/imported/Hospital_Stretcher_Character_4_front_16x16.png-8f4e86f01161e1f2d7371330fb9eb004.ctex"
+path="res://.godot/imported/Hospital_Stretcher_Character_4_front_16x16.png-d874cf770f855a3dca5cb6ab5071b486.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Hospital_Stretcher_Character_4_front_16x16.png"
-dest_files=["res://.godot/imported/Hospital_Stretcher_Character_4_front_16x16.png-8f4e86f01161e1f2d7371330fb9eb004.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Hospital_Stretcher_Character_4_front_16x16.png"
+dest_files=["res://.godot/imported/Hospital_Stretcher_Character_4_front_16x16.png-d874cf770f855a3dca5cb6ab5071b486.ctex"]
 
 [params]
 

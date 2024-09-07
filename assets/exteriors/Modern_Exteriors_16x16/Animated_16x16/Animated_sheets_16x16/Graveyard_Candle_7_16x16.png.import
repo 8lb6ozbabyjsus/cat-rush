@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bg425h84icbyj"
-path="res://.godot/imported/Graveyard_Candle_7_16x16.png-94a5bed14f2fed84872f0fa9c7422c72.ctex"
+path="res://.godot/imported/Graveyard_Candle_7_16x16.png-d2199bb615744eeee118f3422842861c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Graveyard_Candle_7_16x16.png"
-dest_files=["res://.godot/imported/Graveyard_Candle_7_16x16.png-94a5bed14f2fed84872f0fa9c7422c72.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Graveyard_Candle_7_16x16.png"
+dest_files=["res://.godot/imported/Graveyard_Candle_7_16x16.png-d2199bb615744eeee118f3422842861c.ctex"]
 
 [params]
 

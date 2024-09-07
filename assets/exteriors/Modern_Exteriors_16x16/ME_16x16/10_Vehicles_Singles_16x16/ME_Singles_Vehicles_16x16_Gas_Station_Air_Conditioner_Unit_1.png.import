@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0fsllnuax211"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Air_Conditioner_Unit_1.png-fb5c1c68ac1b5288c322f51cd2e30d78.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Air_Conditioner_Unit_1.png-30cc82293ec51eeb6cd4ea236906ee82.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Gas_Station_Air_Conditioner_Unit_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Air_Conditioner_Unit_1.png-fb5c1c68ac1b5288c322f51cd2e30d78.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Gas_Station_Air_Conditioner_Unit_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Air_Conditioner_Unit_1.png-30cc82293ec51eeb6cd4ea236906ee82.ctex"]
 
 [params]
 

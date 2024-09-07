@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsr1m77pnt5hl"
-path="res://.godot/imported/ME_Singles_Garden_16x16_Statue_Angel_2.png-91465873b95c69c6d81791e083ff9564.ctex"
+path="res://.godot/imported/ME_Singles_Garden_16x16_Statue_Angel_2.png-39341b4024e522ceac9bb397c04ad0ae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/17_Garden_Singles_16x16/ME_Singles_Garden_16x16_Statue_Angel_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Statue_Angel_2.png-91465873b95c69c6d81791e083ff9564.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/17_Garden_Singles_16x16/ME_Singles_Garden_16x16_Statue_Angel_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Statue_Angel_2.png-39341b4024e522ceac9bb397c04ad0ae.ctex"]
 
 [params]
 

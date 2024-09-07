@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7t4g5auxqkrs"
-path="res://.godot/imported/ME_Singles_Swimming_Pool_16x16_Pool_2_14.png-c3e23c1cbb466cb9dc9080c19afc780b.ctex"
+path="res://.godot/imported/ME_Singles_Swimming_Pool_16x16_Pool_2_14.png-ef0aae757b5243d9a73b3bef511dc620.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/14_Swimming_Pool_Singles_16x16/ME_Singles_Swimming_Pool_16x16_Pool_2_14.png"
-dest_files=["res://.godot/imported/ME_Singles_Swimming_Pool_16x16_Pool_2_14.png-c3e23c1cbb466cb9dc9080c19afc780b.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/14_Swimming_Pool_Singles_16x16/ME_Singles_Swimming_Pool_16x16_Pool_2_14.png"
+dest_files=["res://.godot/imported/ME_Singles_Swimming_Pool_16x16_Pool_2_14.png-ef0aae757b5243d9a73b3bef511dc620.ctex"]
 
 [params]
 

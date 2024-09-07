@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1b8gluruyh1t"
-path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Flowers_1.png-56bb5d4ff91b493bf655af45d4901653.ctex"
+path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Flowers_1.png-0667e38edda45e3bec610628e41d4b09.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Villas_16x16_Villa_Yard_Flowers_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Flowers_1.png-56bb5d4ff91b493bf655af45d4901653.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Villas_16x16_Villa_Yard_Flowers_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Flowers_1.png-0667e38edda45e3bec610628e41d4b09.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dulkwchr2pfc"
-path="res://.godot/imported/Waterfall_3_3_Tiles_Height_16x16.png-7799c07b74b11c8e47c8304d438807b1.ctex"
+path="res://.godot/imported/Waterfall_3_3_Tiles_Height_16x16.png-d3befbc5dd86d77f15db7908b2013298.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Waterfall_3_3_Tiles_Height_16x16.png"
-dest_files=["res://.godot/imported/Waterfall_3_3_Tiles_Height_16x16.png-7799c07b74b11c8e47c8304d438807b1.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Waterfall_3_3_Tiles_Height_16x16.png"
+dest_files=["res://.godot/imported/Waterfall_3_3_Tiles_Height_16x16.png-d3befbc5dd86d77f15db7908b2013298.ctex"]
 
 [params]
 

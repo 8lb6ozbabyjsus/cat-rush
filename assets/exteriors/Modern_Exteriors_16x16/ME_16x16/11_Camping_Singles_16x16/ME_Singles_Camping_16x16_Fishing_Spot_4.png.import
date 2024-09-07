@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds4k6xwitk0ww"
-path="res://.godot/imported/ME_Singles_Camping_16x16_Fishing_Spot_4.png-2112102a18e696322108a37ba9f49347.ctex"
+path="res://.godot/imported/ME_Singles_Camping_16x16_Fishing_Spot_4.png-02737f3959160bf3d3678fb69e6642fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Fishing_Spot_4.png"
-dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Fishing_Spot_4.png-2112102a18e696322108a37ba9f49347.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Fishing_Spot_4.png"
+dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Fishing_Spot_4.png-02737f3959160bf3d3678fb69e6642fb.ctex"]
 
 [params]
 

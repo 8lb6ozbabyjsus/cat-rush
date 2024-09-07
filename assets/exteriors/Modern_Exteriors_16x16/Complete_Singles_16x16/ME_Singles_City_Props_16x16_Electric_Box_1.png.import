@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmh7o8ln4gtdl"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Electric_Box_1.png-3ad41163a0e267b5b0ef0beed4197775.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Electric_Box_1.png-7be8be71cee5a9786cb2c52a744a4f06.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Electric_Box_1.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Electric_Box_1.png-3ad41163a0e267b5b0ef0beed4197775.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Electric_Box_1.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Electric_Box_1.png-7be8be71cee5a9786cb2c52a744a4f06.ctex"]
 
 [params]
 

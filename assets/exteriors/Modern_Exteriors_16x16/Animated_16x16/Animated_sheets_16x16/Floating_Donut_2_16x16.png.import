@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kbcf4mmy43g7"
-path="res://.godot/imported/Floating_Donut_2_16x16.png-578b9296127cf976f8723c350d6df879.ctex"
+path="res://.godot/imported/Floating_Donut_2_16x16.png-cc1c665901b91ab374c3255308c8ebfc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Donut_2_16x16.png"
-dest_files=["res://.godot/imported/Floating_Donut_2_16x16.png-578b9296127cf976f8723c350d6df879.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Donut_2_16x16.png"
+dest_files=["res://.godot/imported/Floating_Donut_2_16x16.png-cc1c665901b91ab374c3255308c8ebfc.ctex"]
 
 [params]
 

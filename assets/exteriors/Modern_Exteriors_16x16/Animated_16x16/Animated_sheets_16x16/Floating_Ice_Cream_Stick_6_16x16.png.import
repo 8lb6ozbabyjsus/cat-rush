@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbr5ujl7n1tty"
-path="res://.godot/imported/Floating_Ice_Cream_Stick_6_16x16.png-7cdaf598b0cd7855a148566a485170a2.ctex"
+path="res://.godot/imported/Floating_Ice_Cream_Stick_6_16x16.png-69b329d1dd546c0822aeef1be56f7bd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Ice_Cream_Stick_6_16x16.png"
-dest_files=["res://.godot/imported/Floating_Ice_Cream_Stick_6_16x16.png-7cdaf598b0cd7855a148566a485170a2.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Floating_Ice_Cream_Stick_6_16x16.png"
+dest_files=["res://.godot/imported/Floating_Ice_Cream_Stick_6_16x16.png-69b329d1dd546c0822aeef1be56f7bd2.ctex"]
 
 [params]
 

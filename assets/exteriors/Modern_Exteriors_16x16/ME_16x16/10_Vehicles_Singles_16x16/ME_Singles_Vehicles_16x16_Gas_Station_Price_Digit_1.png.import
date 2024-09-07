@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yi0wrakwkcg5"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Price_Digit_1.png-4741152b199aec277535c511516dd46a.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Price_Digit_1.png-ad7f4727bed3836fe83966b038a48f10.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Gas_Station_Price_Digit_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Price_Digit_1.png-4741152b199aec277535c511516dd46a.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/10_Vehicles_Singles_16x16/ME_Singles_Vehicles_16x16_Gas_Station_Price_Digit_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Gas_Station_Price_Digit_1.png-ad7f4727bed3836fe83966b038a48f10.ctex"]
 
 [params]
 

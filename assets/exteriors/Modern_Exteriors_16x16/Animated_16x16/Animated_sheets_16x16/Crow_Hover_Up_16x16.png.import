@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://boasi5aled6h5"
-path="res://.godot/imported/Crow_Hover_Up_16x16.png-04891a13fa427d8ab0b0d79fee7edf75.ctex"
+path="res://.godot/imported/Crow_Hover_Up_16x16.png-53149e32bdf06af5cf4f85e06b84688f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Crow_Hover_Up_16x16.png"
-dest_files=["res://.godot/imported/Crow_Hover_Up_16x16.png-04891a13fa427d8ab0b0d79fee7edf75.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Crow_Hover_Up_16x16.png"
+dest_files=["res://.godot/imported/Crow_Hover_Up_16x16.png-53149e32bdf06af5cf4f85e06b84688f.ctex"]
 
 [params]
 

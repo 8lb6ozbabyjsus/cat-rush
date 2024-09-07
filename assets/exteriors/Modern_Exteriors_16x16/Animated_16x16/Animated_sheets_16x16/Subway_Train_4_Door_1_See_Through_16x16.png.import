@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jrkgyjl8gvjf"
-path="res://.godot/imported/Subway_Train_4_Door_1_See_Through_16x16.png-9550f8835640656b3ede84978ff3aff2.ctex"
+path="res://.godot/imported/Subway_Train_4_Door_1_See_Through_16x16.png-b54a7e4881600cda827f769210ea2a32.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Subway_Train_4_Door_1_See_Through_16x16.png"
-dest_files=["res://.godot/imported/Subway_Train_4_Door_1_See_Through_16x16.png-9550f8835640656b3ede84978ff3aff2.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Subway_Train_4_Door_1_See_Through_16x16.png"
+dest_files=["res://.godot/imported/Subway_Train_4_Door_1_See_Through_16x16.png-b54a7e4881600cda827f769210ea2a32.ctex"]
 
 [params]
 

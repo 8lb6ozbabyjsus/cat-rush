@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv0idlmj3s4xm"
-path="res://.godot/imported/Waterfall_Modular_Bottom_Part_16x16.png-7ab7e3da6eab1adba058d4a7fd4faaaa.ctex"
+path="res://.godot/imported/Waterfall_Modular_Bottom_Part_16x16.png-80bcaeb2e3d1b417d4d6b0fb12615d2f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Waterfall_Modular_Bottom_Part_16x16.png"
-dest_files=["res://.godot/imported/Waterfall_Modular_Bottom_Part_16x16.png-7ab7e3da6eab1adba058d4a7fd4faaaa.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Waterfall_Modular_Bottom_Part_16x16.png"
+dest_files=["res://.godot/imported/Waterfall_Modular_Bottom_Part_16x16.png-80bcaeb2e3d1b417d4d6b0fb12615d2f.ctex"]
 
 [params]
 

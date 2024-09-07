@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4fkm6usdssyw"
-path="res://.godot/imported/Graveyard_Ghosts_3_16x16.png-aab96b6e9d3f0255a5ea4091d2b449d2.ctex"
+path="res://.godot/imported/Graveyard_Ghosts_3_16x16.png-591f98d3cc0a66f4d0eebc5c9225b8fa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Graveyard_Ghosts_3_16x16.png"
-dest_files=["res://.godot/imported/Graveyard_Ghosts_3_16x16.png-aab96b6e9d3f0255a5ea4091d2b449d2.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Graveyard_Ghosts_3_16x16.png"
+dest_files=["res://.godot/imported/Graveyard_Ghosts_3_16x16.png-591f98d3cc0a66f4d0eebc5c9225b8fa.ctex"]
 
 [params]
 

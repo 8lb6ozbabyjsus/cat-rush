@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://updfa1t37nci"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Bus_Stop_Sign_3.png-225c79f7cc6f84df26539e8b2706131c.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Bus_Stop_Sign_3.png-a357a97f06e7a709baa7babeebe763cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Bus_Stop_Sign_3.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Bus_Stop_Sign_3.png-225c79f7cc6f84df26539e8b2706131c.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Bus_Stop_Sign_3.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Bus_Stop_Sign_3.png-a357a97f06e7a709baa7babeebe763cb.ctex"]
 
 [params]
 

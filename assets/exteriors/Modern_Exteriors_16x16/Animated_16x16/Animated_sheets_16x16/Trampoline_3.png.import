@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjfhnlhhsema"
-path="res://.godot/imported/Trampoline_3.png-03ffe624dc201ec979652f7be96c416c.ctex"
+path="res://.godot/imported/Trampoline_3.png-d9b30f0d0c20b03271f606a63738caee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Trampoline_3.png"
-dest_files=["res://.godot/imported/Trampoline_3.png-03ffe624dc201ec979652f7be96c416c.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Trampoline_3.png"
+dest_files=["res://.godot/imported/Trampoline_3.png-d9b30f0d0c20b03271f606a63738caee.ctex"]
 
 [params]
 

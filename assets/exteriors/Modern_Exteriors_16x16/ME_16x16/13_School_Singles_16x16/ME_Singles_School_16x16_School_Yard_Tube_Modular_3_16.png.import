@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt5ng3yhh0uxy"
-path="res://.godot/imported/ME_Singles_School_16x16_School_Yard_Tube_Modular_3_16.png-8c1386c3d689e7695742e7314e51c56c.ctex"
+path="res://.godot/imported/ME_Singles_School_16x16_School_Yard_Tube_Modular_3_16.png-3acad2cda3a2c290e6e7f7e6a1c38c34.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/13_School_Singles_16x16/ME_Singles_School_16x16_School_Yard_Tube_Modular_3_16.png"
-dest_files=["res://.godot/imported/ME_Singles_School_16x16_School_Yard_Tube_Modular_3_16.png-8c1386c3d689e7695742e7314e51c56c.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/13_School_Singles_16x16/ME_Singles_School_16x16_School_Yard_Tube_Modular_3_16.png"
+dest_files=["res://.godot/imported/ME_Singles_School_16x16_School_Yard_Tube_Modular_3_16.png-3acad2cda3a2c290e6e7f7e6a1c38c34.ctex"]
 
 [params]
 

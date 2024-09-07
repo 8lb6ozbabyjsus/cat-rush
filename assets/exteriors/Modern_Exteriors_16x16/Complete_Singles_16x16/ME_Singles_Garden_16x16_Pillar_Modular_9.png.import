@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cr38rcxtog1cs"
-path="res://.godot/imported/ME_Singles_Garden_16x16_Pillar_Modular_9.png-4b668e3ee8066efc03ce8481bf3bfc7c.ctex"
+path="res://.godot/imported/ME_Singles_Garden_16x16_Pillar_Modular_9.png-b7ee279f41ab1005cddaae28d9b29bb1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Garden_16x16_Pillar_Modular_9.png"
-dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Pillar_Modular_9.png-4b668e3ee8066efc03ce8481bf3bfc7c.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Garden_16x16_Pillar_Modular_9.png"
+dest_files=["res://.godot/imported/ME_Singles_Garden_16x16_Pillar_Modular_9.png-b7ee279f41ab1005cddaae28d9b29bb1.ctex"]
 
 [params]
 

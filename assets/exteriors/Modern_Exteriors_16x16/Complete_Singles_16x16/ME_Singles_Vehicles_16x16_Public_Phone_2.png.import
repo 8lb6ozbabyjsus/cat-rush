@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq3vp3itkdwcj"
-path="res://.godot/imported/ME_Singles_Vehicles_16x16_Public_Phone_2.png-e910b8cc83868a3dac014e85601d86f6.ctex"
+path="res://.godot/imported/ME_Singles_Vehicles_16x16_Public_Phone_2.png-b843496638102f827143a0f2b354f4ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Public_Phone_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Public_Phone_2.png-e910b8cc83868a3dac014e85601d86f6.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Vehicles_16x16_Public_Phone_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Vehicles_16x16_Public_Phone_2.png-b843496638102f827143a0f2b354f4ee.ctex"]
 
 [params]
 

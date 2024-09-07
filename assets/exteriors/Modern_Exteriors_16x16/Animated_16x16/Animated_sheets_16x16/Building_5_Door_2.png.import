@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckdow0u22sd7k"
-path="res://.godot/imported/Building_5_Door_2.png-bdf86bb5ca0f7dc633d163eb13b7c563.ctex"
+path="res://.godot/imported/Building_5_Door_2.png-1d30e6bfb768feb57c827878f220d5dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Building_5_Door_2.png"
-dest_files=["res://.godot/imported/Building_5_Door_2.png-bdf86bb5ca0f7dc633d163eb13b7c563.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Building_5_Door_2.png"
+dest_files=["res://.godot/imported/Building_5_Door_2.png-1d30e6bfb768feb57c827878f220d5dd.ctex"]
 
 [params]
 

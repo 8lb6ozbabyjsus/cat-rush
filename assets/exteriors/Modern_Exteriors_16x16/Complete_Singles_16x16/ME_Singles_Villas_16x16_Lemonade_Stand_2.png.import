@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7dpv408ivvo5"
-path="res://.godot/imported/ME_Singles_Villas_16x16_Lemonade_Stand_2.png-da723e49efc7e389375ac29df56f181a.ctex"
+path="res://.godot/imported/ME_Singles_Villas_16x16_Lemonade_Stand_2.png-ee79d4dfd66b0659f9eca4257d26339b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Villas_16x16_Lemonade_Stand_2.png"
-dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Lemonade_Stand_2.png-da723e49efc7e389375ac29df56f181a.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Villas_16x16_Lemonade_Stand_2.png"
+dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Lemonade_Stand_2.png-ee79d4dfd66b0659f9eca4257d26339b.ctex"]
 
 [params]
 

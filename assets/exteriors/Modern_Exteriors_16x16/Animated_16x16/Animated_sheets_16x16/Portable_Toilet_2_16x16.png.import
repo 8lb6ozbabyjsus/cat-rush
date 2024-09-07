@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf4l6iyynqwv5"
-path="res://.godot/imported/Portable_Toilet_2_16x16.png-fab29737db1ea396a62fd330069cdb1e.ctex"
+path="res://.godot/imported/Portable_Toilet_2_16x16.png-d58fc25ce2a6a6d1c4ccd9dd707a2888.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Portable_Toilet_2_16x16.png"
-dest_files=["res://.godot/imported/Portable_Toilet_2_16x16.png-fab29737db1ea396a62fd330069cdb1e.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Portable_Toilet_2_16x16.png"
+dest_files=["res://.godot/imported/Portable_Toilet_2_16x16.png-d58fc25ce2a6a6d1c4ccd9dd707a2888.ctex"]
 
 [params]
 

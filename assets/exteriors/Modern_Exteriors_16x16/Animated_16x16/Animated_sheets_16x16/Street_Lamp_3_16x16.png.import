@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clpre3ygmb16q"
-path="res://.godot/imported/Street_Lamp_3_16x16.png-66f9919632f79e4765d915c61ef3ca6c.ctex"
+path="res://.godot/imported/Street_Lamp_3_16x16.png-17455d937fbc185a122b7bd584d50874.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Street_Lamp_3_16x16.png"
-dest_files=["res://.godot/imported/Street_Lamp_3_16x16.png-66f9919632f79e4765d915c61ef3ca6c.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Street_Lamp_3_16x16.png"
+dest_files=["res://.godot/imported/Street_Lamp_3_16x16.png-17455d937fbc185a122b7bd584d50874.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcwlodi8wocqk"
-path="res://.godot/imported/Police_Station_Compact_Door_1_16x16.png-6cbe7f1f555a6784904fa170713dd720.ctex"
+path="res://.godot/imported/Police_Station_Compact_Door_1_16x16.png-f76467e68ffce4642a654b2b97b11868.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Police_Station_Compact_Door_1_16x16.png"
-dest_files=["res://.godot/imported/Police_Station_Compact_Door_1_16x16.png-6cbe7f1f555a6784904fa170713dd720.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Police_Station_Compact_Door_1_16x16.png"
+dest_files=["res://.godot/imported/Police_Station_Compact_Door_1_16x16.png-f76467e68ffce4642a654b2b97b11868.ctex"]
 
 [params]
 

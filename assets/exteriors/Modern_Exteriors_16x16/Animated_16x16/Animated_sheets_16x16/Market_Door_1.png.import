@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://e2i8h8qy25px"
-path="res://.godot/imported/Market_Door_1.png-12b7d1ce2536de92d11bf083186c133d.ctex"
+path="res://.godot/imported/Market_Door_1.png-be202afc1a2eeff734fcc0b2f9a93e40.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Market_Door_1.png"
-dest_files=["res://.godot/imported/Market_Door_1.png-12b7d1ce2536de92d11bf083186c133d.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Market_Door_1.png"
+dest_files=["res://.godot/imported/Market_Door_1.png-be202afc1a2eeff734fcc0b2f9a93e40.ctex"]
 
 [params]
 

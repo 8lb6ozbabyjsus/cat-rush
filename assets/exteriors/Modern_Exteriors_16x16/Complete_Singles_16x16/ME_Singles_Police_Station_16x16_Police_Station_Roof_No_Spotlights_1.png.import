@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr82k7t6v0tt3"
-path="res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Roof_No_Spotlights_1.png-0d223f5d2b2afd409fd27550cb76ac56.ctex"
+path="res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Roof_No_Spotlights_1.png-3ddc9e153ebc83d23e5e8c7aae8dfed9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Police_Station_16x16_Police_Station_Roof_No_Spotlights_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Roof_No_Spotlights_1.png-0d223f5d2b2afd409fd27550cb76ac56.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Police_Station_16x16_Police_Station_Roof_No_Spotlights_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Police_Station_16x16_Police_Station_Roof_No_Spotlights_1.png-3ddc9e153ebc83d23e5e8c7aae8dfed9.ctex"]
 
 [params]
 

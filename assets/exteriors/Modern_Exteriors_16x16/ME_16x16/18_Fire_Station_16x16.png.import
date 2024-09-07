@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cncf3xww4i8k7"
-path="res://.godot/imported/18_Fire_Station_16x16.png-8b30c6d604c65bf7db0970ea405f0ba9.ctex"
+path="res://.godot/imported/18_Fire_Station_16x16.png-f751ef10a9a844435a677b36613a3ab1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/18_Fire_Station_16x16.png"
-dest_files=["res://.godot/imported/18_Fire_Station_16x16.png-8b30c6d604c65bf7db0970ea405f0ba9.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/18_Fire_Station_16x16.png"
+dest_files=["res://.godot/imported/18_Fire_Station_16x16.png-f751ef10a9a844435a677b36613a3ab1.ctex"]
 
 [params]
 

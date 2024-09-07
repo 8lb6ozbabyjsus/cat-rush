@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gooa1d2bdiom"
-path="res://.godot/imported/ME_Singles_School_16x16_Stadium_Light_3.png-c923c1312c4573c6394a786d8341fb25.ctex"
+path="res://.godot/imported/ME_Singles_School_16x16_Stadium_Light_3.png-3f1a15face678e4dd8a41d9e6ae7796b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/13_School_Singles_16x16/ME_Singles_School_16x16_Stadium_Light_3.png"
-dest_files=["res://.godot/imported/ME_Singles_School_16x16_Stadium_Light_3.png-c923c1312c4573c6394a786d8341fb25.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/13_School_Singles_16x16/ME_Singles_School_16x16_Stadium_Light_3.png"
+dest_files=["res://.godot/imported/ME_Singles_School_16x16_Stadium_Light_3.png-3f1a15face678e4dd8a41d9e6ae7796b.ctex"]
 
 [params]
 

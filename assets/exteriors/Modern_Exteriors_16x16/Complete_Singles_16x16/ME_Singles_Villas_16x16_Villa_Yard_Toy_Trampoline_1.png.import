@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfut3bbc62amj"
-path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Toy_Trampoline_1.png-27af6f6c62f5d7270f89904ecf71cee5.ctex"
+path="res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Toy_Trampoline_1.png-7d337e095d2f9bfea69aa9613ce8e507.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_Villas_16x16_Villa_Yard_Toy_Trampoline_1.png"
-dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Toy_Trampoline_1.png-27af6f6c62f5d7270f89904ecf71cee5.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_Villas_16x16_Villa_Yard_Toy_Trampoline_1.png"
+dest_files=["res://.godot/imported/ME_Singles_Villas_16x16_Villa_Yard_Toy_Trampoline_1.png-7d337e095d2f9bfea69aa9613ce8e507.ctex"]
 
 [params]
 

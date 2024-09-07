@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cx3dibvm63gxe"
-path="res://.godot/imported/Helicopter_Door_16x16.png-261ea86f95e8a4323778f2ba8980a5e7.ctex"
+path="res://.godot/imported/Helicopter_Door_16x16.png-add6f825a447c3458298beff6329636f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Helicopter_Door_16x16.png"
-dest_files=["res://.godot/imported/Helicopter_Door_16x16.png-261ea86f95e8a4323778f2ba8980a5e7.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Helicopter_Door_16x16.png"
+dest_files=["res://.godot/imported/Helicopter_Door_16x16.png-add6f825a447c3458298beff6329636f.ctex"]
 
 [params]
 

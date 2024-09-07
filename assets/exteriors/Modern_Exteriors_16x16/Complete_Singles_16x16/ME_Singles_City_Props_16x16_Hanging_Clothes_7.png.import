@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pdw683t32qat"
-path="res://.godot/imported/ME_Singles_City_Props_16x16_Hanging_Clothes_7.png-eb0e93d9e77446939f86389a730cbd15.ctex"
+path="res://.godot/imported/ME_Singles_City_Props_16x16_Hanging_Clothes_7.png-393d1fa8e5f4366500bacb9225bb8c8c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/Modern_Exteriors_Complete_Singles_16x16/ME_Singles_City_Props_16x16_Hanging_Clothes_7.png"
-dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Hanging_Clothes_7.png-eb0e93d9e77446939f86389a730cbd15.ctex"]
+source_file="res://assets/exteriors/Modern_Exteriors_16x16/Complete_Singles_16x16/ME_Singles_City_Props_16x16_Hanging_Clothes_7.png"
+dest_files=["res://.godot/imported/ME_Singles_City_Props_16x16_Hanging_Clothes_7.png-393d1fa8e5f4366500bacb9225bb8c8c.ctex"]
 
 [params]
 

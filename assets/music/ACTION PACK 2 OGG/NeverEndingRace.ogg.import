@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dwx22xq10tkln"
+path="res://.godot/imported/NeverEndingRace.ogg-b8f117135089296d03f15e0a31c0273a.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/ACTION PACK 2 OGG/NeverEndingRace.ogg"
+dest_files=["res://.godot/imported/NeverEndingRace.ogg-b8f117135089296d03f15e0a31c0273a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

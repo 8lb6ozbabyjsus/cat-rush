@@ -1,0 +1,158 @@
+[gd_scene load_steps=21 format=3 uid="uid://cx6hyjsuond68"]
+
+[ext_resource type="Script" path="res://scenes/enemies/crows/enemy_crow.gd" id="1_2lu3f"]
+[ext_resource type="Texture2D" uid="uid://cu634jrijt1j5" path="res://assets/characters/crow/crowpack_spritesheets/crow_fly_strip6.png" id="2_ljmdd"]
+[ext_resource type="Texture2D" uid="uid://fvasv48vbid8" path="res://assets/characters/crow/crowpack_spritesheets/crow_dash_strip8.png" id="3_8vcrh"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mcyb0"]
+atlas = ExtResource("2_ljmdd")
+region = Rect2(0, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jt7ev"]
+atlas = ExtResource("2_ljmdd")
+region = Rect2(40, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_o2thv"]
+atlas = ExtResource("2_ljmdd")
+region = Rect2(80, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_yc3iq"]
+atlas = ExtResource("2_ljmdd")
+region = Rect2(120, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_71dk7"]
+atlas = ExtResource("2_ljmdd")
+region = Rect2(160, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_62c3m"]
+atlas = ExtResource("2_ljmdd")
+region = Rect2(200, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_akmis"]
+atlas = ExtResource("3_8vcrh")
+region = Rect2(0, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_de4be"]
+atlas = ExtResource("3_8vcrh")
+region = Rect2(40, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_deduo"]
+atlas = ExtResource("3_8vcrh")
+region = Rect2(80, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_sjt73"]
+atlas = ExtResource("3_8vcrh")
+region = Rect2(120, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7dw0g"]
+atlas = ExtResource("3_8vcrh")
+region = Rect2(160, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_q1ghv"]
+atlas = ExtResource("3_8vcrh")
+region = Rect2(200, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_520lo"]
+atlas = ExtResource("3_8vcrh")
+region = Rect2(240, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_4b45n"]
+atlas = ExtResource("3_8vcrh")
+region = Rect2(280, 0, 40, 40)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_j0h1b"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_mcyb0")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jt7ev")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_o2thv")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_yc3iq")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_71dk7")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_62c3m")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 6.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_akmis")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_de4be")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_deduo")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_sjt73")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_7dw0g")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_q1ghv")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_520lo")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_4b45n")
+}],
+"loop": true,
+"name": &"move",
+"speed": 4.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_5rcgb"]
+radius = 5.0
+height = 28.0
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_ffufj"]
+radius = 9.0
+height = 32.0
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+script = ExtResource("1_2lu3f")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(0, -16)
+sprite_frames = SubResource("SpriteFrames_j0h1b")
+animation = &"move"
+autoplay = "idle"
+flip_h = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-1, -15)
+rotation = -1.56886
+shape = SubResource("CapsuleShape2D_5rcgb")
+debug_color = Color(0.898039, 0.654902, 0.333333, 0.466667)
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 2.0
+autostart = true
+
+[node name="Hurtbox" type="Area2D" parent="."]
+rotation = -1.54314
+collision_layer = 4
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Hurtbox"]
+position = Vector2(14.9666, -1.41437)
+rotation = -0.0280523
+shape = SubResource("CapsuleShape2D_ffufj")
+debug_color = Color(0.886275, 0.133333, 0.133333, 0.466667)
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
+[connection signal="area_entered" from="Hurtbox" to="." method="_on_hurtbox_area_entered"]

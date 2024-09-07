@@ -1,0 +1,52 @@
+[gd_scene load_steps=7 format=3 uid="uid://b2ltudqjtqsp1"]
+
+[ext_resource type="Texture2D" uid="uid://b4kwok2h7xase" path="res://assets/exteriors-need-to-sort/Tileset_12_MV.png" id="1_0bd84"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_iwnie"]
+size = Vector2(335.333, 3.33333)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_lainm"]
+size = Vector2(80.6666, 5.33333)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_pvs37"]
+size = Vector2(78.6667, 6)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_m7qqn"]
+size = Vector2(91.3333, 8.66667)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ilym2"]
+size = Vector2(92.6667, 8.66666)
+
+[node name="Market1" type="Sprite2D"]
+position = Vector2(594, -66)
+scale = Vector2(0.75, 0.75)
+texture = ExtResource("1_0bd84")
+region_enabled = true
+region_rect = Rect2(0, 248, 336, 176)
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(0.333374, -84.3333)
+shape = SubResource("RectangleShape2D_iwnie")
+one_way_collision = true
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(-100.333, 52)
+shape = SubResource("RectangleShape2D_lainm")
+one_way_collision = true
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(98, 51.6667)
+shape = SubResource("RectangleShape2D_pvs37")
+one_way_collision = true
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(-99, -21.3333)
+shape = SubResource("RectangleShape2D_m7qqn")
+one_way_collision = true
+
+[node name="CollisionShape2D5" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(98.6667, -21.6667)
+shape = SubResource("RectangleShape2D_ilym2")
+one_way_collision = true

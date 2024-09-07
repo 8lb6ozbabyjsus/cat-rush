@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://d2simq1blrp6u"]
+
+[ext_resource type="Texture2D" uid="uid://vsq4v23hfsdk" path="res://assets/exteriors-need-to-sort/Modern_Exteriors_16x16/ME_Theme_Sorter_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Dumpster_1.png" id="1_yp7hl"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2yh47"]
+size = Vector2(26, 0.800001)
+
+[node name="GarbageCan1" type="Sprite2D"]
+position = Vector2(1531, -58)
+scale = Vector2(2.5, 2.5)
+texture = ExtResource("1_yp7hl")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(-0.599976, -5.2)
+shape = SubResource("RectangleShape2D_2yh47")
+one_way_collision = true
+debug_color = Color(0, 0.6, 0.192157, 0.733333)

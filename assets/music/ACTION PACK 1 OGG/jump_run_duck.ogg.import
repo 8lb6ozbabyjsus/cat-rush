@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b48iui5f2i444"
+path="res://.godot/imported/jump_run_duck.ogg-43d56d47236fbe5a0088e7214eefaaec.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/ACTION PACK 1 OGG/jump_run_duck.ogg"
+dest_files=["res://.godot/imported/jump_run_duck.ogg-43d56d47236fbe5a0088e7214eefaaec.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

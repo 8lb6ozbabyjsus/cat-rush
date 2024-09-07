@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://d2simq1blrp6u"]
 
-[ext_resource type="Texture2D" uid="uid://xlgyoktrta5" path="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Dumpster_1.png" id="1_yp7hl"]
+[ext_resource type="Texture2D" uid="uid://vsq4v23hfsdk" path="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/3_City_Props_Singles_16x16/ME_Singles_City_Props_16x16_Dumpster_1.png" id="1_yp7hl"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_2yh47"]
 size = Vector2(26, 0.800001)

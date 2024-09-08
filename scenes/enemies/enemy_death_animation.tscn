@@ -1,10 +1,10 @@
 [gd_scene load_steps=89 format=3 uid="uid://cua6o0yifncir"]
 
-[ext_resource type="Texture2D" uid="uid://daahdooprapmc" path="res://assets/VFX/enemy-death.png" id="1_fo5wx"]
-[ext_resource type="Texture2D" uid="uid://dtnquor03a5s6" path="res://assets/VFX/Effect_BloodImpact/30fps/Spritesheets/Effect_BloodImpact_1_69x60.png" id="2_yw5dc"]
-[ext_resource type="Texture2D" uid="uid://d1hbbhy7waa2v" path="res://assets/VFX/Effect_Impact/30fps/Spritesheets/Effect_Impact_1_291x301.png" id="3_u2phq"]
-[ext_resource type="Texture2D" uid="uid://cwwv5apgacsn3" path="res://assets/VFX/Effect_PuffAndStars/30fps/Spritesheets/Effect_PuffAndStars_1_120x109.png" id="4_txa06"]
-[ext_resource type="Texture2D" uid="uid://csobanhjwqg6l" path="res://assets/VFX/Explosion/spritesheet/explosion-animation.png" id="5_1k0ir"]
+[ext_resource type="Texture2D" uid="uid://daahdooprapmc" path="res://asset_repo/VFX/enemy-death.png" id="1_fo5wx"]
+[ext_resource type="Texture2D" uid="uid://dtnquor03a5s6" path="res://asset_repo/VFX/Effect_BloodImpact/30fps/Spritesheets/Effect_BloodImpact_1_69x60.png" id="2_yw5dc"]
+[ext_resource type="Texture2D" uid="uid://d1hbbhy7waa2v" path="res://asset_repo/VFX/Effect_Impact/30fps/Spritesheets/Effect_Impact_1_291x301.png" id="3_u2phq"]
+[ext_resource type="Texture2D" uid="uid://cwwv5apgacsn3" path="res://asset_repo/VFX/Effect_PuffAndStars/30fps/Spritesheets/Effect_PuffAndStars_1_120x109.png" id="4_txa06"]
+[ext_resource type="Texture2D" uid="uid://csobanhjwqg6l" path="res://asset_repo/VFX/Explosion/spritesheet/explosion-animation.png" id="5_1k0ir"]
 [ext_resource type="Script" path="res://scenes/enemies/enemy_death_animation.gd" id="6_2srsu"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_myt8j"]

@@ -3,7 +3,7 @@
 [ext_resource type="Script" path="res://scenes/player/player_death_effect/player_death_effect.gd" id="1_nvfqf"]
 [ext_resource type="Texture2D" uid="uid://bma6msy3w7041" path="res://scenes/assets/characters/cats/cat03_spritesheets/cat03_die_strip8.png" id="1_uk6gh"]
 [ext_resource type="Texture2D" uid="uid://c04k3kifrfsdn" path="res://scenes/assets/characters/cats/cat03_spritesheets/cat03_idle_strip8.png" id="2_1p1ph"]
-[ext_resource type="Texture2D" uid="uid://dpk7ror4jgxgr" path="res://assets/VFX/kenney_particle_pack/star_02.png" id="3_2ct4e"]
+[ext_resource type="Texture2D" uid="uid://dpk7ror4jgxgr" path="res://asset_repo/VFX/kenney_particle_pack/star_02.png" id="3_2ct4e"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_cax2f"]
 atlas = ExtResource("1_uk6gh")

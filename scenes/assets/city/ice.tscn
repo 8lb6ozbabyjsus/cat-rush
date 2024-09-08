@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://gn2dwha8hhv3"]
 
-[ext_resource type="Texture2D" uid="uid://bfwr6e7s5arai" path="res://assets/exteriors/Modern_Exteriors_16x16/ME_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Tiny_Table_1.png" id="1_hg5rc"]
+[ext_resource type="Texture2D" uid="uid://bfwr6e7s5arai" path="res://asset_repo/exteriors/Modern_Exteriors_16x16/ME_16x16/11_Camping_Singles_16x16/ME_Singles_Camping_16x16_Tiny_Table_1.png" id="1_hg5rc"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_xtdeb"]
 size = Vector2(14.2488, 8)

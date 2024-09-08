@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://da62p6hm1r2sj"
+path="res://.godot/imported/Bipedal Mech.ogg-43ed51ea774d8a882c4df12f84a4142b.oggvorbisstr"
+
+[deps]
+
+source_file="res://asset_repo/music/ACTION PACK 1 OGG/Bipedal Mech.ogg"
+dest_files=["res://.godot/imported/Bipedal Mech.ogg-43ed51ea774d8a882c4df12f84a4142b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

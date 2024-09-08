@@ -1,13 +1,13 @@
 [gd_scene load_steps=10 format=3 uid="uid://cuc84yg7y26va"]
 
-[ext_resource type="Texture2D" uid="uid://cr5no5kab8mu0" path="res://assets/background/background.webp" id="1_1hsxp"]
-[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://assets/fonts/Early GameBoy.ttf" id="2_7hqrn"]
-[ext_resource type="Texture2D" uid="uid://lxg61tyeppbo" path="res://assets/buttons/ButtonSmall.png" id="3_cv1km"]
-[ext_resource type="Texture2D" uid="uid://b88yr1jskuepf" path="res://assets/buttons/ButtonSmall-1.png" id="4_xnb46"]
-[ext_resource type="Texture2D" uid="uid://c5k21bnjypgvs" path="res://assets/buttons/ButtonSmall-4.png" id="5_uyl5n"]
-[ext_resource type="Texture2D" uid="uid://caxib2yru4w8l" path="res://assets/buttons/ButtonSmall-5.png" id="6_5f4lb"]
-[ext_resource type="Texture2D" uid="uid://cx07m8y0tjit3" path="res://assets/buttons/ButtonSmall-2.png" id="7_iyj1k"]
-[ext_resource type="Texture2D" uid="uid://cf54mrah8bcml" path="res://assets/buttons/ButtonSmall-3.png" id="8_h0pj2"]
+[ext_resource type="Texture2D" uid="uid://cr5no5kab8mu0" path="res://asset_repo/background/background.webp" id="1_1hsxp"]
+[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://asset_repo/fonts/Early GameBoy.ttf" id="2_7hqrn"]
+[ext_resource type="Texture2D" uid="uid://lxg61tyeppbo" path="res://asset_repo/buttons/ButtonSmall.png" id="3_cv1km"]
+[ext_resource type="Texture2D" uid="uid://b88yr1jskuepf" path="res://asset_repo/buttons/ButtonSmall-1.png" id="4_xnb46"]
+[ext_resource type="Texture2D" uid="uid://c5k21bnjypgvs" path="res://asset_repo/buttons/ButtonSmall-4.png" id="5_uyl5n"]
+[ext_resource type="Texture2D" uid="uid://caxib2yru4w8l" path="res://asset_repo/buttons/ButtonSmall-5.png" id="6_5f4lb"]
+[ext_resource type="Texture2D" uid="uid://cx07m8y0tjit3" path="res://asset_repo/buttons/ButtonSmall-2.png" id="7_iyj1k"]
+[ext_resource type="Texture2D" uid="uid://cf54mrah8bcml" path="res://asset_repo/buttons/ButtonSmall-3.png" id="8_h0pj2"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_pdwxf"]
 font = ExtResource("2_7hqrn")

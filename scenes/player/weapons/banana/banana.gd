@@ -1,6 +1,6 @@
 extends AnimatedSprite2D
 
-var impact_effect = preload("res://scenes/player/banana_impact_effect.tscn")
+var impact_effect = preload("res://scenes/player/weapons/banana/banana_impact_effect.tscn")
 
 var speed : int = 200
 var direction : int

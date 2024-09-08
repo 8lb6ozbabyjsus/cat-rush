@@ -1,8 +1,8 @@
-[gd_scene load_steps=8 format=3 uid="uid://c0kklskedq8pl"]
+[gd_scene load_steps=8 format=3 uid="uid://daym2yy6nodt2"]
 
-[ext_resource type="Script" path="res://scenes/pickups/health_pickups/health_pickup.gd" id="1_8moqd"]
-[ext_resource type="Texture2D" uid="uid://cq50hq8afhbhl" path="res://scenes/pickups/health_pickups/ME_Singles_Camping_32x32_Fish_Bucket_4.png" id="1_w8ylb"]
-[ext_resource type="Texture2D" uid="uid://c67g6ui01lfmv" path="res://scenes/assets/vfx/kenney_particle_pack/trace_05.png" id="2_aktpm"]
+[ext_resource type="Script" path="res://scenes/pickups/health_pickups/health_pickup.gd" id="1_0uuam"]
+[ext_resource type="Texture2D" uid="uid://2uopeupt7dhy" path="res://scenes/pickups/health_pickups/ME_Singles_Camping_32x32_Fish_Crate_1.png" id="2_4n4go"]
+[ext_resource type="Texture2D" uid="uid://c67g6ui01lfmv" path="res://scenes/assets/vfx/kenney_particle_pack/trace_05.png" id="3_73bx2"]
 
 [sub_resource type="Gradient" id="Gradient_aseua"]
 colors = PackedColorArray(0, 0.686275, 0, 1, 1, 1, 1, 1)
@@ -27,29 +27,29 @@ turbulence_initial_displacement_min = 1.49012e-06
 turbulence_initial_displacement_max = 1.49012e-06
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_xa1xm"]
-radius = 11.0
-height = 34.0
+radius = 17.0
+height = 56.0
 
 [node name="HealthPickup1" type="Node2D"]
 position = Vector2(0, 14)
-script = ExtResource("1_8moqd")
+script = ExtResource("1_0uuam")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(0, -32)
-texture = ExtResource("1_w8ylb")
+texture = ExtResource("2_4n4go")
 
 [node name="GPUParticles2D" type="GPUParticles2D" parent="Sprite2D"]
 position = Vector2(0, 12)
 amount = 5
 process_material = SubResource("ParticleProcessMaterial_vvrh2")
-texture = ExtResource("2_aktpm")
+texture = ExtResource("3_73bx2")
 
 [node name="HealthPickupBox" type="Area2D" parent="."]
 collision_layer = 8
 collision_mask = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="HealthPickupBox"]
-position = Vector2(0, -24)
+position = Vector2(3, -34)
 shape = SubResource("CapsuleShape2D_xa1xm")
 debug_color = Color(0, 0.686275, 0, 0.239216)
 

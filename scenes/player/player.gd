@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-var banana = preload("res://scenes/player/banana.tscn")
+var banana = preload("res://scenes/player/weapons/banana/banana.tscn")
 var player_death_effect = preload("res://scenes/player/player_death_effect/player_death_effect.tscn")
 
 @onready var animated_sprite_2d = $AnimatedSprite2D

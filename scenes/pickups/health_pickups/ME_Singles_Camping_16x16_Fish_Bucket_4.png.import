@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cq50hq8afhbhl"
-path="res://.godot/imported/ME_Singles_Camping_32x32_Fish_Bucket_4.png-dc9d8d1c03bfd7e2fe32fad28d10b3c5.ctex"
+uid="uid://dxcbjsnahbwk1"
+path="res://.godot/imported/ME_Singles_Camping_16x16_Fish_Bucket_4.png-4af60b3c3200d89a933da401b448b00d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ui/health_bar/ME_Singles_Camping_32x32_Fish_Bucket_4.png"
-dest_files=["res://.godot/imported/ME_Singles_Camping_32x32_Fish_Bucket_4.png-dc9d8d1c03bfd7e2fe32fad28d10b3c5.ctex"]
+source_file="res://scenes/pickups/health_pickups/ME_Singles_Camping_16x16_Fish_Bucket_4.png"
+dest_files=["res://.godot/imported/ME_Singles_Camping_16x16_Fish_Bucket_4.png-4af60b3c3200d89a933da401b448b00d.ctex"]
 
 [params]
 

@@ -1,16 +1,16 @@
 [gd_scene load_steps=10 format=3 uid="uid://cuc84yg7y26va"]
 
-[ext_resource type="Texture2D" uid="uid://cr5no5kab8mu0" path="res://asset_repo/background/background.webp" id="1_1hsxp"]
-[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://asset_repo/fonts/Early GameBoy.ttf" id="2_7hqrn"]
-[ext_resource type="Texture2D" uid="uid://lxg61tyeppbo" path="res://asset_repo/buttons/ButtonSmall.png" id="3_cv1km"]
-[ext_resource type="Texture2D" uid="uid://b88yr1jskuepf" path="res://asset_repo/buttons/ButtonSmall-1.png" id="4_xnb46"]
-[ext_resource type="Texture2D" uid="uid://c5k21bnjypgvs" path="res://asset_repo/buttons/ButtonSmall-4.png" id="5_uyl5n"]
-[ext_resource type="Texture2D" uid="uid://caxib2yru4w8l" path="res://asset_repo/buttons/ButtonSmall-5.png" id="6_5f4lb"]
-[ext_resource type="Texture2D" uid="uid://cx07m8y0tjit3" path="res://asset_repo/buttons/ButtonSmall-2.png" id="7_iyj1k"]
-[ext_resource type="Texture2D" uid="uid://cf54mrah8bcml" path="res://asset_repo/buttons/ButtonSmall-3.png" id="8_h0pj2"]
+[ext_resource type="Texture2D" uid="uid://cr5no5kab8mu0" path="res://ui/main_menu/background.webp" id="1_mef23"]
+[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://asset_repo/fonts/Early GameBoy.ttf" id="2_hsy88"]
+[ext_resource type="Texture2D" uid="uid://lxg61tyeppbo" path="res://ui/main_menu/buttons/ButtonSmall.png" id="3_0b6ab"]
+[ext_resource type="Texture2D" uid="uid://b88yr1jskuepf" path="res://ui/main_menu/buttons/ButtonSmall-1.png" id="4_b45df"]
+[ext_resource type="Texture2D" uid="uid://c5k21bnjypgvs" path="res://ui/main_menu/buttons/ButtonSmall-4.png" id="5_xsgu7"]
+[ext_resource type="Texture2D" uid="uid://caxib2yru4w8l" path="res://ui/main_menu/buttons/ButtonSmall-5.png" id="6_5h4un"]
+[ext_resource type="Texture2D" uid="uid://cx07m8y0tjit3" path="res://ui/main_menu/buttons/ButtonSmall-2.png" id="7_6giqq"]
+[ext_resource type="Texture2D" uid="uid://cf54mrah8bcml" path="res://ui/main_menu/buttons/ButtonSmall-3.png" id="8_vji2n"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_pdwxf"]
-font = ExtResource("2_7hqrn")
+font = ExtResource("2_hsy88")
 font_size = 69
 shadow_size = 11
 shadow_color = Color(0.913725, 0, 0, 0.690196)
@@ -37,7 +37,7 @@ offset_right = 1088.0
 offset_bottom = 1920.0
 grow_horizontal = 2
 grow_vertical = 2
-texture = ExtResource("1_1hsxp")
+texture = ExtResource("1_mef23")
 
 [node name="CenterContainer" type="CenterContainer" parent="Control"]
 layout_mode = 1
@@ -66,8 +66,8 @@ uppercase = true
 layout_mode = 2
 size_flags_horizontal = 4
 size_flags_vertical = 4
-texture_normal = ExtResource("3_cv1km")
-texture_pressed = ExtResource("4_xnb46")
+texture_normal = ExtResource("3_0b6ab")
+texture_pressed = ExtResource("4_b45df")
 
 [node name="Label2" type="Label" parent="Control/CenterContainer/VBoxContainer"]
 layout_mode = 2
@@ -76,8 +76,8 @@ layout_mode = 2
 layout_mode = 2
 size_flags_horizontal = 4
 size_flags_vertical = 6
-texture_normal = ExtResource("5_uyl5n")
-texture_pressed = ExtResource("6_5f4lb")
+texture_normal = ExtResource("5_xsgu7")
+texture_pressed = ExtResource("6_5h4un")
 
 [node name="Label3" type="Label" parent="Control/CenterContainer/VBoxContainer"]
 layout_mode = 2
@@ -86,8 +86,8 @@ layout_mode = 2
 layout_mode = 2
 size_flags_horizontal = 4
 size_flags_vertical = 6
-texture_normal = ExtResource("7_iyj1k")
-texture_pressed = ExtResource("8_h0pj2")
+texture_normal = ExtResource("7_6giqq")
+texture_pressed = ExtResource("8_vji2n")
 
 [node name="PopupMenu" type="PopupMenu" parent="Control/CenterContainer/VBoxContainer/TextureButton2"]
 

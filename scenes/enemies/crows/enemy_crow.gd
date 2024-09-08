@@ -1,13 +1,17 @@
 extends CharacterBody2D
 
-@export var patrol_points : Node
+
 
 @onready var animated_sprite_2d = $AnimatedSprite2D
 @onready var timer = $Timer
 
-@export var gravity = 1000
+@export var patrol_points : Node
+
 @export var speed = 1500
 @export var wait_time : int = 2
+# @export var health_manager : Node
+@export var damage_amount : int = 1
+@export var health : int = 1
 
 enum state {idle, move}
 var current_state = state.idle
@@ -17,7 +21,8 @@ var point_positions : Array[Vector2] = []
 var current_point : Vector2
 var current_point_position : int = 0
 var can_move : bool = false
-var health : int = 1
+
+const gravity = 0
 
 @onready var enemy_death_animation = preload("res://scenes/enemies/enemy_death_animation.tscn")
 
@@ -115,8 +120,7 @@ func _on_timer_timeout():
 func _on_hurtbox_area_entered(area : Area2D):
 	print("hurtbox area entered")
 	if area.get_parent().has_method("get_damage_amount"):
-		var damage_amount = area.get_parent().get_damage_amount()
-		health -= damage_amount
+		health -= area.get_parent().get_damage_amount()
 		print("health: ", health)
 		if health <= 0:
 			enemy_death()

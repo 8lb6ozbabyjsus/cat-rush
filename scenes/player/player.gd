@@ -4,6 +4,7 @@ const banana = preload("res://scenes/player/banana.tscn")
 
 @onready var animated_sprite_2d = $AnimatedSprite2D
 @onready var banana_cananon : Marker2D = $Banana_Cananon
+@onready var hit_animation_player = $HitAnimationPlayer
 
 # Constants for player movement and physics
 @export var gravity : int = 1000
@@ -185,3 +186,10 @@ func input_movement() -> float:
 	# Function to get player input for movement
 	var direction : float = Input.get_axis("move_left", "move_right")
 	return direction
+
+
+func _on_hurtbox_body_entered(body : Node2D):
+	if body.is_in_group("Enemy"):
+		print("Hurt: ", body.damage_amount)
+		hit_animation_player.play("hit")
+		HealthManager.take_damage(body.damage_amount)

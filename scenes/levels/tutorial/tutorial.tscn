@@ -1,4 +1,4 @@
-[gd_scene load_steps=17 format=4 uid="uid://cgflags2qkaqk"]
+[gd_scene load_steps=18 format=4 uid="uid://cgflags2qkaqk"]
 
 [ext_resource type="PackedScene" uid="uid://dtuqd5vhs02hq" path="res://scenes/levels/base_level.tscn" id="1_uuclo"]
 [ext_resource type="PackedScene" uid="uid://c0vrjl7hny7ab" path="res://scenes/backgrounds/parallax_background_city_day.tscn" id="2_es5dq"]
@@ -13,6 +13,7 @@
 [ext_resource type="PackedScene" uid="uid://gn2dwha8hhv3" path="res://scenes/assets/city/ice.tscn" id="8_6tdxw"]
 [ext_resource type="PackedScene" uid="uid://bj7eaxh87hf86" path="res://scenes/assets/city/tree.tscn" id="9_nieon"]
 [ext_resource type="PackedScene" uid="uid://dfgs87qd4jlv6" path="res://scenes/enemies/dogs/enemy_dog.tscn" id="11_e3tm8"]
+[ext_resource type="PackedScene" uid="uid://b3vfrixmxyn7t" path="res://ui/health_bar/game_screen.tscn" id="14_d71he"]
 
 [sub_resource type="TileSet" id="TileSet_yq24u"]
 
@@ -70,7 +71,7 @@ tile_map_data = PackedByteArray("AAAAAP//AQANAAgAAAABAP//AQANAAgAAAACAP//AQANAAg
 [node name="Player" parent="." index="4"]
 position = Vector2(40, -18)
 
-[node name="Camera2D" parent="Player" index="3"]
+[node name="Camera2D" parent="Player" index="5"]
 offset = Vector2(0, -82)
 limit_left = 0
 limit_top = -160
@@ -81,9 +82,8 @@ editor_draw_limits = true
 [node name="Enemies" type="Node" parent="." index="5"]
 
 [node name="Crow1" parent="Enemies" index="0" node_paths=PackedStringArray("patrol_points") instance=ExtResource("3_0yy84")]
-position = Vector2(693, -145)
+position = Vector2(693, -146)
 patrol_points = NodePath("PatrolPoints")
-gravity = 0
 
 [node name="PatrolPoints" type="Node2D" parent="Enemies/Crow1" index="2"]
 position = Vector2(10, 1)
@@ -94,9 +94,8 @@ position = Vector2(-80, 0)
 [node name="Marker2D2" type="Marker2D" parent="Enemies/Crow1/PatrolPoints" index="1"]
 
 [node name="Crow2" parent="Enemies" index="1" node_paths=PackedStringArray("patrol_points") instance=ExtResource("3_0yy84")]
-position = Vector2(917, -18)
+position = Vector2(917, -17)
 patrol_points = NodePath("PatrolPoints")
-gravity = 0
 speed = 3000
 wait_time = 1
 
@@ -109,7 +108,7 @@ position = Vector2(-80, 0)
 [node name="Marker2D2" type="Marker2D" parent="Enemies/Crow2/PatrolPoints" index="1"]
 
 [node name="EnemyDog" parent="Enemies" index="2" instance=ExtResource("11_e3tm8")]
-position = Vector2(123, -17)
+position = Vector2(2439, -74)
 
 [node name="TutorialLabels" type="Control" parent="." index="6"]
 layout_mode = 3
@@ -221,3 +220,5 @@ text = "hold
 to sneak"
 label_settings = SubResource("LabelSettings_dys5w")
 horizontal_alignment = 1
+
+[node name="GameScreen" parent="." index="7" instance=ExtResource("14_d71he")]

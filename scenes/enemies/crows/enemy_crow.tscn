@@ -123,7 +123,9 @@ height = 28.0
 radius = 9.0
 height = 32.0
 
-[node name="CharacterBody2D" type="CharacterBody2D"]
+[node name="EnemyCrow" type="CharacterBody2D" groups=["Enemy"]]
+collision_layer = 4
+collision_mask = 3
 script = ExtResource("1_2lu3f")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]

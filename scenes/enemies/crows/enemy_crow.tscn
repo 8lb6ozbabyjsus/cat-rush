@@ -1,8 +1,8 @@
 [gd_scene load_steps=21 format=3 uid="uid://cx6hyjsuond68"]
 
 [ext_resource type="Script" path="res://scenes/enemies/crows/enemy_crow.gd" id="1_2lu3f"]
-[ext_resource type="Texture2D" uid="uid://cu634jrijt1j5" path="res://assets/characters/crow/crowpack_spritesheets/crow_fly_strip6.png" id="2_ljmdd"]
-[ext_resource type="Texture2D" uid="uid://fvasv48vbid8" path="res://assets/characters/crow/crowpack_spritesheets/crow_dash_strip8.png" id="3_8vcrh"]
+[ext_resource type="Texture2D" uid="uid://cu634jrijt1j5" path="res://scenes/assets/characters/crow/crowpack_spritesheets/crow_fly_strip6.png" id="2_ljmdd"]
+[ext_resource type="Texture2D" uid="uid://fvasv48vbid8" path="res://scenes/assets/characters/crow/crowpack_spritesheets/crow_dash_strip8.png" id="3_8vcrh"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_mcyb0"]
 atlas = ExtResource("2_ljmdd")

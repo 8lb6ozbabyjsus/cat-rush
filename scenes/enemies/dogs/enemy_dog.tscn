@@ -1,7 +1,7 @@
 [gd_scene load_steps=35 format=3 uid="uid://dfgs87qd4jlv6"]
 
-[ext_resource type="Texture2D" uid="uid://ldh3spltx561" path="res://assets/characters/dogs/dogpack_spritesheets/dog_run_strip8.png" id="1_ph48x"]
-[ext_resource type="Texture2D" uid="uid://dc2pih0j4ep4d" path="res://assets/characters/dogs/dogpack_spritesheets/dog_idle_strip8.png" id="2_vx86w"]
+[ext_resource type="Texture2D" uid="uid://ldh3spltx561" path="res://scenes/assets/characters/dogs/dogpack_spritesheets/dog_run_strip8.png" id="1_ph48x"]
+[ext_resource type="Texture2D" uid="uid://dc2pih0j4ep4d" path="res://scenes/assets/characters/dogs/dogpack_spritesheets/dog_idle_strip8.png" id="2_vx86w"]
 [ext_resource type="Script" path="res://scenes/enemies/dogs/gravity.gd" id="3_iw1up"]
 [ext_resource type="Script" path="res://scenes/enemies/dogs/state_machine_controller.gd" id="4_7pb3q"]
 [ext_resource type="Script" path="res://scripts/state_machine/node_finite_state_machine.gd" id="5_7jifm"]

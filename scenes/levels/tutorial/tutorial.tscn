@@ -1,7 +1,7 @@
 [gd_scene load_steps=18 format=4 uid="uid://cgflags2qkaqk"]
 
 [ext_resource type="PackedScene" uid="uid://dtuqd5vhs02hq" path="res://scenes/levels/base_level.tscn" id="1_uuclo"]
-[ext_resource type="PackedScene" uid="uid://c0vrjl7hny7ab" path="res://scenes/backgrounds/parallax_background_city_day.tscn" id="2_es5dq"]
+[ext_resource type="PackedScene" uid="uid://c0vrjl7hny7ab" path="res://scenes/backgrounds/parallax_background_city_day/parallax_background_city_day.tscn" id="2_es5dq"]
 [ext_resource type="PackedScene" uid="uid://cx6hyjsuond68" path="res://scenes/enemies/crows/enemy_crow.tscn" id="3_0yy84"]
 [ext_resource type="Shader" path="res://scripts/Shaders/rainbow_LtR.gdshader" id="4_ox2q5"]
 [ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://assets/fonts/Early GameBoy.ttf" id="5_255nv"]
@@ -11,7 +11,7 @@
 [ext_resource type="PackedScene" uid="uid://d2simq1blrp6u" path="res://scenes/assets/city/garbage_can_1.tscn" id="7_ey53o"]
 [ext_resource type="PackedScene" uid="uid://b2ltudqjtqsp1" path="res://scenes/assets/city/market_1.tscn" id="7_tf1pw"]
 [ext_resource type="PackedScene" uid="uid://gn2dwha8hhv3" path="res://scenes/assets/city/ice.tscn" id="8_6tdxw"]
-[ext_resource type="PackedScene" uid="uid://bj7eaxh87hf86" path="res://scenes/assets/city/tree.tscn" id="9_nieon"]
+[ext_resource type="PackedScene" uid="uid://bj7eaxh87hf86" path="res://scenes/assets/city/tree_1.tscn" id="9_nieon"]
 [ext_resource type="PackedScene" uid="uid://dfgs87qd4jlv6" path="res://scenes/enemies/dogs/enemy_dog.tscn" id="11_e3tm8"]
 [ext_resource type="PackedScene" uid="uid://b3vfrixmxyn7t" path="res://ui/health_bar/game_screen.tscn" id="14_d71he"]
 
@@ -100,7 +100,7 @@ position = Vector2(-80, 0)
 [node name="Marker2D2" type="Marker2D" parent="Enemies/Crow2/PatrolPoints" index="1"]
 
 [node name="EnemyDog" parent="Enemies" index="2" instance=ExtResource("11_e3tm8")]
-position = Vector2(2439, -74)
+position = Vector2(2221, -18)
 
 [node name="TutorialLabels" type="Control" parent="." index="6"]
 layout_mode = 3

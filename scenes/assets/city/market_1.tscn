@@ -1,6 +1,6 @@
 [gd_scene load_steps=7 format=3 uid="uid://b2ltudqjtqsp1"]
 
-[ext_resource type="Texture2D" uid="uid://b4kwok2h7xase" path="res://assets/exteriors/Tileset_12_MV.png" id="1_0bd84"]
+[ext_resource type="Texture2D" uid="uid://b4kwok2h7xase" path="res://scenes/assets/city/market_1.png" id="1_0bd84"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_iwnie"]
 size = Vector2(335.333, 3.33333)

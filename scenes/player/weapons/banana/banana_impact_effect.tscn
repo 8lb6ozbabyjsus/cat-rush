@@ -1,0 +1,82 @@
+[gd_scene load_steps=11 format=3 uid="uid://bdwldrsj7ejtx"]
+
+[ext_resource type="Texture2D" uid="uid://36opbuonihpa" path="res://scenes/player/weapons/banana/Exploding Banana.png" id="1_4d2lk"]
+[ext_resource type="Script" path="res://scenes/player/weapons/banana/banana_impact_effect.gd" id="2_kt3v6"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_cwy7k"]
+atlas = ExtResource("1_4d2lk")
+region = Rect2(0, 32, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_13l4k"]
+atlas = ExtResource("1_4d2lk")
+region = Rect2(32, 32, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jnaoq"]
+atlas = ExtResource("1_4d2lk")
+region = Rect2(64, 32, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jki3m"]
+atlas = ExtResource("1_4d2lk")
+region = Rect2(96, 32, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_dndp6"]
+atlas = ExtResource("1_4d2lk")
+region = Rect2(0, 64, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_rp7qs"]
+atlas = ExtResource("1_4d2lk")
+region = Rect2(32, 64, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jg6yk"]
+atlas = ExtResource("1_4d2lk")
+region = Rect2(64, 64, 32, 32)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_s2n3h"]
+animations = [{
+"frames": [],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_cwy7k")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_13l4k")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jnaoq")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jki3m")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_dndp6")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_rp7qs")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jg6yk")
+}, {
+"duration": 1.0,
+"texture": null
+}],
+"loop": false,
+"name": &"impact",
+"speed": 30.0
+}]
+
+[node name="BananaImpactEffect" type="AnimatedSprite2D"]
+sprite_frames = SubResource("SpriteFrames_s2n3h")
+animation = &"impact"
+autoplay = "impact"
+script = ExtResource("2_kt3v6")
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 1.055
+one_shot = true
+autostart = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

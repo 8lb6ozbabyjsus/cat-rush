@@ -1,10 +1,13 @@
 extends CharacterBody2D
 
-const banana = preload("res://scenes/player/banana.tscn")
+var banana = preload("res://scenes/player/banana.tscn")
+var player_death_effect = preload("res://scenes/player/player_death_effect/player_death_effect.tscn")
 
 @onready var animated_sprite_2d = $AnimatedSprite2D
 @onready var banana_cananon : Marker2D = $Banana_Cananon
 @onready var hit_animation_player = $HitAnimationPlayer
+
+var is_dead = false
 
 # Constants for player movement and physics
 @export var gravity : int = 1000
@@ -38,6 +41,12 @@ func _ready():
 	banana_position = banana_cananon.position
 
 func _physics_process(delta : float):
+	# Add this check at the beginning of the function
+	if is_dead:
+		if Input.is_action_just_pressed("jump"):
+			respawn()
+		return
+	
 	# Handle player actions and state changes
 	player_falling(delta)
 	player_idle(delta)
@@ -189,7 +198,28 @@ func input_movement() -> float:
 
 
 func _on_hurtbox_body_entered(body : Node2D):
-	if body.is_in_group("Enemy"):
+	if body.is_in_group("Enemy") and !is_dead:
 		print("Hurt: ", body.damage_amount)
 		hit_animation_player.play("hit")
 		HealthManager.take_damage(body.damage_amount)
+		if HealthManager.current_health <= 0:
+			player_death()
+
+func player_death():
+	is_dead = true
+	# Instantiate the death effect
+	var player_death_instance = player_death_effect.instantiate() as Node2D
+	player_death_instance.global_position = global_position
+	get_parent().add_child(player_death_instance)
+	
+	# Hide the player sprite
+	animated_sprite_2d.visible = false
+	
+
+func respawn():
+	is_dead = false
+	current_state = state.idle
+	animated_sprite_2d.visible = true
+	animated_sprite_2d.play("idle")
+	# Reset health
+	HealthManager.heal(HealthManager.max_health)

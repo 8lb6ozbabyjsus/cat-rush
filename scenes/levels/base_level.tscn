@@ -1,4 +1,4 @@
-[gd_scene load_steps=52 format=3 uid="uid://dtuqd5vhs02hq"]
+[gd_scene load_steps=53 format=3 uid="uid://dtuqd5vhs02hq"]
 
 [ext_resource type="PackedScene" uid="uid://dmqlhl07ehp8i" path="res://scenes/player/player.tscn" id="2_curu7"]
 [ext_resource type="Texture2D" uid="uid://bs2mbp21rlyo" path="res://assets/exteriors/Tileset_1_MV.png" id="2_p8h1t"]
@@ -25,6 +25,7 @@
 [ext_resource type="Texture2D" uid="uid://d3p70fxva00s7" path="res://assets/gamepad/gdb-gamepad-3.png" id="22_pfvnn"]
 [ext_resource type="Texture2D" uid="uid://c53b267ssd72b" path="res://assets/gamepad/gdb-gamepad-4.png" id="23_fl6js"]
 [ext_resource type="Texture2D" uid="uid://ct384brwpevko" path="res://assets/gamepad/gdb-gamepad-5.png" id="24_gpf5e"]
+[ext_resource type="Script" path="res://scenes/player/player_camera_2d.gd" id="26_wn6ag"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_pv28f"]
 texture = ExtResource("2_p8h1t")
@@ -36752,4 +36753,11 @@ tile_set = SubResource("TileSet_qgtai")
 [node name="Player" parent="." instance=ExtResource("2_curu7")]
 position = Vector2(21, -42)
 
-[node name="Camera2D" type="Camera2D" parent="Player"]
+[node name="PlayerCamera2D" type="Camera2D" parent="." node_paths=PackedStringArray("player")]
+position = Vector2(21, -42)
+limit_left = 0
+limit_top = -300
+limit_right = 3000
+limit_bottom = 7
+script = ExtResource("26_wn6ag")
+player = NodePath("../Player")

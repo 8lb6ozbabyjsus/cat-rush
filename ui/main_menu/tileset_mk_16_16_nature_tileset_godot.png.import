@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b88yr1jskuepf"
-path="res://.godot/imported/ButtonSmall-1.png-75306033349bdc4d3b6190af1fe0988d.ctex"
+uid="uid://0rgl1rs8gcr3"
+path="res://.godot/imported/tileset_mk_16_16_nature_tileset_godot.png-abf75b3098738449aea0958822779b24.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ui/main_menu/buttons/ButtonSmall-1.png"
-dest_files=["res://.godot/imported/ButtonSmall-1.png-75306033349bdc4d3b6190af1fe0988d.ctex"]
+source_file="res://ui/main_menu/tileset_mk_16_16_nature_tileset_godot.png"
+dest_files=["res://.godot/imported/tileset_mk_16_16_nature_tileset_godot.png-abf75b3098738449aea0958822779b24.ctex"]
 
 [params]
 
@@ -24,11 +24,11 @@ compress/channel_pack=0
 mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
-roughness/src_normal=""
+roughness/src_normal="res://Assets/mk_16_16_nature_tileset_godot/tileset_mk_16_16_nature_tileset_godot.png"
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0

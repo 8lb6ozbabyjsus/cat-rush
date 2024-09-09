@@ -91,7 +91,7 @@ health_pickup_amount = 3
 [node name="ScoringPickups" type="Node" parent="." index="4"]
 
 [node name="Coin" parent="ScoringPickups" index="0" instance=ExtResource("12_r8n5s")]
-position = Vector2(328, -39)
+position = Vector2(328, -29)
 
 [node name="Player" parent="." index="5"]
 position = Vector2(40, -18)

@@ -12,7 +12,7 @@
 [ext_resource type="Texture2D" uid="uid://b8yvafsva7ny5" path="res://scenes/backgrounds/parallax_background_city_day/small_daybuilding07.png" id="10_6iuwc"]
 [ext_resource type="Texture2D" uid="uid://c8w6wpcelp8jv" path="res://scenes/backgrounds/parallax_background_city_day/small_daybuilding08.png" id="11_w0u3f"]
 [ext_resource type="Texture2D" uid="uid://b1qn4inbjq4cq" path="res://scenes/backgrounds/parallax_background_city_day/small_daybuilding09.png" id="12_0y04i"]
-[ext_resource type="Script" path="res://scripts/fg_cloud_parallax_layer.gd" id="13_drhjh"]
+[ext_resource type="Script" path="res://scenes/backgrounds/parallax_background_city_day/fg_cloud_parallax_layer.gd" id="13_drhjh"]
 [ext_resource type="Texture2D" uid="uid://bodd4m0di3bt" path="res://scenes/backgrounds/parallax_background_city_day/daytime_cloud01.png" id="14_utxj5"]
 [ext_resource type="Texture2D" uid="uid://pdkdunvteahk" path="res://scenes/backgrounds/parallax_background_city_day/daytime_cloud02.png" id="15_w3kbb"]
 [ext_resource type="Texture2D" uid="uid://blraphavakswy" path="res://scenes/backgrounds/parallax_background_city_day/daytime_cloud03.png" id="16_mae0f"]

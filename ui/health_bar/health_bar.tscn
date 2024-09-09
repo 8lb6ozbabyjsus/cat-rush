@@ -10,16 +10,16 @@ heart1 = ExtResource("2_1eh6m")
 heart0 = ExtResource("3_m50pj")
 
 [node name="Health1" type="Sprite2D" parent="."]
-position = Vector2(32, 32)
-scale = Vector2(0.5, 0.5)
+position = Vector2(24, 24)
+scale = Vector2(0.375, 0.375)
 texture = ExtResource("2_1eh6m")
 
 [node name="Health2" type="Sprite2D" parent="."]
-position = Vector2(96, 32)
-scale = Vector2(0.5, 0.5)
+position = Vector2(72, 24)
+scale = Vector2(0.375, 0.375)
 texture = ExtResource("2_1eh6m")
 
 [node name="Health3" type="Sprite2D" parent="."]
-position = Vector2(160, 32)
-scale = Vector2(0.5, 0.5)
+position = Vector2(120, 24)
+scale = Vector2(0.375, 0.375)
 texture = ExtResource("2_1eh6m")

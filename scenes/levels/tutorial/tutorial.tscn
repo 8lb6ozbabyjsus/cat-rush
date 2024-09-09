@@ -1,4 +1,4 @@
-[gd_scene load_steps=20 format=4 uid="uid://cgflags2qkaqk"]
+[gd_scene load_steps=23 format=4 uid="uid://cgflags2qkaqk"]
 
 [ext_resource type="PackedScene" uid="uid://dtuqd5vhs02hq" path="res://scenes/levels/base_level.tscn" id="1_uuclo"]
 [ext_resource type="PackedScene" uid="uid://c0vrjl7hny7ab" path="res://scenes/backgrounds/parallax_background_city_day/parallax_background_city_day.tscn" id="2_es5dq"]
@@ -15,7 +15,8 @@
 [ext_resource type="PackedScene" uid="uid://c0kklskedq8pl" path="res://scenes/pickups/health_pickups/health_pickup_1.tscn" id="10_843xr"]
 [ext_resource type="PackedScene" uid="uid://dfgs87qd4jlv6" path="res://scenes/enemies/dogs/enemy_dog.tscn" id="11_e3tm8"]
 [ext_resource type="PackedScene" uid="uid://daym2yy6nodt2" path="res://scenes/pickups/health_pickups/health_pickup_3.tscn" id="11_hd0p1"]
-[ext_resource type="PackedScene" uid="uid://b3vfrixmxyn7t" path="res://ui/health_bar/game_screen.tscn" id="14_d71he"]
+[ext_resource type="PackedScene" uid="uid://b7o8appxul7dp" path="res://scenes/pickups/scoring_pickups/coin/coin.tscn" id="12_r8n5s"]
+[ext_resource type="PackedScene" uid="uid://b3vfrixmxyn7t" path="res://ui/game_screen.tscn" id="14_d71he"]
 [ext_resource type="Script" path="res://scenes/levels/tutorial/health_label.gd" id="16_q2lt7"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_4vbbf"]
@@ -33,6 +34,20 @@ shader_parameter/time_scale = 3.0
 line_spacing = 5.0
 font = ExtResource("5_255nv")
 font_size = 15
+font_color = Color(1, 1, 1, 0)
+outline_color = Color(0, 0, 0, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_cfep0"]
+line_spacing = 5.0
+font = ExtResource("5_255nv")
+font_size = 8
+font_color = Color(1, 1, 1, 0)
+outline_color = Color(0, 0, 0, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_5g7yd"]
+line_spacing = 5.0
+font = ExtResource("5_255nv")
+font_size = 8
 font_color = Color(1, 1, 1, 0)
 outline_color = Color(0, 0, 0, 1)
 
@@ -67,16 +82,21 @@ tile_map_data = PackedByteArray("AAAAAP//AQANAAgAAAABAP//AQANAAgAAAACAP//AQANAAg
 [node name="Pickups" type="Node" parent="." index="3"]
 
 [node name="HealthPickup1" parent="Pickups" index="0" instance=ExtResource("10_843xr")]
-position = Vector2(507, -145)
+position = Vector2(497, -142)
 
 [node name="HealthPickup3" parent="Pickups" index="1" instance=ExtResource("11_hd0p1")]
-position = Vector2(1092, -125)
+position = Vector2(1089, -135)
 health_pickup_amount = 3
 
-[node name="Player" parent="." index="4"]
+[node name="ScoringPickups" type="Node" parent="." index="4"]
+
+[node name="Coin" parent="ScoringPickups" index="0" instance=ExtResource("12_r8n5s")]
+position = Vector2(328, -39)
+
+[node name="Player" parent="." index="5"]
 position = Vector2(40, -18)
 
-[node name="Enemies" type="Node" parent="." index="6"]
+[node name="Enemies" type="Node" parent="." index="7"]
 
 [node name="Crow1" parent="Enemies" index="0" node_paths=PackedStringArray("patrol_points") instance=ExtResource("3_0yy84")]
 position = Vector2(693, -146)
@@ -107,7 +127,7 @@ position = Vector2(-80, 0)
 [node name="EnemyDog" parent="Enemies" index="2" instance=ExtResource("11_e3tm8")]
 position = Vector2(2221, -18)
 
-[node name="TutorialLabels" type="Control" parent="." index="7"]
+[node name="TutorialLabels" type="Control" parent="." index="8"]
 layout_mode = 3
 anchors_preset = 0
 offset_left = -20.0
@@ -160,17 +180,17 @@ layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_left = 481.0
-offset_top = -217.0
-offset_right = 541.0
-offset_bottom = -232.0
+offset_left = 487.0
+offset_top = -180.0
+offset_right = 516.0
+offset_bottom = -208.0
 grow_horizontal = 2
 grow_vertical = 2
 size_flags_horizontal = 3
 size_flags_vertical = 3
 text = "Health +1
 "
-label_settings = SubResource("LabelSettings_dys5w")
+label_settings = SubResource("LabelSettings_cfep0")
 horizontal_alignment = 1
 script = ExtResource("16_q2lt7")
 
@@ -181,16 +201,16 @@ layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_left = 1056.0
-offset_top = -224.0
-offset_right = 1139.0
-offset_bottom = -239.0
+offset_left = 1072.0
+offset_top = -186.0
+offset_right = 1112.0
+offset_bottom = -214.0
 grow_horizontal = 2
 grow_vertical = 2
 size_flags_horizontal = 3
 size_flags_vertical = 3
 text = "Health +3"
-label_settings = SubResource("LabelSettings_dys5w")
+label_settings = SubResource("LabelSettings_5g7yd")
 horizontal_alignment = 1
 script = ExtResource("16_q2lt7")
 
@@ -259,7 +279,7 @@ to sneak"
 label_settings = SubResource("LabelSettings_dys5w")
 horizontal_alignment = 1
 
-[node name="GameScreen" parent="." index="8" instance=ExtResource("14_d71he")]
+[node name="GameScreen" parent="." index="9" instance=ExtResource("14_d71he")]
 
 [connection signal="tree_exited" from="Pickups/HealthPickup1" to="TutorialLabels/health_label_1" method="_on_health_pickup_1_tree_exited"]
 [connection signal="tree_exited" from="Pickups/HealthPickup3" to="TutorialLabels/health_label_2" method="_on_health_pickup_3_tree_exited"]

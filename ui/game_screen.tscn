@@ -1,0 +1,55 @@
+[gd_scene load_steps=6 format=3 uid="uid://b3vfrixmxyn7t"]
+
+[ext_resource type="PackedScene" uid="uid://bjwqcbx7ohbxj" path="res://ui/health_bar/health_bar.tscn" id="1_p3uxd"]
+[ext_resource type="Script" path="res://ui/game_screen.gd" id="1_v3sxh"]
+[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://asset_repo/fonts/Early GameBoy.ttf" id="2_goh5o"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_g2kai"]
+font = ExtResource("2_goh5o")
+font_size = 11
+outline_size = 4
+outline_color = Color(0, 0, 0, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_7dxgv"]
+font = ExtResource("2_goh5o")
+font_size = 13
+outline_size = 4
+outline_color = Color(0, 0, 0, 1)
+
+[node name="GameScreen" type="CanvasLayer"]
+script = ExtResource("1_v3sxh")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+offset_right = 40.0
+offset_bottom = 40.0
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+custom_minimum_size = Vector2(0, 69)
+layout_mode = 2
+
+[node name="Control" type="Control" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="HealthBar" parent="MarginContainer/VBoxContainer/Control" instance=ExtResource("1_p3uxd")]
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "   Score:"
+label_settings = SubResource("LabelSettings_g2kai")
+
+[node name="Score" type="Label" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "0"
+label_settings = SubResource("LabelSettings_7dxgv")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_right = 40.0
+offset_bottom = 40.0

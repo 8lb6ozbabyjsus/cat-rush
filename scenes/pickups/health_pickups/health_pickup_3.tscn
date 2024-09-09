@@ -17,8 +17,8 @@ emission_sphere_radius = 17.38
 angular_velocity_min = -720.0
 angular_velocity_max = -476.82
 gravity = Vector3(0, -150, 0)
-scale_min = 0.05
-scale_max = 0.07
+scale_min = 0.03
+scale_max = 0.06
 color_ramp = SubResource("GradientTexture1D_1p6pp")
 turbulence_noise_strength = 20.0
 turbulence_influence_min = 0.0
@@ -27,15 +27,15 @@ turbulence_initial_displacement_min = 1.49012e-06
 turbulence_initial_displacement_max = 1.49012e-06
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_xa1xm"]
-radius = 17.0
-height = 56.0
+radius = 8.0
+height = 28.0
 
 [node name="HealthPickup1" type="Node2D"]
-position = Vector2(0, 14)
 script = ExtResource("1_0uuam")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(0, -32)
+position = Vector2(0, -11)
+scale = Vector2(0.5, 0.5)
 texture = ExtResource("2_4n4go")
 
 [node name="GPUParticles2D" type="GPUParticles2D" parent="Sprite2D"]
@@ -49,7 +49,7 @@ collision_layer = 8
 collision_mask = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="HealthPickupBox"]
-position = Vector2(3, -34)
+position = Vector2(1, -12)
 shape = SubResource("CapsuleShape2D_xa1xm")
 debug_color = Color(0, 0.686275, 0, 0.239216)
 

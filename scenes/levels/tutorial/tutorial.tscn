@@ -96,6 +96,10 @@ position = Vector2(328, -29)
 [node name="Player" parent="." index="5"]
 position = Vector2(40, -18)
 
+[node name="PlayerCamera2D" parent="." index="6"]
+smoothing_enabled = true
+smoothing_distance = 4
+
 [node name="Enemies" type="Node" parent="." index="7"]
 
 [node name="Crow1" parent="Enemies" index="0" node_paths=PackedStringArray("patrol_points") instance=ExtResource("3_0yy84")]

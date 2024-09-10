@@ -24,12 +24,12 @@ uniform bool use_rainbow = true;
 
 void fragment() {
     vec4 pixel_color = texture(TEXTURE, UV);
-    
+
     // Outline shader logic
     if (outline_on) {
         float _width = outline_width + ((sin(TIME * width_speed) + 1.0) - 2.0) * 10.0;
         vec2 unit = (1.0 / float(pixel_size)) / vec2(textureSize(TEXTURE, 0));
-        
+
         if (pixel_color.a == 0.0) {
             pixel_color = outline_color;
             pixel_color.a = 0.0;
@@ -50,7 +50,7 @@ void fragment() {
             }
         }
     }
-    
+
     // Rainbow shader logic
     if (use_rainbow && pixel_color.a > 0.0) {
         float time = TIME * time_scale;
@@ -78,7 +78,7 @@ void fragment() {
         vec4 gradient_color = mix(color_a, color_b, fract(t));
         float pos = smoothstep((1.0 - size) + position, size + 0.0001 + position, rotated + pivot);
         vec4 rainbow_color = mix(gradient_color, second_color, pos);
-        
+
         pixel_color.rgb = rainbow_color.rgb;
     }
 

@@ -9,3 +9,7 @@ func _ready():
 func update_score(new_score: int):
 	score.text = str(new_score)
 	
+
+
+func _on_pause_button_pressed():
+	GameManager.pause_game()

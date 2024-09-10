@@ -1,0 +1,77 @@
+[gd_scene load_steps=7 format=3 uid="uid://cbbhop1ummxta"]
+
+[ext_resource type="Script" path="res://ui/main_menu/main_menu.gd" id="1_mu741"]
+[ext_resource type="Texture2D" uid="uid://bg62q5vt5ttep" path="res://ui/main_menu/main_menu_bg.png" id="2_axeev"]
+[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/ui_theme.tres" id="3_4ust0"]
+[ext_resource type="Shader" path="res://scripts/Shaders/rainbow_LtR.gdshader" id="4_7ojx6"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_sq8tx"]
+shader = ExtResource("4_7ojx6")
+shader_parameter/first_color = Vector4(0.1, 0.78, 0.75, 1)
+shader_parameter/second_color = Vector4(0.75, 1, 1, 1)
+shader_parameter/third_color = Vector4(0.1, 0.4, 0.75, 1)
+shader_parameter/fourth_color = Vector4(0.75, 1, 1, 1)
+shader_parameter/position = 7.0
+shader_parameter/size = 0.5
+shader_parameter/angle = 0.5
+shader_parameter/time_scale = 1.0
+
+[sub_resource type="LabelSettings" id="LabelSettings_kulo2"]
+line_spacing = 8.0
+font_size = 25
+font_color = Color(0.14902, 0.670588, 0.576471, 1)
+outline_size = 4
+outline_color = Color(0.233925, 0.233925, 0.233925, 1)
+
+[node name="MainMenuScreen" type="CanvasLayer"]
+process_mode = 3
+layer = 2
+script = ExtResource("1_mu741")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_axeev")
+expand_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("3_4ust0")
+
+[node name="PanelContainer" type="PanelContainer" parent="MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/PanelContainer/MarginContainer"]
+modulate = Color(0.713726, 1, 1, 1)
+layout_mode = 2
+
+[node name="Label" type="Label" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+material = SubResource("ShaderMaterial_sq8tx")
+layout_mode = 2
+text = "untitled
+cat game"
+label_settings = SubResource("LabelSettings_kulo2")
+horizontal_alignment = 1
+
+[node name="StartButton" type="Button" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "start"
+
+[node name="QuitButton" type="Button" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "quit"
+
+[connection signal="pressed" from="MarginContainer/PanelContainer/MarginContainer/VBoxContainer/StartButton" to="." method="_on_start_button_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/MarginContainer/VBoxContainer/QuitButton" to="." method="_on_quit_button_pressed"]

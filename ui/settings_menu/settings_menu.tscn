@@ -1,0 +1,93 @@
+[gd_scene load_steps=7 format=3 uid="uid://bqynk3p2pf2sh"]
+
+[ext_resource type="Script" path="res://ui/settings_menu/settings_menu.gd" id="1_271as"]
+[ext_resource type="Texture2D" uid="uid://bg62q5vt5ttep" path="res://ui/main_menu/main_menu_bg.png" id="2_mtw2o"]
+[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/ui_theme.tres" id="3_ibagr"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_mq6fy"]
+font_size = 10
+
+[sub_resource type="LabelSettings" id="LabelSettings_m6s0g"]
+font_size = 10
+
+[sub_resource type="LabelSettings" id="LabelSettings_58f7x"]
+font_size = 10
+
+[node name="SettingsMenuScreen" type="CanvasLayer"]
+process_mode = 3
+layer = 2
+script = ExtResource("1_271as")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+modulate = Color(0.713726, 1, 0.568627, 0.627451)
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_mtw2o")
+expand_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("3_ibagr")
+
+[node name="PanelContainer" type="PanelContainer" parent="MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/PanelContainer/MarginContainer"]
+modulate = Color(0.713726, 1, 1, 1)
+layout_mode = 2
+
+[node name="WindowModeButton" type="OptionButton" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="ResolutionButton" type="OptionButton" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="MasterLabel" type="Label" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Master:"
+label_settings = SubResource("LabelSettings_mq6fy")
+horizontal_alignment = 1
+
+[node name="MasterSlider" type="HSlider" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="MusicLabel" type="Label" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Music:"
+label_settings = SubResource("LabelSettings_m6s0g")
+horizontal_alignment = 1
+
+[node name="MusicSlider" type="HSlider" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="EffectsLabel" type="Label" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Effects:"
+label_settings = SubResource("LabelSettings_58f7x")
+horizontal_alignment = 1
+
+[node name="EffectsSlider" type="HSlider" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="MainMenuButton" type="Button" parent="MarginContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Main Menu"
+
+[connection signal="item_selected" from="MarginContainer/PanelContainer/MarginContainer/VBoxContainer/WindowModeButton" to="." method="_on_window_mode_button_item_selected"]
+[connection signal="item_selected" from="MarginContainer/PanelContainer/MarginContainer/VBoxContainer/ResolutionButton" to="." method="_on_resolution_button_item_selected"]
+[connection signal="value_changed" from="MarginContainer/PanelContainer/MarginContainer/VBoxContainer/MasterSlider" to="." method="_on_master_slider_value_changed"]
+[connection signal="value_changed" from="MarginContainer/PanelContainer/MarginContainer/VBoxContainer/MusicSlider" to="." method="_on_music_slider_value_changed"]
+[connection signal="value_changed" from="MarginContainer/PanelContainer/MarginContainer/VBoxContainer/EffectsSlider" to="." method="_on_effects_slider_value_changed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/MarginContainer/VBoxContainer/MainMenuButton" to="." method="_on_main_menu_button_pressed"]

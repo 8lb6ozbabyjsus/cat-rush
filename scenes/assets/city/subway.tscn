@@ -1,0 +1,29 @@
+[gd_scene load_steps=4 format=3 uid="uid://18mbs1sl0ir3"]
+
+[ext_resource type="Texture2D" uid="uid://bhjllwfuk8nhn" path="res://scenes/assets/city/subway_tiles.png" id="1_ig5xt"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_38cf7"]
+size = Vector2(150.8, 59.2)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_h38h4"]
+size = Vector2(266, 4.39998)
+
+[node name="Train" type="Sprite2D"]
+scale = Vector2(2.5, 2.5)
+texture = ExtResource("1_ig5xt")
+region_enabled = true
+region_rect = Rect2(14, 1985, 268, 63)
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(58.2, 2)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_38cf7")
+debug_color = Color(0, 0.6, 0.192157, 0.733333)
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(0.199998, -29.8)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_h38h4")
+debug_color = Color(0, 0.6, 0.192157, 0.733333)

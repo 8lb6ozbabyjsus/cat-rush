@@ -22,6 +22,7 @@ GameManager="*res://scripts/game_manager.gd"
 HealthManager="*res://scripts/health_manager.gd"
 ScoreManager="*res://scripts/score_manager.gd"
 SettingsManager="*res://scripts/settings_manager.gd"
+SceneManager="*res://scripts/scene_manager.gd"
 
 [display]
 
@@ -83,6 +84,7 @@ attack={
 2d_physics/layer_4="PICKUP"
 2d_physics/layer_5="SLIPPERY"
 2d_physics/layer_6="COLLECTIBLES"
+2d_physics/layer_7="DOORS"
 
 [rendering]
 

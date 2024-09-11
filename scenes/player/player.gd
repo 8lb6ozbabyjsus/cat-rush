@@ -20,6 +20,7 @@ var is_dead = false
 @export var jump_h_speed : int = 165
 @export var max_jump_h_speed : int = 165
 @export var landing_slow_down_speed : int = 500
+@export var jump_count : int = 1
 
 # Enum for player states
 enum state {idle, run, jump, sneak, drop, attack}
@@ -27,6 +28,7 @@ enum state {idle, run, jump, sneak, drop, attack}
 # Variable to keep track of current state
 var current_state : state
 var banana_position
+var current_jump_count : int = 0
 
 # Variables for idle animation management
 var idle_counter = 0 # Track how many times idle animation played
@@ -117,9 +119,17 @@ func player_sneak(_delta : float):
 			current_state = state.idle
 
 func player_jump(delta : float):
+	var jump_pressed : bool = Input.is_action_just_pressed("jump")
 	# Handle jump input and logic
-	if is_on_floor() and Input.is_action_just_pressed("jump"):
+	if is_on_floor() and jump_pressed:
+		current_jump_count = 0
 		velocity.y = jump_speed
+		current_jump_count += 1
+		current_state = state.jump
+
+	if !is_on_floor() and jump_pressed and current_jump_count < jump_count:
+		velocity.y = jump_speed
+		current_jump_count += 1
 		current_state = state.jump
 
 	# Allow horizontal movement in mid-air when jumping

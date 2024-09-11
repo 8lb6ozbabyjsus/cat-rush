@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhjllwfuk8nhn"
-path="res://.godot/imported/20_Subway_and_Train_Station_16x16.png-4abdb496bd6c592a8ba51431939cf8ef.ctex"
+path="res://.godot/imported/subway_tiles.png-7514001b307757a9400fa8a0971e4f9c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset_repo/exteriors/Modern_Exteriors_16x16/ME_16x16/20_Subway_and_Train_Station_16x16.png"
-dest_files=["res://.godot/imported/20_Subway_and_Train_Station_16x16.png-4abdb496bd6c592a8ba51431939cf8ef.ctex"]
+source_file="res://scenes/assets/city/subway_tiles.png"
+dest_files=["res://.godot/imported/subway_tiles.png-7514001b307757a9400fa8a0971e4f9c.ctex"]
 
 [params]
 

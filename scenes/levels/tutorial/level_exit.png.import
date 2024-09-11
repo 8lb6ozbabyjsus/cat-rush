@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://beks1gqqt0d2g"
-path="res://.godot/imported/Subway_Train_4_Door_1_Graffiti_16x16.png-fbab51600a30713c1ce595a543050ff0.ctex"
+path="res://.godot/imported/level_exit.png-ce4e16b696007b224c25ac69175cd0a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset_repo/exteriors/Modern_Exteriors_16x16/Animated_16x16/Animated_sheets_16x16/Subway_Train_4_Door_1_Graffiti_16x16.png"
-dest_files=["res://.godot/imported/Subway_Train_4_Door_1_Graffiti_16x16.png-fbab51600a30713c1ce595a543050ff0.ctex"]
+source_file="res://scenes/levels/tutorial/level_exit.png"
+dest_files=["res://.godot/imported/level_exit.png-ce4e16b696007b224c25ac69175cd0a5.ctex"]
 
 [params]
 

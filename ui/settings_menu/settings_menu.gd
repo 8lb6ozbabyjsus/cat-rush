@@ -8,15 +8,16 @@ extends CanvasLayer
 
 var window_modes : Dictionary = {
 	"Windowed" : DisplayServer.WINDOW_MODE_WINDOWED,
-	"Fullscreen" : DisplayServer.WINDOW_MODE_FULLSCREEN,
-	"Borderless" : DisplayServer.WINDOW_MODE_EXCLUSIVE_FULLSCREEN,
 	"Maximized" : DisplayServer.WINDOW_MODE_MAXIMIZED,
+	"Fullscreen" : DisplayServer.WINDOW_MODE_FULLSCREEN,
+	"Exclusive Fullscreen" : DisplayServer.WINDOW_MODE_EXCLUSIVE_FULLSCREEN,
 }
 var resolutions : Dictionary = {
+	#"320x180" : Vector2i(320, 180),
 	"480x270" : Vector2i(480, 270),
-	"640x360" : Vector2i(640, 360),
-	"800x450" : Vector2i(800, 450),
-	"960x540" : Vector2i(960, 540),
+	#"640x360" : Vector2i(960, 540),
+	#"1440x810" : Vector2i(1440, 810),
+	#"1920x1080" : Vector2i(1920, 1080),
 }
 
 var master_volume : float = 0.0

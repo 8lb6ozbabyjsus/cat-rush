@@ -1,6 +1,6 @@
 [gd_scene load_steps=22 format=3 uid="uid://gugnaw440v6i"]
 
-[ext_resource type="Script" path="res://scenes/levels/tutorial/level_exit.gd" id="1_tm7bq"]
+[ext_resource type="Script" path="res://scenes/levels/tutorial/tutorial_level_exit.gd" id="1_tm7bq"]
 [ext_resource type="Texture2D" uid="uid://beks1gqqt0d2g" path="res://scenes/levels/tutorial/level_exit.png" id="2_dypr8"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_yrhtd"]
@@ -132,7 +132,7 @@ animations = [{
 size = Vector2(1.5, 31.5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_l1tvi"]
-size = Vector2(37, 31.5)
+size = Vector2(76.5, 31.5)
 
 [node name="LevelExit" type="Node2D"]
 position = Vector2(32, -30)
@@ -160,7 +160,7 @@ collision_layer = 64
 collision_mask = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="AnimationArea2D"]
-position = Vector2(-6, -0.75)
+position = Vector2(-25.75, -0.75)
 shape = SubResource("RectangleShape2D_l1tvi")
 debug_color = Color(0, 1, 0, 0.560784)
 

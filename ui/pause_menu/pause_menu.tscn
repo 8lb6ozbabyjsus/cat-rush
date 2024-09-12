@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" path="res://ui/pause_menu/pause_menu.gd" id="1_jstwt"]
 [ext_resource type="Texture2D" uid="uid://bg62q5vt5ttep" path="res://ui/main_menu/main_menu_bg.png" id="2_b0u4t"]
-[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/ui_theme.tres" id="3_e0hcf"]
+[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/themes/ui_theme.tres" id="3_e0hcf"]
 
 [node name="PauseMenuScreen" type="CanvasLayer"]
 process_mode = 3

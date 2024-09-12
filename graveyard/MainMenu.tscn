@@ -1,6 +1,6 @@
 [gd_scene load_steps=12 format=4 uid="uid://j83qsn00lc22"]
 
-[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/ui_theme.tres" id="1_1q2rf"]
+[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/themes/ui_theme.tres" id="1_1q2rf"]
 [ext_resource type="Script" path="res://graveyard/root_main.gd" id="2_6linr"]
 [ext_resource type="TileSet" uid="uid://wbj28mmnlryf" path="res://graveyard/tileset_mk_16_16_nature_tileset_godot.tres" id="3_cqbhx"]
 [ext_resource type="Script" path="res://graveyard/CloudMovement.gd" id="4_p8g0w"]

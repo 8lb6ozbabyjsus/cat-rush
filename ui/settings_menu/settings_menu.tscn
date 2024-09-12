@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" path="res://ui/settings_menu/settings_menu.gd" id="1_271as"]
 [ext_resource type="Texture2D" uid="uid://bg62q5vt5ttep" path="res://ui/main_menu/main_menu_bg.png" id="2_mtw2o"]
-[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/ui_theme.tres" id="3_ibagr"]
+[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/themes/ui_theme.tres" id="3_ibagr"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_mq6fy"]
 font_size = 10

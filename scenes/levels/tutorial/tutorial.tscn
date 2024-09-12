@@ -16,7 +16,7 @@
 [ext_resource type="PackedScene" uid="uid://c0kklskedq8pl" path="res://scenes/pickups/health_pickups/health_pickup_1.tscn" id="10_843xr"]
 [ext_resource type="PackedScene" uid="uid://daym2yy6nodt2" path="res://scenes/pickups/health_pickups/health_pickup_3.tscn" id="11_hd0p1"]
 [ext_resource type="PackedScene" uid="uid://b7o8appxul7dp" path="res://scenes/pickups/scoring_pickups/coin/coin.tscn" id="12_r8n5s"]
-[ext_resource type="PackedScene" uid="uid://b3vfrixmxyn7t" path="res://ui/game_screen.tscn" id="14_d71he"]
+[ext_resource type="PackedScene" uid="uid://b3vfrixmxyn7t" path="res://ui/game_screen/game_screen.tscn" id="14_d71he"]
 [ext_resource type="PackedScene" uid="uid://d3huktgatjb5y" path="res://scenes/pickups/scoring_pickups/gold/gold.tscn" id="15_vfb4t"]
 [ext_resource type="Script" path="res://scenes/levels/tutorial/health_label.gd" id="16_q2lt7"]
 

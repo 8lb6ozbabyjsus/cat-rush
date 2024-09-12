@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" path="res://ui/main_menu/main_menu.gd" id="1_mu741"]
 [ext_resource type="Texture2D" uid="uid://bg62q5vt5ttep" path="res://ui/main_menu/main_menu_bg.png" id="2_axeev"]
-[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/ui_theme.tres" id="3_4ust0"]
+[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/themes/ui_theme.tres" id="3_4ust0"]
 [ext_resource type="Shader" path="res://scripts/Shaders/rainbow_LtR.gdshader" id="4_7ojx6"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_sq8tx"]

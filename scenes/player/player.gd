@@ -132,6 +132,9 @@ func player_jump(delta : float):
 		current_jump_count += 1
 		current_state = state.jump
 
+	if InventoryManager.has_item("double_jump"):
+		jump_count = 2
+
 	# Allow horizontal movement in mid-air when jumping
 	if !is_on_floor() and current_state == state.jump:
 		var direction = input_movement() 

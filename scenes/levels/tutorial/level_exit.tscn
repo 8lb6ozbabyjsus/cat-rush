@@ -1,4 +1,4 @@
-[gd_scene load_steps=21 format=3 uid="uid://gugnaw440v6i"]
+[gd_scene load_steps=22 format=3 uid="uid://gugnaw440v6i"]
 
 [ext_resource type="Script" path="res://scenes/levels/tutorial/level_exit.gd" id="1_tm7bq"]
 [ext_resource type="Texture2D" uid="uid://beks1gqqt0d2g" path="res://scenes/levels/tutorial/level_exit.png" id="2_dypr8"]
@@ -96,7 +96,7 @@ animations = [{
 }],
 "loop": false,
 "name": &"close",
-"speed": 5.0
+"speed": 8.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -129,15 +129,20 @@ animations = [{
 }]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_sicne"]
-size = Vector2(1.5, 27.5)
+size = Vector2(1.5, 31.5)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_l1tvi"]
+size = Vector2(37, 31.5)
 
 [node name="LevelExit" type="Node2D"]
+position = Vector2(32, -30)
 scale = Vector2(2, 2)
 script = ExtResource("1_tm7bq")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_ju88m")
-animation = &"open"
+animation = &"close"
+autoplay = "close"
 frame = 7
 frame_progress = 1.0
 
@@ -146,8 +151,19 @@ collision_layer = 64
 collision_mask = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="ExitArea2D"]
-position = Vector2(13.25, 0.75)
+position = Vector2(13.25, -0.75)
 shape = SubResource("RectangleShape2D_sicne")
 debug_color = Color(0.611837, 0.538242, 0, 0.42)
 
+[node name="AnimationArea2D" type="Area2D" parent="."]
+collision_layer = 64
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AnimationArea2D"]
+position = Vector2(-6, -0.75)
+shape = SubResource("RectangleShape2D_l1tvi")
+debug_color = Color(0, 1, 0, 0.560784)
+
 [connection signal="body_entered" from="ExitArea2D" to="." method="_on_exit_area_2d_body_entered"]
+[connection signal="body_entered" from="AnimationArea2D" to="." method="_on_animation_area_2d_body_entered"]
+[connection signal="body_exited" from="AnimationArea2D" to="." method="_on_animation_area_2d_body_exited"]

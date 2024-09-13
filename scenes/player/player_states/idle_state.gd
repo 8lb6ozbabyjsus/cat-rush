@@ -30,7 +30,6 @@ func on_physics_process(delta: float):
 
 	character_body_2d.move_and_slide()
 
-
 	#state change #
  
 	#fall state

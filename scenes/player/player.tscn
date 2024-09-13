@@ -1,4 +1,4 @@
-[gd_scene load_steps=197 format=3 uid="uid://dmqlhl07ehp8i"]
+[gd_scene load_steps=198 format=3 uid="uid://dmqlhl07ehp8i"]
 
 [ext_resource type="Script" path="res://scenes/player/player.gd" id="1_2dfr7"]
 [ext_resource type="Texture2D" uid="uid://eivydd8qa46b" path="res://scenes/assets/characters/cats/bananacat.png" id="2_5diyk"]
@@ -29,6 +29,7 @@
 [ext_resource type="Script" path="res://scenes/player/player_states/attack_up_state.gd" id="26_f02k3"]
 [ext_resource type="Script" path="res://scenes/player/player_states/attack_sneak_state.gd" id="27_61kaq"]
 [ext_resource type="Script" path="res://scenes/player/player_states/attack_run_state.gd" id="29_6edgh"]
+[ext_resource type="Script" path="res://scenes/player/player_states/shoot_wall_state.gd" id="30_gvkck"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_48vow"]
 shader = ExtResource("2_peetg")
@@ -247,13 +248,13 @@ region = Rect2(240, 0, 40, 40)
 atlas = ExtResource("4_6s0kd")
 region = Rect2(280, 0, 40, 40)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_xwk37"]
-atlas = ExtResource("5_5ypdq")
-region = Rect2(0, 0, 40, 40)
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_oltip"]
 atlas = ExtResource("5_5ypdq")
 region = Rect2(40, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xwk37"]
+atlas = ExtResource("5_5ypdq")
+region = Rect2(0, 0, 40, 40)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_fbvou"]
 atlas = ExtResource("5_5ypdq")
@@ -880,10 +881,10 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_xwk37")
+"texture": SubResource("AtlasTexture_oltip")
 }, {
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_oltip")
+"texture": SubResource("AtlasTexture_xwk37")
 }, {
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_fbvou")
@@ -1304,7 +1305,7 @@ script = ExtResource("1_2dfr7")
 material = SubResource("ShaderMaterial_48vow")
 position = Vector2(0, -13)
 sprite_frames = SubResource("SpriteFrames_funec")
-animation = &"attack_run"
+animation = &"cling_attack"
 autoplay = "idle"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
@@ -1379,6 +1380,12 @@ banana_cananon = NodePath("../../BananaCananon")
 
 [node name="AttackRun" type="Node" parent="StateMachine" node_paths=PackedStringArray("character_body_2d", "animated_sprite_2d", "banana_cananon")]
 script = ExtResource("29_6edgh")
+character_body_2d = NodePath("../..")
+animated_sprite_2d = NodePath("../../AnimatedSprite2D")
+banana_cananon = NodePath("../../BananaCananon")
+
+[node name="AttackWall" type="Node" parent="StateMachine" node_paths=PackedStringArray("character_body_2d", "animated_sprite_2d", "banana_cananon")]
+script = ExtResource("30_gvkck")
 character_body_2d = NodePath("../..")
 animated_sprite_2d = NodePath("../../AnimatedSprite2D")
 banana_cananon = NodePath("../../BananaCananon")

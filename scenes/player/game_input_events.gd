@@ -34,10 +34,6 @@ static func wall_cling_input() -> bool:
 	var wall_cling_input : bool = Input.is_action_pressed("wall_cling")
 	return wall_cling_input
 
-static func wall_cling_attack_input() -> bool:
-	var wall_cling_input : bool = Input.is_action_pressed("wall_cling")
-	var attack_input : bool = Input.is_action_just_pressed("attack")
-	return wall_cling_input and attack_input    
 
 static func interact_input() -> bool:
 	var interact_input : bool = Input.is_action_just_pressed("interact")

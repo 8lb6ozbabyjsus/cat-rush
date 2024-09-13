@@ -5,9 +5,13 @@ var impact_effect = preload("res://scenes/player/weapons/banana/banana_impact_ef
 var speed : int = 200
 var direction : int
 var damage_amount : int = 1
+var move_x_direction : bool
 
 func _physics_process(delta):
-	move_local_x(direction * speed * delta)
+	if move_x_direction:
+		move_local_x(direction * speed * delta)
+	else:
+		move_local_y(direction * speed * delta)
 
 func _on_timer_timeout():
 	queue_free()

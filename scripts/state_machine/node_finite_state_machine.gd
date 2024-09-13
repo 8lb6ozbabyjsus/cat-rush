@@ -11,6 +11,7 @@ func _ready():
 	for child in get_children():
 		if child is NodeState:
 			node_states[child.name.to_lower()] = child
+			child.state_changed.connect(transition_to)
 
 	if initial_state:
 		initial_state.enter()
@@ -24,14 +25,14 @@ func _physics_process(delta):
 	if current_state:
 		current_state.on_physics_process(delta)
 
-	#print("current state: ", current_state.name.to_lower())
+	print("current state: ", current_state.name.to_lower())
 
 
 func transition_to(node_state : String):
-	if not node_states.has(node_state):
+	if node_state == current_state.name.to_lower():
 		return
 
-	var new_state = node_states[node_state]
+	var new_state = node_states.get(node_state.to_lower())
 
 	if !new_state:
 		return

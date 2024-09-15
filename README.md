@@ -12,11 +12,11 @@ Cat Rush is an exciting 2D platformer game developed in Godot 4.x using GDScript
 - Responsive controls for running, jumping, dashing, and attacking
 
 ## Controls
-
+these probably are no longer accurate
 - Move Left: A or Left Arrow
 - Move Right: D or Right Arrow
 - Jump: W, Up Arrow, or Right Mouse Button
-- Dash: S, Down Arrow, or Shift
+- Dash: S or Shift
 - Attack: Left Mouse Button or J
 
 ## Installation

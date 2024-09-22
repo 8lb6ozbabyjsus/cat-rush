@@ -32,3 +32,15 @@ func _on_hurtbox_body_entered(body : Node2D):
 		HealthManager.take_damage(body.damage_amount)
 		if HealthManager.current_health <= 0:
 			player_death()
+
+
+func _on_hurtbox_area_entered(area: Area2D):
+	if area.is_in_group("Enemy") and !is_dead:
+		var damage_amount = area.get_parent().damage_amount
+		print("Hurt: ", damage_amount)
+		
+		animated_sprite_2d.play("damage")
+		HealthManager.take_damage(damage_amount)
+		if HealthManager.current_health <= 0:
+			player_death()
+	pass # Replace with function body.

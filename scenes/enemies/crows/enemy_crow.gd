@@ -12,6 +12,7 @@ extends CharacterBody2D
 # @export var health_manager : Node
 @export var damage_amount : int = 1
 @export var health : int = 1
+@onready var starting_health = health
 
 enum state {idle, move}
 var current_state = state.idle
@@ -124,6 +125,7 @@ func _on_hurtbox_area_entered(area : Area2D):
 		print("health: ", health)
 		if health <= 0:
 			enemy_death()
+			ScoreManager.add_enemies_killed(starting_health)
 
 func enemy_death():
 	var enemy_death_animation_instance = enemy_death_animation.instantiate() as Node2D

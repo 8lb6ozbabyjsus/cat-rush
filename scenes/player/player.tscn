@@ -1305,7 +1305,7 @@ script = ExtResource("1_2dfr7")
 material = SubResource("ShaderMaterial_48vow")
 position = Vector2(0, -13)
 sprite_frames = SubResource("SpriteFrames_funec")
-animation = &"cling_attack"
+animation = &"idle_blink"
 autoplay = "idle"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
@@ -1390,4 +1390,5 @@ character_body_2d = NodePath("../..")
 animated_sprite_2d = NodePath("../../AnimatedSprite2D")
 banana_cananon = NodePath("../../BananaCananon")
 
+[connection signal="area_entered" from="Hurtbox" to="." method="_on_hurtbox_area_entered"]
 [connection signal="body_entered" from="Hurtbox" to="." method="_on_hurtbox_body_entered"]

@@ -1,4 +1,4 @@
-[gd_scene load_steps=21 format=3 uid="uid://cx6hyjsuond68"]
+[gd_scene load_steps=22 format=3 uid="uid://cx6hyjsuond68"]
 
 [ext_resource type="Script" path="res://scenes/enemies/crows/enemy_crow.gd" id="1_2lu3f"]
 [ext_resource type="Texture2D" uid="uid://cu634jrijt1j5" path="res://scenes/assets/characters/crow/crowpack_spritesheets/crow_fly_strip6.png" id="2_ljmdd"]
@@ -123,6 +123,10 @@ height = 28.0
 radius = 9.0
 height = 32.0
 
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_o7pq1"]
+radius = 3.0
+height = 26.0
+
 [node name="EnemyCrow" type="CharacterBody2D" groups=["Enemy"]]
 collision_layer = 4
 collision_mask = 3
@@ -139,6 +143,7 @@ flip_h = true
 position = Vector2(-1, -15)
 rotation = -1.56886
 shape = SubResource("CapsuleShape2D_5rcgb")
+disabled = true
 debug_color = Color(0.898039, 0.654902, 0.333333, 0.466667)
 
 [node name="Timer" type="Timer" parent="."]
@@ -155,6 +160,15 @@ position = Vector2(14.9666, -1.41437)
 rotation = -0.0280523
 shape = SubResource("CapsuleShape2D_ffufj")
 debug_color = Color(0.886275, 0.133333, 0.133333, 0.466667)
+
+[node name="Hitbox" type="Area2D" parent="." groups=["Enemy"]]
+collision_layer = 4
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Hitbox"]
+position = Vector2(0, -16)
+rotation = 1.5708
+shape = SubResource("CapsuleShape2D_o7pq1")
 
 [connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
 [connection signal="area_entered" from="Hurtbox" to="." method="_on_hurtbox_area_entered"]

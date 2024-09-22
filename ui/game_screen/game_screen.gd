@@ -5,6 +5,7 @@ extends CanvasLayer
 
 func _ready():
 	ScoreManager.score_changed.connect(update_score)
+	update_score(ScoreManager.total_score)
 
 func update_score(new_score: int):
 	score.text = str(new_score)

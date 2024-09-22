@@ -1,9 +1,10 @@
-[gd_scene load_steps=7 format=3 uid="uid://b3vfrixmxyn7t"]
+[gd_scene load_steps=8 format=3 uid="uid://b3vfrixmxyn7t"]
 
 [ext_resource type="PackedScene" uid="uid://bjwqcbx7ohbxj" path="res://ui/health_bar/health_bar.tscn" id="1_p3uxd"]
 [ext_resource type="Script" path="res://ui/game_screen/game_screen.gd" id="1_v3sxh"]
 [ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://asset_repo/fonts/Early GameBoy.ttf" id="2_goh5o"]
 [ext_resource type="Texture2D" uid="uid://7wwygxyhlq75" path="res://ui/pause_menu/pause_button.png" id="4_kryd1"]
+[ext_resource type="PackedScene" uid="uid://cq7fb53ru4xux" path="res://scenes/menus/levelEndPopup/level_end_pop_up.tscn" id="5_igs2r"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_g2kai"]
 font = ExtResource("2_goh5o")
@@ -56,5 +57,7 @@ layout_mode = 2
 size_flags_horizontal = 8
 size_flags_vertical = 0
 texture_normal = ExtResource("4_kryd1")
+
+[node name="LevelEndPopUp" parent="." instance=ExtResource("5_igs2r")]
 
 [connection signal="pressed" from="MarginContainer/PauseButton" to="." method="_on_pause_button_pressed"]

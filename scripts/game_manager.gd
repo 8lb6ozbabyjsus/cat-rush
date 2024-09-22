@@ -28,3 +28,4 @@ func unpause_game():
 func main_menu_screen():
 	var menu = main_menu.instantiate()
 	get_tree().get_root().add_child(menu)
+	

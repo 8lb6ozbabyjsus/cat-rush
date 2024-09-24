@@ -5,12 +5,13 @@ static func movement_input() -> float:
 	var direction : float = Input.get_axis("move_left", "move_right")
 	return direction
 
+
 static func jump_input() -> bool:
 	var jump_input : bool = Input.is_action_just_pressed("jump") 
 	return jump_input
 
 static func attack_input() -> bool:
-	var attack_input : bool = Input.is_action_just_pressed("attack")
+	var attack_input : bool = Input.is_action_pressed("attack")
 	return attack_input
 
 static func attack_up_input() -> bool:
@@ -31,7 +32,7 @@ static func force_fall_input() -> bool:
 	return force_fall_input
 
 static func wall_cling_input() -> bool:
-	var wall_cling_input : bool = Input.is_action_pressed("wall_cling")
+	var wall_cling_input : bool = Input.is_action_just_pressed("wall_cling")
 	return wall_cling_input
 
 

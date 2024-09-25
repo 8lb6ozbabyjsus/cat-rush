@@ -4,7 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://c0vrjl7hny7ab" path="res://scenes/backgrounds/parallax_background_city_day/parallax_background_city_day.tscn" id="2_es5dq"]
 [ext_resource type="PackedScene" uid="uid://cx6hyjsuond68" path="res://scenes/enemies/crows/enemy_crow.tscn" id="3_0yy84"]
 [ext_resource type="Shader" path="res://scripts/Shaders/rainbow_LtR.gdshader" id="4_ox2q5"]
-[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://asset_repo/fonts/Early GameBoy.ttf" id="5_255nv"]
+[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://ui/themes/Early GameBoy.ttf" id="5_255nv"]
 [ext_resource type="PackedScene" uid="uid://b8rswdwwuw8lx" path="res://scenes/assets/city/market_2.tscn" id="5_rk5lf"]
 [ext_resource type="PackedScene" uid="uid://4032i2cdwi0o" path="res://scenes/assets/city/house_1.tscn" id="6_7trx2"]
 [ext_resource type="PackedScene" uid="uid://b175dd1sullww" path="res://scenes/assets/city/gym_1.tscn" id="6_8peqo"]

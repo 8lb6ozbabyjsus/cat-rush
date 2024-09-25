@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://c52hfk86xuh46" path="res://scenes/pickups/scoring_pickups/coin/coin.png" id="1_a6aqa"]
 [ext_resource type="Script" path="res://scenes/pickups/scoring_pickups/scoring_pickup_animation.gd" id="1_f3ikr"]
-[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://asset_repo/fonts/Early GameBoy.ttf" id="4_j54wl"]
+[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://ui/themes/Early GameBoy.ttf" id="4_j54wl"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_6qd8a"]
 atlas = ExtResource("1_a6aqa")

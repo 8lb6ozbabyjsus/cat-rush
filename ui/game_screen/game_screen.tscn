@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://bjwqcbx7ohbxj" path="res://ui/health_bar/health_bar.tscn" id="1_p3uxd"]
 [ext_resource type="Script" path="res://ui/game_screen/game_screen.gd" id="1_v3sxh"]
-[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://asset_repo/fonts/Early GameBoy.ttf" id="2_goh5o"]
+[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://ui/themes/Early GameBoy.ttf" id="2_goh5o"]
 [ext_resource type="Texture2D" uid="uid://7wwygxyhlq75" path="res://ui/pause_menu/pause_button.png" id="4_kryd1"]
 [ext_resource type="PackedScene" uid="uid://cq7fb53ru4xux" path="res://scenes/menus/levelEndPopup/level_end_pop_up.tscn" id="5_igs2r"]
 

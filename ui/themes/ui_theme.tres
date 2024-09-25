@@ -1,6 +1,6 @@
 [gd_resource type="Theme" load_steps=2 format=3 uid="uid://5evnrjqdgbht"]
 
-[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://asset_repo/fonts/Early GameBoy.ttf" id="1_guykg"]
+[ext_resource type="FontFile" uid="uid://dpsh60a6tgphm" path="res://ui/themes/Early GameBoy.ttf" id="1_guykg"]
 
 [resource]
 default_font = ExtResource("1_guykg")

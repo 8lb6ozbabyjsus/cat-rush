@@ -1,21 +1,15 @@
-[gd_scene load_steps=7 format=4 uid="uid://cje3rk23afx0h"]
+[gd_scene load_steps=5 format=4 uid="uid://cje3rk23afx0h"]
 
 [ext_resource type="TileSet" uid="uid://b2ynb8sd0dx7n" path="res://scenes/assets/tilemaps/base_tilemap__gamepad.tres" id="1_77aa2"]
 [ext_resource type="PackedScene" uid="uid://dmqlhl07ehp8i" path="res://scenes/player/player.tscn" id="2_8j2tb"]
-[ext_resource type="PackedScene" uid="uid://gugnaw440v6i" path="res://scenes/levels/tutorial/level_exit.tscn" id="3_ms1la"]
 [ext_resource type="Script" path="res://scenes/player/player_camera_2d.gd" id="4_y7wrr"]
 [ext_resource type="PackedScene" uid="uid://dtyob002ugr8r" path="res://scenes/pickups/powerups/double_jump/double_jump.tscn" id="5_tsmry"]
-[ext_resource type="PackedScene" uid="uid://cx6hyjsuond68" path="res://scenes/enemies/crows/enemy_crow.tscn" id="6_g33rp"]
 
 [node name="TestLevel" type="Node2D"]
 
 [node name="TileMapLayer" type="TileMapLayer" parent="."]
 tile_map_data = PackedByteArray("AAAAAAAAAQAOAAgAAAABAAAAAQAOAAgAAAACAAAAAQAOAAgAAAADAAAAAQAOAAgAAAAEAAAAAQAOAAgAAAAJAAAAAQAOAAgAAAAIAAAAAQAOAAgAAAAHAAAAAQAOAAgAAAAGAAAAAQAOAAgAAAAFAAAAAQAOAAgAAAALAAAAAQAOAAgAAAAMAAAAAQAOAAgAAAANAAAAAQAOAAgAAAAOAAAAAQAOAAgAAAAPAAAAAQAOAAgAAAAQAAAAAQAOAAgAAAAKAAAAAQAOAAgAAAARAAAAAQAOAAgAAAASAAAAAQAOAAgAAAATAAAAAQAOAAgAAAAUAAAAAQAOAAgAAAAVAAAAAQAOAAgAAAAWAAAAAQAOAAgAAAAXAAAAAQAOAAgAAAAYAAAAAQAOAAgAAAAZAAAAAQAOAAgAAAAaAAAAAQAOAAgAAAAbAAAAAQAOAAgAAAAcAAAAAQAOAAgAAAAdAAAAAQAOAAgAAAD///f/AQAOAAgAAAD///j/AQAOAAgAAAD///n/AQAOAAgAAAD///r/AQAOAAgAAAD///v/AQAOAAgAAAD///z/AQAOAAgAAAD///3/AQAOAAgAAAD///7/AQAOAAgAAAD/////AQAOAAgAAAD//wAAAQAOAAgAAAAeAPz/AQAOAAgAAAAeAP3/AQAOAAgAAAAeAP7/AQAOAAgAAAAeAP//AQAOAAgAAAAeAAAAAQAOAAgAAAAeAPv/AQAOAAgAAAAeAPr/AQAOAAgAAAAdAPn/AQAOAAgAAAAeAPn/AQAOAAgAAAAcAPn/AQAOAAgAAAAcAPr/AQAOAAgAAAAcAPv/AQAOAAgAAAAcAPz/AQAOAAgAAAAcAP3/AQAOAAgAAAAcAP7/AQAOAAgAAAAcAP//AQAOAAgAAAAdAP//AQAOAAgAAAAdAP7/AQAOAAgAAAAdAP3/AQAOAAgAAAAdAPz/AQAOAAgAAAAdAPv/AQAOAAgAAAAdAPr/AQAOAAgAAAAYAPv/AQAOAAgAAAAXAPv/AQAOAAgAAAAWAPv/AQAOAAgAAAAWAPr/AQAOAAgAAAAWAPn/AQAOAAgAAAAWAPj/AQAOAAgAAAAWAPf/AQAOAAgAAAAWAPb/AQAOAAgAAAAXAPb/AQAOAAgAAAAYAPb/AQAOAAgAAAAYAPf/AQAOAAgAAAAYAPj/AQAOAAgAAAAYAPn/AQAOAAgAAAAYAPr/AQAOAAgAAAAXAPr/AQAOAAgAAAAXAPn/AQAOAAgAAAAXAPj/AQAOAAgAAAAXAPf/AQAOAAgAAAAfAPn/AQAOAAgAAAAgAPn/AQAOAAgAAAAhAPn/AQAOAAgAAAAhAPr/AQAOAAgAAAAiAPr/AQAOAAgAAAAjAPr/AQAOAAgAAAAkAPr/AQAOAAgAAAAkAPv/AQAOAAgAAAAjAPv/AQAOAAgAAAAkAPn/AQAOAAgAAAAjAPn/AQAOAAgAAAAiAPn/AQAOAAgAAAAgAPr/AQAOAAgAAAAfAPr/AQAOAAgAAAAfAPv/AQAOAAgAAAAgAPv/AQAOAAgAAAAhAPv/AQAOAAgAAAAiAPv/AQAOAAgAAAAkAPj/AQAOAAgAAAAkAPf/AQAOAAgAAAAkAPb/AQAOAAgAAAAkAPX/AQAOAAgAAAAkAPT/AQAOAAgAAAAkAPP/AQAOAAgAAAAkAPL/AQAOAAgAAAAkAPH/AQAOAAgAAAAkAO//AQAOAAgAAAAkAPD/AQAOAAgAAAAkAO7/AQAOAAgAAAAgAPL/AQAOAAgAAAAdAPL/AQAOAAgAAAAeAPL/AQAOAAgAAAAfAPL/AQAOAAgAAAAcAPL/AQAOAAgAAAAaAPL/AQAOAAgAAAAbAPL/AQAOAAgAAAA=")
 tile_set = ExtResource("1_77aa2")
-
-[node name="LevelExit" parent="." instance=ExtResource("3_ms1la")]
-position = Vector2(317, 67)
-next_level = "Tutorial"
 
 [node name="Player" parent="." instance=ExtResource("2_8j2tb")]
 position = Vector2(50, -10)
@@ -30,7 +24,3 @@ script = ExtResource("4_y7wrr")
 
 [node name="DoubleJump" parent="." instance=ExtResource("5_tsmry")]
 position = Vector2(138, -58)
-
-[node name="EnemyCrow" parent="." node_paths=PackedStringArray("patrol_points") instance=ExtResource("6_g33rp")]
-position = Vector2(257, -100)
-patrol_points = NodePath("../LevelExit")

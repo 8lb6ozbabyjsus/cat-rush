@@ -8,7 +8,7 @@ extends CharacterBody2D
 @export var patrol_points : Node
 
 @export var speed = 1500
-@export var wait_time : int = 2
+@export var wait_time : float = 2.0
 # @export var health_manager : Node
 @export var damage_amount : int = 1
 @export var health : int = 1

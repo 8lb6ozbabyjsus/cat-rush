@@ -224,9 +224,8 @@ animated_sprite_2d = NodePath("../AnimatedSprite2D")
 script = ExtResource("4_7pb3q")
 node_finite_state_machine = NodePath("../StateMachine")
 
-[node name="StateMachine" type="Node" parent="." node_paths=PackedStringArray("initial_state")]
+[node name="StateMachine" type="Node" parent="."]
 script = ExtResource("5_7jifm")
-initial_state = NodePath("Idle")
 
 [node name="Idle" type="Node" parent="StateMachine" node_paths=PackedStringArray("character_body_2d", "animated_sprite_2d")]
 script = ExtResource("5_8kcq3")

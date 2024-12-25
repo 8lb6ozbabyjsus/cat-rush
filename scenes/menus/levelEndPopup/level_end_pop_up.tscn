@@ -1,6 +1,7 @@
-[gd_scene load_steps=7 format=3 uid="uid://cq7fb53ru4xux"]
+[gd_scene load_steps=8 format=3 uid="uid://cq7fb53ru4xux"]
 
 [ext_resource type="Script" path="res://scenes/menus/levelEndPopup/level_end_pop_up.gd" id="1_g8vh8"]
+[ext_resource type="Theme" uid="uid://5evnrjqdgbht" path="res://ui/themes/ui_theme.tres" id="2_ybrx6"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_46fdj"]
 bg_color = Color(0, 0, 0, 0.568627)
@@ -8,6 +9,8 @@ corner_radius_top_left = 4
 corner_radius_top_right = 4
 corner_radius_bottom_right = 4
 corner_radius_bottom_left = 4
+expand_margin_left = 40.0
+expand_margin_right = 40.0
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_23hwn"]
 bg_color = Color(0, 0, 0, 0.172549)
@@ -62,6 +65,8 @@ layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
+offset_left = -26.0
+offset_right = 26.0
 grow_horizontal = 2
 grow_vertical = 2
 theme_override_constants/margin_left = 20
@@ -72,6 +77,7 @@ theme_override_constants/margin_bottom = 20
 [node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/Panel/MarginContainer"]
 layout_mode = 2
 mouse_filter = 2
+theme = ExtResource("2_ybrx6")
 
 [node name="score" type="Label" parent="CenterContainer/Panel/MarginContainer/VBoxContainer"]
 layout_mode = 2
@@ -119,6 +125,7 @@ offset_top = 11.0
 offset_right = 81.0
 offset_bottom = 37.0
 grow_horizontal = 2
+theme = ExtResource("2_ybrx6")
 text = "LEVEL COMPLETED"
 label_settings = SubResource("LabelSettings_s62wp")
 horizontal_alignment = 1

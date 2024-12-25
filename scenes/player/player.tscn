@@ -1952,6 +1952,7 @@ switch_mode = 2
 advance_mode = 2
 
 [sub_resource type="AnimationNodeStateMachine" id="AnimationNodeStateMachine_n1cf6"]
+reset_ends = true
 states/End/position = Vector2(897.5, 106.812)
 states/Start/position = Vector2(150.5, 114.75)
 states/attack_run/node = SubResource("AnimationNodeAnimation_eipfy")
@@ -1974,6 +1975,10 @@ graph_offset = Vector2(-127.98, -194.343)
 [node name="Player" type="CharacterBody2D" groups=["Player"]]
 collision_layer = 2
 script = ExtResource("1_2dfr7")
+run_speed = 120
+max_run_speed = 150
+jump_horizontal_velocity = 90
+max_jump_horizontal_velocity = 110
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 visible = false
